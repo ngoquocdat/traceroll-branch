@@ -1,0 +1,105 @@
+.footer_content {
+  display: block;
+  bottom: 0;
+  background-color: #151515;
+  padding: 11% 1% 1%;
+  width: 100%; }
+  .footer_content a, .footer_content p {
+    color: #fff;
+    display: block;
+    margin-bottom: 33px;
+    font-size: 17px;
+    font-family: "AvenirNext-Regular", Helvetica;
+    line-height: 1;
+    letter-spacing: 0.3px; }
+  .footer_content a {
+    font-weight: lighter; }
+  .footer_content p {
+    font-weight: 600; }
+  .footer_content img {
+    display: inline-block;
+    margin: 5px 10px; }
+  .footer_content h3 {
+    display: inline-block;
+    margin: 5px 10px;
+    color: white;
+    font-size: 32px;
+    letter-spacing: 1px; }
+  .footer_content h4 {
+    color: #ffffff;
+    display: inline-block;
+    font-style: normal;
+    font-size: 18px;
+    margin: 1vh 4.5vw; }
+  .footer_content .footer_logo {
+    box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.16);
+    border-radius: 36px; }
+  .footer_content .product, .footer_content .company, .footer_content .resources {
+    margin: 1%;
+    width: 17%;
+    display: inline-block;
+    text-align: left; }
+  .footer_content .resources {
+    vertical-align: top; }
+  .footer_content .image-copyright {
+    display: inline-block;
+    vertical-align: top;
+    width: 32%; }
+  .footer_content .image-copyright-mobile {
+    display: none; }
+
+/* Media Queries for footer to be on one line*/
+@media only screen and (min-width: 1249px) and (max-width: 1366px) {
+  div.footer_content h4 {
+    margin: 1vh 4vw; } }
+
+@media only screen and (min-width: 1114px) and (max-width: 1248px) {
+  div.footer_content h4 {
+    margin: 1vh 3vw; } }
+
+@media only screen and (min-width: 1035px) and (max-width: 1113px) {
+  div.footer_content h4 {
+    margin: 1vh 2.8vw; } }
+
+@media only screen and (min-width: 929px) and (max-width: 1034px) {
+  div.footer_content h4 {
+    margin: 1vh 2vw; } }
+
+@media only screen and (min-width: 852px) and (max-width: 928px) {
+  div.footer_content h4 {
+    margin: 1vh 1.3vw; } }
+
+@media only screen and (max-width: 851px) {
+  div.footer_content h4 {
+    font-size: 2vw;
+    margin: 1vh 1vw; } }
+
+@media only screen and (max-width: 822px) {
+  div.footer_content a, div.footer_content p {
+    font-size: 15px;
+    line-height: 1; } }
+
+@media only screen and (max-width: 720px) {
+  div.footer_content .product, div.footer_content .company, div.footer_content .resources {
+    width: 20%; } }
+
+@media only screen and (max-width: 645px) {
+  div.footer_content {
+    padding-top: 10%; }
+    div.footer_content .footer_logo {
+      width: 75px; }
+    div.footer_content .image-copyright {
+      display: none; }
+    div.footer_content .product, div.footer_content .company, div.footer_content .resources {
+      margin: 1% 1.5% 1% 3%;
+      width: 23%; }
+    div.footer_content a, div.footer_content p {
+      font-size: 11px;
+      line-height: 0.5; }
+    div.footer_content .image-copyright-mobile {
+      display: block;
+      text-align: center; }
+      div.footer_content .image-copyright-mobile .footer_logo {
+        width: 75px; }
+      div.footer_content .image-copyright-mobile a {
+        margin-bottom: 0px; } }

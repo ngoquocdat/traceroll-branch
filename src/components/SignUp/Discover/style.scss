@@ -1,0 +1,153 @@
+/** Styling for platforms Section on the homepage **/
+@import '../../mixins.scss';
+/*overwriting wrapper css*/
+
+.platforms_wrapper2 {
+  text-align: center;
+}
+
+.platforms_content_wrapper2 {
+  display: inline-block;
+  margin-top: -10px;
+  padding: 4%;
+  text-align: left;
+  vertical-align: middle;
+  width: 42%;
+  h2.headline{
+    margin-top:0px;
+  }
+  h5{
+    line-height: 24px;
+    font-weight: normal;
+    letter-spacing: 0.5px;
+    font-size: 15px;
+    font-family: $font-stack;
+  }
+}
+
+.platform-image2, .platform-image1 {
+  height: auto;
+  display: inline-block;
+  max-width: 100%;
+}
+
+.blog {
+  font-weight: bold;
+  font-size: 18px;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.37;
+  letter-spacing: 1px;
+ // height: 40px;
+  border: none;
+  border-radius: 5px;
+  background-color: #ffffff;
+  border: solid 1px #172650;
+  color: #000000;
+  padding: 5px 10px;
+  border: solid 1px #172650;
+}
+
+#platforms {
+  .wrapper {
+    padding: 14vh 0;
+  }
+  .platforms_content_wrapper2 {
+    vertical-align: middle;
+    padding: 14vh 0;
+    padding-left: 5vw;
+  }
+
+}
+
+#platform_top {
+  display: inline-block;
+}
+
+#platform_bottom {
+  display: none;
+}
+
+#discover_small{
+    font-size: 12px;
+
+}
+
+@media only screen and (max-width: 1098px) {
+  #platform_top {
+    display: none;
+  }
+  #platform_bottom {
+    display: inline-block;
+  }
+
+  .platforms_content_wrapper2 {
+    width: 100%;
+    padding: 5vw;
+  }
+  .platform-image2,.platform-image1 {
+    padding: 0 5vw;
+  }
+  #platforms .wrapper {
+    padding: 5vh 0;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+	.platforms_content_wrapper2{
+		text-align:center;
+	}
+
+	.platform-image1{
+		display:none;
+	}
+
+
+	.platforms_content_wrapper2 h5{
+    font-weight: lighter;
+    line-height: 6.5vw;
+    font-size: 3.3vw;
+    font-family: sans-serif;
+	}
+
+	 .platforms_content_wrapper2 {
+    padding: 0;
+    .platform-image2{
+      height: 525px;
+    }
+  }
+
+ .blog {
+  font-weight: bold;
+  font-size: inherit;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.37;
+  letter-spacing: 1px;
+  border: none;
+  border-radius: 5px;
+  background-color: #ffffff;
+  border: solid 1px #172650;
+  color: #000000;
+  padding: 5px 10px;
+  border: solid 1px #172650;
+}
+
+ .platforms_content_wrapper2{
+ 	p{
+ 		margin-bottom:0;
+ 	}
+
+	 h5{
+	 	margin:0;
+	 }
+ }
+
+	#platforms {
+	  .platforms_content_wrapper2 {
+	    padding: 5vh 0 10vh;
+	  }
+
+	}
+
+}

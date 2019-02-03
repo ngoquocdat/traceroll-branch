@@ -1,0 +1,124 @@
+<script src="https://cdn.rawgit.com/konvajs/konva/1.7.3/konva.min.js"></script>
+<div id="container"></div>
+<script>
+    var stage = new Konva.Stage({
+        container: 'container',
+        width: window.innerWidth,
+        height: window.innerHeight
+    });
+
+    ///////////////////////////////
+    var profile = {
+        x: 300,
+        y: 300,
+        width: 200,
+        height: 200
+    },
+    fontSize = 24;
+     
+    function drawText (ctx) {
+        var text = 'Hello world Hello\nworld Hello world';
+        ctx.font = fontSize + 'px sans-serif';
+        ctx.textAlign = 'center';
+        var metrics = ctx.measureText(text);
+        ctx.fillText(text, profile.x + profile.width / 2, fontSize + profile.y + profile.height);
+    }
+
+    var layer = new Konva.Layer();
+    var imageObj = new Image();
+    var frame;
+    imageObj.onload = function() {
+        var params = [
+            imageObj,
+            0,
+            0,
+            imageObj.width,
+            imageObj.height,
+            profile.x,
+            profile.y,
+            profile.width,
+            profile.height
+          ];
+
+        var shape = new Konva.Shape({
+            sceneFunc: function(context) {
+
+                context.save();
+                context.beginPath();
+                context.arc(profile.x + profile.width / 2, profile.y + profile.height / 2, profile.width / 2, 0, 2 * Math.PI, false);
+                context.clip();
+
+                context.shadowInset = false;
+                context.shadowColor = 'black';
+                context.strokeStyle = "rgba(0,0,0,1)";
+                context.shadowBlur = 30;
+                context.shadowOffsetX = 10;
+                context.shadowOffsetY = 10;
+
+                context.drawImage.apply(context, params);
+                context.stroke();
+                
+                context.restore();
+                drawText(context);
+            },
+            hitFunc: function(context) {
+                context.beginPath();
+                context.arc(profile.x + profile.width / 2, profile.y + profile.height / 2, profile.width / 2, 0, 2 * Math.PI, false);
+                context.closePath();
+                context.fillStrokeShape(this);
+            }
+        })
+        shape.on('click', function (argument) {
+            console.log('click');
+        })
+
+
+        layer.add(shape);
+        frame = new Konva.Rect({
+            x: profile.x,
+            y: profile.y,
+            width: profile.width,
+            height: profile.height + fontSize,
+            stroke: 'red',
+            listening: false
+        });
+        frame.on('aa', function () {
+            console.log('frame click');
+        })
+        layer.add(frame)
+        layer.batchDraw();
+    };
+
+    imageObj.src = './img/tools/no-profile-picture-icon.jpeg';
+
+
+    var rect = new Konva.Rect({
+        x: 10,
+        y: 10,
+        width: 200,
+        height: 100,
+        fill: 'red',
+        draggable: true,
+        dragBoundFunc: function(pos) {
+            var newY = pos.y < 50 ? 50 : pos.y;
+            return {
+                x: pos.x,
+                y: newY
+            };
+        },
+        onremove: function (argument) {
+            console.log('onremove');
+        }
+    })
+    rect.on('showAlert', function (argument) {
+        console.log('showalert');
+    })
+    layer.add(rect);
+
+    stage.add(layer);
+    stage.on('mousedown', function(e) {
+        console.log(e);
+    })
+
+
+</script>

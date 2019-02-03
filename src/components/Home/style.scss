@@ -1,0 +1,365 @@
+/* Stying for the home page after login*/
+@import '../mixins.scss';
+
+#home-wrapper {
+  width: 100%;
+  min-height: 100vh;
+  * {
+    box-sizing: border-box;
+  }
+  #follow-modal{
+    background-color: white;
+    border: 1px solid #e8e8e8;
+    border-radius: 3px;
+    margin: 0 auto;
+
+    h3{
+      padding: 1%;
+      margin: 2% 2% 0 2%;
+      color: #464646;
+      font-weight: bold;
+      font-size: 27px;
+    }
+
+    .following-home{
+      &.first{
+        .following-modal{
+          padding-top: 0;
+        }
+      }
+      &.last-child{
+        border-bottom: none;
+      }
+      .btn-follow{
+        font-size: 16px;
+      }
+    }
+  }
+
+  #explore-wrapper{
+    margin: 0 auto;
+    text-align: right;
+
+    #explore{
+      border-radius: 3px;
+      background-color: #3897f0;
+      padding: 5px 15px;
+      margin: 15px 25px;
+      visibility: hidden;
+      a{
+        color: white;
+        font-size: 14px;
+        font-weight: bold;
+        letter-spacing: 1px;
+      }
+    }
+  }
+
+  ul.canvaslist {
+    width: 600px;
+    margin: auto;
+    padding-top: 50px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 8px;
+    .listComments{
+      a{
+        li{
+          color: #676767;
+          margin-bottom: 0px;
+        }
+      }
+    }
+    li {
+      list-style-type: none;
+      display: block;
+      background-color: white;
+      border: 0.5px solid #eaeaea;
+      border-radius: 3px;
+      margin-top: 20px;
+      margin-bottom: 30px;
+      header {
+        height: 50px;
+        line-height: 50px;
+        a {
+          font-family: "AvenirNext-Regular", 'Roboto', Arial, sans-serif;
+          color:#676767;
+          &:hover {
+            color: #ffbb00;
+            text-decoration: none;
+          }
+          &:first-child{
+            color:#464646;
+          }
+        }
+
+      }
+      .content img {
+        width: 100%;
+        height: auto;
+      }
+      h2 {
+        color: #333;
+        margin-bottom: 20px;
+        text-align: justify;
+        word-break: break-all;
+        padding: 10px;
+        font-family: 'Poppins';
+      }
+      .canvasitem{
+        header{
+          margin: 2% 0 2%;
+          color: #676767;
+        }
+      }
+      &.noFollow{
+        background-color: transparent;
+        border: none;
+
+        .canvasitem{
+          background-color: white;
+          border-radius: 3px;
+          border: 1px solid #e8e8e8;
+          padding: 5px;
+          margin-bottom: 5%;
+          .content{
+            h1, h2{
+              text-align: center;
+              font-family: $font-stack
+            }
+            h2{
+              color: #464646;
+              font-size: 27px;
+              font-weight: bolder;
+              margin-bottom: 0;
+              margin-top: 5px;
+            }
+            img{
+              width: 300px;
+              margin: 0 auto;
+              display: block;
+            }
+          }
+        }
+      }
+    }
+  }
+  .see-all-comment{
+    color:#676767;
+  }
+}
+
+
+.interactive-zone{
+  div{
+    div{
+      &:last-child{
+        #countLikes{
+          padding: 0px;
+          color: #676767;
+        }
+        padding: 0px;
+      }
+    }
+  }
+}
+
+.no-border-radius {
+  border-radius: 0px;
+}
+
+.active-hover li {
+  &.active {
+    background-color: #ffbb00;
+    a, span {
+      color: black !important;
+      background-color: #ffbb00 !important;
+    }
+  }
+  span {
+    margin-right: 10px;
+  }
+  &:hover {
+    color: #ffbb00;
+  }
+}
+
+.homelink {
+  font-weight: bold;
+  letter-spacing: 1px;
+  span {
+    margin-right: 10px;
+  }
+  &:hover {
+    color: #ffbb00 !important;
+    * {
+      color: #ffbb00 !important;
+    }
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .home_wrapper ul {
+    width: 100%;
+    max-width: 600px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+.content-drawing .konvajs-content {
+  border: 0px !important;
+}
+
+.social-button {
+  text-align: -webkit-center;
+  border: none;
+  text-decoration: none;
+  background-color: #fff;
+  outline: none;
+}
+
+.imageCaption {
+  font-size: 1.5em;
+  margin: 10px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 95%;
+  white-space: nowrap;
+  word-break: break-all;
+  line-height: 25px;
+  max-height: 50px;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.row-align {
+  margin: 10px;
+}
+
+.align-button {
+  text-align: -webkit-center;
+}
+
+/*ADDed for navigation */
+
+.nav-avatar-container {
+  margin-right: 0.3vw;
+  a {
+    padding-bottom: 0px;
+  }
+}
+
+.nav-home-container {
+  margin-right: -6px;
+}
+
+.nav-notification-container {
+  margin-right: 2.6vw;
+}
+
+/* DCT Code*/
+
+.no-scroll {
+  overflow: hidden !important;
+}
+
+.no-fixed-top {
+  position: inherit !important;
+}
+
+.represent-image {
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    padding: 2px;
+    margin: 0 10px 0 18px !important;
+}
+
+.hamburgerMenu {
+  cursor: pointer;
+}
+
+/*End */
+/** Overwriting CSS for specific color of toolbar/nav on homepage **/
+
+#home-wrapper {
+  div.container-fluid {
+    background-color: white;
+  }
+  .glyphiconHome img {}
+}
+
+.hamburgerMenu {}
+
+#home-wrapper {
+  #search-input {
+    font-family: "AvenirNext-Regular", "Roboto";
+  }
+  .navbar {
+    border-bottom: .5px solid #e4e0e0;
+  }
+  .container-fluid {
+    background-color: white;
+  }
+}
+
+body #home-wrapper {
+  background-color: #fafafa;
+}
+
+#home-wrapper .hamburgerMenu {
+  &:hover, &:active {
+    color: black;
+  }
+}
+
+.home_wrapper .hamburgerMenu:focus {
+  color: black;
+}
+
+/*positioning of navigation only on HomePage */
+
+#home-wrapper ul.nav {
+  /*margin-left: 52%;
+  width: 55%;*/
+  min-width: 912px;
+}
+
+/* Loading code */
+.loader {
+  border: 12px solid #000;
+  border-radius: 50%;
+  border-top: 12px solid #fbc305;
+  border-right: 12px solid #172650;
+  border-bottom: 12px solid #e02228;
+  width: 35px;
+  height: 35px;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+  position: absolute;
+  left: 48%;
+  z-index: 100;
+  opacity: 1;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@media screen and (max-width:768px){
+  #home-wrapper {
+    div.container-fluid{
+      border-bottom: 0px;
+    }
+    .navbar{
+      background-color: white;
+    }
+  }
+}

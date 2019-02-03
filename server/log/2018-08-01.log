@@ -1,0 +1,232 @@
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T04:00:04.423Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T04:00:12.117Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-01T04:00:12.180Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-01T04:00:12.180Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-01T04:00:12.180Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T04:00:14.944Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-01T04:00:15.001Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-01T04:00:15.001Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-01T04:00:15.001Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T04:00:15.756Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-01T04:00:15.797Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-01T04:00:15.797Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-01T04:00:15.797Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T04:00:17.916Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T04:00:18.486Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T04:00:18.487Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-08-01T04:00:18.557Z"}
+{"level":"info","message":"Userslug: vicwu1","timestamp":"2018-08-01T04:00:18.557Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-01T04:00:18.557Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-08-01T04:00:18.561Z"}
+{"level":"info","message":"Userslug: vicwu1","timestamp":"2018-08-01T04:00:18.561Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-01T04:00:18.561Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"victor@traceroll.com\",\"firstname\":null,\"fullname\":\"Victor Wu\",\"joinDate\":1532614923335,\"lastOnline\":1533096018048,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$PJ.RtIwDuy5TOW2jUt0iPOZCK780KV2yNHtwGQCalFcYQWkvKeAYG\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5b2645b3355be02e6c924930e8f5ccce?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":2,\"username\":\"vicwu1\",\"userslug\":\"vicwu1\",\"profilePosition\":{\"x\":665,\"y\":334}}","timestamp":"2018-08-01T04:00:18.641Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T13:03:51.883Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T13:03:53.157Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T13:03:53.161Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-08-01T13:03:53.211Z"}
+{"level":"info","message":"Userslug: vicwu1","timestamp":"2018-08-01T13:03:53.211Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-01T13:03:53.211Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-08-01T13:03:53.211Z"}
+{"level":"info","message":"Userslug: vicwu1","timestamp":"2018-08-01T13:03:53.212Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-01T13:03:53.212Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"victor@traceroll.com\",\"firstname\":null,\"fullname\":\"Victor Wu\",\"joinDate\":1532614923335,\"lastOnline\":1533128632178,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$PJ.RtIwDuy5TOW2jUt0iPOZCK780KV2yNHtwGQCalFcYQWkvKeAYG\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5b2645b3355be02e6c924930e8f5ccce?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":2,\"username\":\"vicwu1\",\"userslug\":\"vicwu1\",\"profilePosition\":{\"x\":665,\"y\":334}}","timestamp":"2018-08-01T13:03:53.265Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T14:12:59.868Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T14:13:04.121Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-01T14:13:04.210Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-01T14:13:04.211Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-01T14:13:04.211Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T14:13:09.980Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T14:13:14.570Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T14:13:15.977Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T14:13:15.978Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-08-01T14:13:16.060Z"}
+{"level":"info","message":"Userslug: vicwu2","timestamp":"2018-08-01T14:13:16.061Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-01T14:13:16.061Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-08-01T14:13:16.063Z"}
+{"level":"info","message":"Userslug: vicwu2","timestamp":"2018-08-01T14:13:16.063Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-01T14:13:16.063Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"victor@traceroll.com\",\"firstname\":null,\"fullname\":\"Victor Wu\",\"joinDate\":1532618608856,\"lastOnline\":1533053828649,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$W/fDkhj47ioyth0GG5FZTOOGyPNbR/nNa2WmThBoHqJ3oPAmCm3YO\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5b2645b3355be02e6c924930e8f5ccce?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":3,\"username\":\"vicwu2\",\"userslug\":\"vicwu2\",\"profilePosition\":{\"x\":665,\"y\":334}}","timestamp":"2018-08-01T14:13:16.131Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T14:13:16.419Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T14:13:16.422Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T14:13:16.656Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-08-01T14:13:16.662Z"}
+{"level":"info","message":"Userslug: vicwu1","timestamp":"2018-08-01T14:13:16.662Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-01T14:13:16.662Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"victor@traceroll.com\",\"firstname\":null,\"fullname\":\"Victor Wu\",\"joinDate\":1532614923335,\"lastOnline\":1533132790203,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$PJ.RtIwDuy5TOW2jUt0iPOZCK780KV2yNHtwGQCalFcYQWkvKeAYG\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5b2645b3355be02e6c924930e8f5ccce?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":2,\"username\":\"vicwu1\",\"userslug\":\"vicwu1\",\"profilePosition\":{\"x\":665,\"y\":334}}","timestamp":"2018-08-01T14:13:16.727Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T14:14:14.465Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T14:14:56.337Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T14:33:36.759Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T14:38:37.848Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T14:55:31.054Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T14:55:32.833Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T14:55:40.875Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T14:55:42.298Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T14:56:11.063Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T14:56:25.887Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T14:56:28.658Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T14:56:30.332Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T15:06:44.827Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T15:11:15.524Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T15:11:17.011Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T15:12:14.237Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T15:12:51.900Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T15:13:01.951Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T15:13:03.405Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T15:20:06.424Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T15:26:30.849Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T15:26:32.311Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T15:28:22.397Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T15:30:33.289Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T15:31:32.391Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T15:31:44.547Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T15:31:46.192Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T15:36:10.080Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T15:37:45.292Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T15:38:38.544Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T15:38:39.875Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T15:38:40.965Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T15:38:42.207Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T15:38:45.626Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T15:38:46.626Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T15:38:47.712Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T15:41:17.575Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T15:45:20.302Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T15:45:32.254Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T15:45:34.152Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T15:45:35.402Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T15:45:37.967Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T15:46:49.201Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T15:51:51.206Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-01T15:51:51.283Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-01T15:51:51.283Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-01T15:51:51.283Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T15:58:57.505Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T15:59:19.590Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T15:59:19.667Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T15:59:26.757Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T15:59:28.468Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T15:59:33.790Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T15:59:33.791Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-08-01T15:59:34.069Z"}
+{"level":"info","message":"Userslug: vicwu1","timestamp":"2018-08-01T15:59:34.069Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-01T15:59:34.069Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-08-01T15:59:34.070Z"}
+{"level":"info","message":"Userslug: vicwu1","timestamp":"2018-08-01T15:59:34.070Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-01T15:59:34.070Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"victor@traceroll.com\",\"firstname\":null,\"fullname\":\"Victor Wu\",\"joinDate\":1532614923335,\"lastOnline\":1533139137773,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$PJ.RtIwDuy5TOW2jUt0iPOZCK780KV2yNHtwGQCalFcYQWkvKeAYG\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5b2645b3355be02e6c924930e8f5ccce?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":2,\"username\":\"vicwu1\",\"userslug\":\"vicwu1\",\"profilePosition\":{\"x\":665,\"y\":334}}","timestamp":"2018-08-01T15:59:34.286Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T15:59:39.991Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T15:59:41.147Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-01T15:59:41.480Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-01T15:59:41.480Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-01T15:59:41.480Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T15:59:56.210Z"}
+{"uid":3,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T15:59:56.585Z"}
+{"uid":3,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T15:59:56.586Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-08-01T15:59:56.669Z"}
+{"level":"info","message":"Userslug: vicwu2","timestamp":"2018-08-01T15:59:56.669Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-01T15:59:56.669Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-08-01T15:59:56.670Z"}
+{"level":"info","message":"Userslug: vicwu2","timestamp":"2018-08-01T15:59:56.670Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-01T15:59:56.670Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"victor@traceroll.com\",\"firstname\":null,\"fullname\":\"Victor Wu\",\"joinDate\":1532618608856,\"lastOnline\":1533139196335,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$W/fDkhj47ioyth0GG5FZTOOGyPNbR/nNa2WmThBoHqJ3oPAmCm3YO\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5b2645b3355be02e6c924930e8f5ccce?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":3,\"username\":\"vicwu2\",\"userslug\":\"vicwu2\",\"profilePosition\":{\"x\":665,\"y\":334}}","timestamp":"2018-08-01T15:59:56.769Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T16:00:24.768Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-01T16:00:24.871Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-01T16:00:24.872Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-01T16:00:24.872Z"}
+{"uid":3,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T16:00:28.378Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T16:00:29.447Z"}
+{"uid":3,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T16:00:29.838Z"}
+{"uid":3,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T16:00:29.841Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-08-01T16:00:29.903Z"}
+{"level":"info","message":"Userslug: vicwu1","timestamp":"2018-08-01T16:00:29.903Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-01T16:00:29.903Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-08-01T16:00:29.908Z"}
+{"level":"info","message":"Userslug: vicwu1","timestamp":"2018-08-01T16:00:29.908Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-01T16:00:29.908Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"victor@traceroll.com\",\"firstname\":null,\"fullname\":\"Victor Wu\",\"joinDate\":1532614923335,\"lastOnline\":1533139137773,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$PJ.RtIwDuy5TOW2jUt0iPOZCK780KV2yNHtwGQCalFcYQWkvKeAYG\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5b2645b3355be02e6c924930e8f5ccce?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":2,\"username\":\"vicwu1\",\"userslug\":\"vicwu1\",\"profilePosition\":{\"x\":665,\"y\":334}}","timestamp":"2018-08-01T16:00:29.981Z"}
+{"uid":3,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T16:00:30.187Z"}
+{"uid":3,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T16:00:30.188Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-08-01T16:00:30.271Z"}
+{"level":"info","message":"Userslug: vicwu2","timestamp":"2018-08-01T16:00:30.271Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-01T16:00:30.271Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"victor@traceroll.com\",\"firstname\":null,\"fullname\":\"Victor Wu\",\"joinDate\":1532618608856,\"lastOnline\":1533139196335,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$W/fDkhj47ioyth0GG5FZTOOGyPNbR/nNa2WmThBoHqJ3oPAmCm3YO\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5b2645b3355be02e6c924930e8f5ccce?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":3,\"username\":\"vicwu2\",\"userslug\":\"vicwu2\",\"profilePosition\":{\"x\":665,\"y\":334}}","timestamp":"2018-08-01T16:00:30.346Z"}
+{"uid":3,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T16:00:31.599Z"}
+{"uid":3,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T16:00:32.737Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T16:00:34.885Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T16:00:36.089Z"}
+{"uid":3,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T16:00:40.832Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T16:00:45.395Z"}
+{"uid":3,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T16:00:45.683Z"}
+{"uid":3,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T16:00:45.694Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-08-01T16:00:45.750Z"}
+{"level":"info","message":"Userslug: vicwu2","timestamp":"2018-08-01T16:00:45.750Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-01T16:00:45.751Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-08-01T16:00:45.757Z"}
+{"level":"info","message":"Userslug: vicwu2","timestamp":"2018-08-01T16:00:45.758Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-01T16:00:45.758Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"victor@traceroll.com\",\"firstname\":null,\"fullname\":\"Victor Wu\",\"joinDate\":1532618608856,\"lastOnline\":1533139196335,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$W/fDkhj47ioyth0GG5FZTOOGyPNbR/nNa2WmThBoHqJ3oPAmCm3YO\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5b2645b3355be02e6c924930e8f5ccce?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":3,\"username\":\"vicwu2\",\"userslug\":\"vicwu2\",\"profilePosition\":{\"x\":665,\"y\":334}}","timestamp":"2018-08-01T16:00:45.823Z"}
+{"uid":3,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T16:00:48.008Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T16:01:54.337Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T16:01:54.923Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-01T16:01:54.988Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-01T16:01:54.988Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-01T16:01:54.989Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T16:02:01.450Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T16:08:48.776Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T16:09:57.405Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T16:10:53.115Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T16:11:02.681Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-01T16:11:02.779Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-01T16:11:02.779Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-01T16:11:02.779Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T16:11:20.389Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-01T16:11:20.456Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-01T16:11:20.457Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-01T16:11:20.457Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T16:11:23.530Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T16:30:06.626Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T16:37:53.181Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T16:38:30.148Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T16:39:15.140Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T16:39:48.943Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T16:41:41.613Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T16:44:02.782Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T18:21:23.711Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-01T18:21:23.799Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-01T18:21:23.799Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-01T18:21:23.799Z"}
+{"level":"info","message":"NODE_ENV = production","timestamp":"2018-08-01T18:30:11.440Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T18:32:43.453Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-01T18:32:43.560Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-01T18:32:43.560Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-01T18:32:43.560Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T18:32:44.458Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-01T18:32:44.523Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-01T18:32:44.523Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-01T18:32:44.524Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T18:33:20.284Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-01T18:33:20.363Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-01T18:33:20.363Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-01T18:33:20.363Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T18:33:21.522Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-01T18:33:21.594Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-01T18:33:21.594Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-01T18:33:21.594Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T18:33:24.117Z"}
+{"uid":2,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-01T18:38:45.382Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-01T18:38:45.458Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-01T18:38:45.458Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-01T18:38:45.458Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T18:38:51.989Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T18:39:08.473Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T18:39:10.563Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T19:01:05.639Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T19:01:08.384Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T19:01:13.095Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T19:01:21.933Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T19:01:33.429Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T19:01:38.114Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T19:01:40.529Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T19:01:52.877Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-01T19:01:55.186Z"}

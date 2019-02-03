@@ -1,0 +1,10 @@
+.menu-tool {
+	position: absolute;
+    width: 600px;
+    height: 100px;
+    background: rgba(82, 214, 148, 0.2);
+    bottom: 0;
+    right: 25%;
+    left: 50%;
+    margin-left: -300px;
+}

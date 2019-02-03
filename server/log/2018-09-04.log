@@ -1,0 +1,6 @@
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-04T10:22:07.250Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-04T10:22:49.993Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-04T10:22:51.472Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-04T10:24:17.543Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-04T10:24:21.184Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-04T10:24:22.543Z"}

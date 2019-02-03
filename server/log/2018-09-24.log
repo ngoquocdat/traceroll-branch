@@ -1,0 +1,120 @@
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-24T02:24:11.000Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T02:53:06.180Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T02:54:03.877Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T02:54:03.887Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-24T02:54:04.414Z"}
+{"level":"info","message":"Userslug: blueman","timestamp":"2018-09-24T02:54:04.415Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-24T02:54:04.415Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-24T02:54:04.420Z"}
+{"level":"info","message":"Userslug: blueman","timestamp":"2018-09-24T02:54:04.421Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-24T02:54:04.422Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"blueman@gmail.com\",\"fbID\":null,\"firstname\":null,\"fullname\":\"blueman\",\"joinDate\":1537757615913,\"lastOnline\":\"\",\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$Jlqsm5GNbxeGMUG9kR6dDuX5lm2gnweons0Au12dEquuuq2QZj8hm\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/85acd71e3e6f197c933e1fc6e723ca47?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":71,\"username\":\"blueman\",\"userslug\":\"blueman\"}","timestamp":"2018-09-24T02:54:04.942Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T02:54:05.847Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T02:54:07.150Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T02:54:11.803Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T02:54:12.944Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T02:54:12.964Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-24T02:54:13.462Z"}
+{"level":"info","message":"Userslug: blueman","timestamp":"2018-09-24T02:54:13.463Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-24T02:54:13.463Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"blueman@gmail.com\",\"fbID\":null,\"firstname\":null,\"fullname\":\"blueman\",\"joinDate\":1537757615913,\"lastOnline\":\"\",\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$Jlqsm5GNbxeGMUG9kR6dDuX5lm2gnweons0Au12dEquuuq2QZj8hm\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/85acd71e3e6f197c933e1fc6e723ca47?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":71,\"username\":\"blueman\",\"userslug\":\"blueman\",\"profilePosition\":{\"x\":680,\"y\":307.5}}","timestamp":"2018-09-24T02:54:13.979Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T02:54:16.511Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T02:56:45.645Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T02:56:45.668Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-24T02:56:46.163Z"}
+{"level":"info","message":"Userslug: blueman","timestamp":"2018-09-24T02:56:46.163Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-24T02:56:46.164Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-24T02:56:46.173Z"}
+{"level":"info","message":"Userslug: blueman","timestamp":"2018-09-24T02:56:46.173Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-24T02:56:46.173Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"blueman@gmail.com\",\"fbID\":null,\"firstname\":null,\"fullname\":\"blueman\",\"joinDate\":1537757615913,\"lastOnline\":\"\",\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$Jlqsm5GNbxeGMUG9kR6dDuX5lm2gnweons0Au12dEquuuq2QZj8hm\",\"passwordExpiry\":0,\"picture\":\"http://localhost:9000/img/uploads/file-1537757652352.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":71,\"username\":\"blueman\",\"userslug\":\"blueman\",\"profilePosition\":{\"x\":680,\"y\":307.5},\"isProfileImageHide\":1}","timestamp":"2018-09-24T02:56:46.664Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T02:56:48.557Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T02:56:48.740Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T02:56:48.892Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T02:56:49.866Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-24T02:56:51.452Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-24T02:56:51.476Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-24T02:56:52.731Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T02:56:55.391Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T02:56:55.409Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-24T02:56:55.906Z"}
+{"level":"info","message":"Userslug: redman","timestamp":"2018-09-24T02:56:55.906Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-24T02:56:55.907Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-24T02:56:55.939Z"}
+{"level":"info","message":"Userslug: redman","timestamp":"2018-09-24T02:56:55.940Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-24T02:56:55.940Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"redman@gmail.com\",\"firstname\":null,\"fullname\":\"redman\",\"joinDate\":1537757541971,\"lastOnline\":1537757569143,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$k8IxVEg5pYU3wNAtxtjP4uhQ7nARRQg3lz4P3hBUcfwqcZ3gJEEwK\",\"passwordExpiry\":0,\"picture\":\"http://localhost:9000/img/uploads/file-1537757579510.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":72,\"username\":\"redman\",\"userslug\":\"redman\",\"profilePosition\":{\"x\":800,\"y\":368.5},\"isProfileImageHide\":1}","timestamp":"2018-09-24T02:56:56.448Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T02:56:57.287Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T02:56:57.302Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-24T02:56:57.533Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-24T02:56:57.547Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-24T02:56:57.808Z"}
+{"level":"info","message":"Userslug: blueman","timestamp":"2018-09-24T02:56:57.808Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-24T02:56:57.808Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-24T02:56:58.050Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"blueman@gmail.com\",\"fbID\":null,\"firstname\":null,\"fullname\":\"blueman\",\"joinDate\":1537757615913,\"lastOnline\":1537757814038,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$Jlqsm5GNbxeGMUG9kR6dDuX5lm2gnweons0Au12dEquuuq2QZj8hm\",\"passwordExpiry\":0,\"picture\":\"http://localhost:9000/img/uploads/file-1537757652352.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":71,\"username\":\"blueman\",\"userslug\":\"blueman\",\"profilePosition\":{\"x\":680,\"y\":307.5},\"isProfileImageHide\":1}","timestamp":"2018-09-24T02:56:58.319Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T03:04:47.640Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T03:04:47.647Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-24T03:04:48.160Z"}
+{"level":"info","message":"Userslug: redman","timestamp":"2018-09-24T03:04:48.160Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-24T03:04:48.160Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-24T03:04:48.174Z"}
+{"level":"info","message":"Userslug: redman","timestamp":"2018-09-24T03:04:48.174Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-24T03:04:48.175Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"redman@gmail.com\",\"firstname\":null,\"fullname\":\"redman\",\"joinDate\":1537757541971,\"lastOnline\":1537757979052,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$k8IxVEg5pYU3wNAtxtjP4uhQ7nARRQg3lz4P3hBUcfwqcZ3gJEEwK\",\"passwordExpiry\":0,\"picture\":\"http://localhost:9000/img/uploads/file-1537757579510.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":72,\"username\":\"redman\",\"userslug\":\"redman\",\"profilePosition\":{\"x\":800,\"y\":368.5},\"isProfileImageHide\":1}","timestamp":"2018-09-24T03:04:48.670Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T03:04:49.536Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T03:04:49.577Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-24T03:04:49.798Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-24T03:04:49.807Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-24T03:04:50.041Z"}
+{"level":"info","message":"Userslug: blueman","timestamp":"2018-09-24T03:04:50.043Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-24T03:04:50.043Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"blueman@gmail.com\",\"fbID\":null,\"firstname\":null,\"fullname\":\"blueman\",\"joinDate\":1537757615913,\"lastOnline\":1537757814038,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$Jlqsm5GNbxeGMUG9kR6dDuX5lm2gnweons0Au12dEquuuq2QZj8hm\",\"passwordExpiry\":0,\"picture\":\"http://localhost:9000/img/uploads/file-1537757652352.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":71,\"username\":\"blueman\",\"userslug\":\"blueman\",\"profilePosition\":{\"x\":680,\"y\":307.5},\"isProfileImageHide\":1}","timestamp":"2018-09-24T03:04:50.570Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-24T03:04:50.577Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T08:26:46.107Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T08:26:46.108Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-24T08:26:46.608Z"}
+{"level":"info","message":"Userslug: redman","timestamp":"2018-09-24T08:26:46.608Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-24T08:26:46.609Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-24T08:26:46.612Z"}
+{"level":"info","message":"Userslug: redman","timestamp":"2018-09-24T08:26:46.612Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-24T08:26:46.612Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"redman@gmail.com\",\"firstname\":null,\"fullname\":\"redman\",\"joinDate\":1537757541971,\"lastOnline\":1537774779887,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$k8IxVEg5pYU3wNAtxtjP4uhQ7nARRQg3lz4P3hBUcfwqcZ3gJEEwK\",\"passwordExpiry\":0,\"picture\":\"http://localhost:9000/img/uploads/file-1537757579510.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":72,\"username\":\"redman\",\"userslug\":\"redman\",\"profilePosition\":{\"x\":800,\"y\":368.5},\"isProfileImageHide\":1}","timestamp":"2018-09-24T08:26:47.118Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T08:26:48.727Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T08:26:48.738Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-24T08:26:48.986Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-24T08:26:49.003Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-24T08:26:49.247Z"}
+{"level":"info","message":"Userslug: blueman","timestamp":"2018-09-24T08:26:49.247Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-24T08:26:49.247Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-24T08:26:49.499Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-24T08:26:49.505Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"blueman@gmail.com\",\"fbID\":null,\"firstname\":null,\"fullname\":\"blueman\",\"joinDate\":1537757615913,\"lastOnline\":1537758290588,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$Jlqsm5GNbxeGMUG9kR6dDuX5lm2gnweons0Au12dEquuuq2QZj8hm\",\"passwordExpiry\":0,\"picture\":\"http://localhost:9000/img/uploads/file-1537757652352.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":71,\"username\":\"blueman\",\"userslug\":\"blueman\",\"profilePosition\":{\"x\":680,\"y\":307.5},\"isProfileImageHide\":1}","timestamp":"2018-09-24T08:26:49.760Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-24T08:26:49.809Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T11:18:40.342Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-24T11:18:40.871Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-24T11:18:40.871Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-24T11:18:40.871Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T11:18:54.150Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T11:18:54.159Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T11:18:54.166Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T11:18:54.181Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-24T11:19:12.806Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T11:19:14.128Z"}
+{"uid":71,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T11:19:14.131Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-24T11:19:14.627Z"}
+{"level":"info","message":"Userslug: blueman","timestamp":"2018-09-24T11:19:14.628Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-24T11:19:14.628Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-24T11:19:14.755Z"}
+{"level":"info","message":"Userslug: blueman","timestamp":"2018-09-24T11:19:14.755Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-24T11:19:14.755Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"blueman@gmail.com\",\"fbID\":null,\"firstname\":null,\"fullname\":\"blueman\",\"joinDate\":1537757615913,\"lastOnline\":1537787953571,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$Jlqsm5GNbxeGMUG9kR6dDuX5lm2gnweons0Au12dEquuuq2QZj8hm\",\"passwordExpiry\":0,\"picture\":\"http://localhost:9000/img/uploads/file-1537757652352.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":71,\"username\":\"blueman\",\"userslug\":\"blueman\",\"profilePosition\":{\"x\":680,\"y\":307.5},\"isProfileImageHide\":1}","timestamp":"2018-09-24T11:19:15.244Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-24T11:19:25.085Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T11:19:34.098Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-24T11:19:34.607Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T11:21:36.163Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-24T11:21:36.704Z"}
+{"uid":70,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T11:21:41.718Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-24T11:21:42.985Z"}
+{"uid":70,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-24T11:21:49.957Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-24T11:21:51.243Z"}

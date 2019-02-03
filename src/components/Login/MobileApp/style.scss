@@ -1,0 +1,75 @@
+/** Styling for mobile app informational section on the homepage **/
+
+.mobileApp_wrapper {
+  background-color: #151515;
+  text-align: center;
+}
+
+.mobileApp_content_wrapper {
+  padding: 5%;
+  color: white;
+  display: inline-block;
+  vertical-align: top;
+  width: 49%;
+  text-align: left;
+  p {
+    font-weight: lighter;
+    font-size: 15px;
+    letter-spacing: 1.5px;
+    margin-bottom: 4vh;
+    line-height: 1.8;
+  }
+}
+
+#homeBadge {
+  margin-right: 5px;
+}
+
+.mobileApp_content_wrapper {
+  .ios-headline {
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.17;
+    margin-bottom: 2vh;
+    letter-spacing: 1px;
+    color: #f9bb12;
+  }
+  h2.headline {
+    margin-bottom: 3vh;
+  }
+}
+
+.mobileApp_image_wrapper {
+  display: inline-block;
+  max-width: 100%;
+}
+
+#appleBadge {
+  max-width: 100%;
+}
+
+#mobile_top {
+  display: inline-block;
+}
+
+#mobile_bottom {
+  display: none;
+}
+
+@media only screen and (max-width: 1192px) {
+  #mobile_top {
+    display: none;
+  }
+  #mobile_bottom {
+    display: inline-block;
+  }
+  .mobileApp_content_wrapper {
+    width: 100%;
+    padding: 0 5vw;
+  }
+  #mobile {
+    padding: 5vh 0;
+  }
+}

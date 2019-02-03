@@ -1,0 +1,75 @@
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-08-21T12:42:07.995Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-21T12:42:37.267Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-21T12:42:37.794Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-21T12:42:37.794Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-21T12:42:37.794Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-21T12:42:51.824Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-21T12:42:52.449Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-21T12:42:52.449Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-21T12:42:52.449Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-21T12:42:52.450Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-21T12:42:52.989Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-21T12:42:52.989Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-21T12:42:52.989Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-21T12:42:54.790Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-21T12:42:58.258Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-21T12:42:58.890Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-21T12:42:58.890Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-21T12:42:58.890Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-21T12:43:00.031Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-21T12:43:16.748Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-21T12:43:17.027Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-21T12:43:17.321Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-21T12:43:17.321Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-21T12:43:17.321Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-21T12:43:57.971Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-21T12:43:57.974Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-21T12:43:58.588Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-21T12:43:58.589Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-21T12:43:58.589Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-21T12:43:58.593Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-21T12:43:58.593Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-21T12:43:58.593Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-21T12:48:12.126Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-21T12:48:12.675Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-21T12:48:12.675Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-21T12:48:12.675Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-21T12:48:12.940Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-21T12:48:13.561Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-21T12:48:13.561Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-21T12:48:13.561Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-08-21T13:25:53.168Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-21T13:26:38.523Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-21T13:26:38.771Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-21T13:26:39.030Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-21T13:26:39.031Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-21T13:26:39.031Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-21T13:30:05.809Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-21T13:30:06.309Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-21T13:30:06.309Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-21T13:30:06.309Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-21T13:32:51.301Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-21T13:32:51.814Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-21T13:32:51.814Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-21T13:32:51.814Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-21T13:32:56.626Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-21T13:32:57.164Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-21T13:32:57.164Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-21T13:32:57.164Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-21T13:32:59.292Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-21T13:32:59.836Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-21T13:32:59.836Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-21T13:32:59.836Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-08-21T13:55:06.455Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-21T13:56:06.271Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-21T13:56:06.773Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-21T13:56:06.773Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-21T13:56:06.773Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-21T13:57:44.686Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-21T13:57:45.179Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-21T13:57:45.180Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-21T13:57:45.180Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-21T13:57:48.084Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-21T13:57:48.584Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-21T13:57:48.585Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-21T13:57:48.585Z"}

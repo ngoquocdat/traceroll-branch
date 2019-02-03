@@ -1,0 +1,40 @@
+/** Styling for Whiteboards Section on the homepage **/
+.whiteboards_wrapper img {
+  width: 60%;
+  height: auto;
+  display: inline-block; }
+
+.whiteboards_content_wrapper {
+  display: inline-block;
+  vertical-align: middle;
+  width: 40%; }
+  .whiteboards_content_wrapper .headline {
+    margin-bottom: 2vh; }
+  .whiteboards_content_wrapper p {
+    margin-bottom: 5vh; }
+
+.whiteboards_signUp {
+  font-weight: bold;
+  font-size: 20px;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.37;
+  letter-spacing: 1px;
+  border: none;
+  border-radius: 5px;
+  background-color: #fbbc12;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  color: #ffffff;
+  padding: 5px 10px; }
+
+@media only screen and (max-width: 1146px) {
+  .whiteboards_wrapper img {
+    width: 100%;
+    padding-right: 5vw; }
+  .whiteboards_content_wrapper {
+    width: 100%;
+    padding: 0 5vw; } }
+
+@media only screen and (max-width: 420px) {
+  .whiteboards_signUp {
+    display: none; } }

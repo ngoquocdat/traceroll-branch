@@ -1,0 +1,639 @@
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-14T02:47:30.624Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T02:56:02.658Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T02:58:22.557Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T02:59:08.791Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T02:59:15.608Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T02:59:28.021Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T02:59:34.054Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T02:59:44.273Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T03:00:38.185Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:00:39.888Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:00:39.898Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T03:00:40.393Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T03:00:40.393Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T03:00:40.393Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T03:00:40.393Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T03:00:40.393Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T03:00:40.393Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"daruma@gmail.com\",\"firstname\":null,\"fullname\":\"magenka\",\"joinDate\":1536723471812,\"lastOnline\":1536812082456,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$aIW.lMtlFQS9.BHTTWb9V.YP9kQvi6OgLSW8nBq6e3OaOqMBwAW8K\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5907bc5c9e8e1eea3ea883cad6645f9f?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":37,\"username\":\"daruma02\",\"userslug\":\"daruma02\",\"profilePosition\":{\"x\":800,\"y\":371}}","timestamp":"2018-09-14T03:00:40.889Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T03:00:43.689Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:00:44.909Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:00:44.918Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T03:00:45.414Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T03:00:45.414Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T03:00:45.414Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T03:00:45.415Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T03:00:45.415Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T03:00:45.415Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"daruma@gmail.com\",\"firstname\":null,\"fullname\":\"magenka\",\"joinDate\":1536723471812,\"lastOnline\":1536812082456,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$aIW.lMtlFQS9.BHTTWb9V.YP9kQvi6OgLSW8nBq6e3OaOqMBwAW8K\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5907bc5c9e8e1eea3ea883cad6645f9f?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":37,\"username\":\"daruma02\",\"userslug\":\"daruma02\",\"profilePosition\":{\"x\":800,\"y\":371}}","timestamp":"2018-09-14T03:00:45.913Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T03:00:58.925Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:00:59.971Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:00:59.973Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T03:01:00.470Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T03:01:00.478Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T03:01:25.114Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:01:26.311Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:01:26.312Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T03:01:26.794Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T03:01:26.808Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T03:01:26.808Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T03:01:26.810Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T03:01:26.810Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T03:01:26.810Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"daruma@gmail.com\",\"firstname\":null,\"fullname\":\"magenka\",\"joinDate\":1536723471812,\"lastOnline\":1536894085862,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$aIW.lMtlFQS9.BHTTWb9V.YP9kQvi6OgLSW8nBq6e3OaOqMBwAW8K\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5907bc5c9e8e1eea3ea883cad6645f9f?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":37,\"username\":\"daruma02\",\"userslug\":\"daruma02\",\"profilePosition\":{\"x\":800,\"y\":371}}","timestamp":"2018-09-14T03:01:27.294Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:01:36.753Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T03:01:51.652Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:15:51.339Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T03:15:51.843Z"}
+{"level":"info","message":"Data: {\"ownerid\":37,\"uid\":37,\"content\":\"https://secure.img1-fg.wfcdn.com/im/52382193/resize-h600-w600%5Ecompr-r85/1397/13972484/%27Snow+Wolf%27+Painting+Print.jpg\",\"caption\":\"\",\"stage\":{\"x\":843,\"y\":236,\"width\":225.5639097744361,\"height\":200}}","timestamp":"2018-09-14T03:15:51.843Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:15:54.521Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T03:15:55.029Z"}
+{"level":"info","message":"Data: {\"uid\":37,\"key\":\"element:37-1536894951845\",\"content\":\"https://secure.img1-fg.wfcdn.com/im/52382193/resize-h600-w600%5Ecompr-r85/1397/13972484/%27Snow+Wolf%27+Painting+Print.jpg\",\"stage\":{\"x\":358,\"y\":250,\"width\":225.5639097744361,\"height\":200}}","timestamp":"2018-09-14T03:15:55.030Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:19:35.390Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-14T03:21:26.627Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T03:21:28.956Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:21:33.644Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:21:33.647Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T03:21:34.158Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T03:21:34.158Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T03:21:34.158Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T03:21:34.166Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T03:21:34.166Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T03:21:34.167Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T03:21:34.498Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"daruma@gmail.com\",\"firstname\":null,\"fullname\":\"magenka\",\"joinDate\":1536723471812,\"lastOnline\":1536895291585,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$aIW.lMtlFQS9.BHTTWb9V.YP9kQvi6OgLSW8nBq6e3OaOqMBwAW8K\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5907bc5c9e8e1eea3ea883cad6645f9f?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":37,\"username\":\"daruma02\",\"userslug\":\"daruma02\",\"profilePosition\":{\"x\":800,\"y\":371}}","timestamp":"2018-09-14T03:21:34.683Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:21:46.179Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:26:37.279Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T03:26:37.784Z"}
+{"level":"info","message":"Data: {\"ownerid\":37,\"uid\":37,\"content\":\"https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif\",\"caption\":\"\",\"stage\":{\"x\":843,\"y\":236,\"width\":200,\"height\":200}}","timestamp":"2018-09-14T03:26:37.784Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:26:41.090Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T03:26:41.616Z"}
+{"level":"info","message":"Data: {\"uid\":37,\"key\":\"element:37-1536895597788\",\"content\":\"https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif\",\"stage\":{\"x\":319,\"y\":455,\"width\":200,\"height\":200}}","timestamp":"2018-09-14T03:26:41.616Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:26:42.996Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T03:26:43.518Z"}
+{"level":"info","message":"Data: {\"uid\":37,\"key\":\"element:37-1536895597788\",\"content\":\"https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif\",\"stage\":{\"x\":236,\"y\":471,\"width\":200,\"height\":200}}","timestamp":"2018-09-14T03:26:43.519Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:27:31.430Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T03:27:31.947Z"}
+{"level":"info","message":"Data: {\"uid\":37,\"key\":\"element:37-1536895597788\",\"content\":\"https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif\",\"stage\":{\"x\":376,\"y\":470,\"width\":200,\"height\":200}}","timestamp":"2018-09-14T03:27:31.947Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T03:27:36.242Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:27:37.978Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:27:37.985Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T03:27:38.469Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T03:27:38.469Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T03:27:38.469Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T03:27:38.490Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T03:27:38.490Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T03:27:38.491Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T03:27:38.833Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"daruma@gmail.com\",\"firstname\":null,\"fullname\":\"magenka\",\"joinDate\":1536723471812,\"lastOnline\":1536895657014,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$aIW.lMtlFQS9.BHTTWb9V.YP9kQvi6OgLSW8nBq6e3OaOqMBwAW8K\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5907bc5c9e8e1eea3ea883cad6645f9f?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":37,\"username\":\"daruma02\",\"userslug\":\"daruma02\",\"profilePosition\":{\"x\":800,\"y\":371}}","timestamp":"2018-09-14T03:27:38.997Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:27:47.920Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T03:27:48.431Z"}
+{"level":"info","message":"Data: {\"uid\":37,\"key\":\"element:37-1536894951845\",\"content\":\"https://secure.img1-fg.wfcdn.com/im/52382193/resize-h600-w600%5Ecompr-r85/1397/13972484/%27Snow+Wolf%27+Painting+Print.jpg\",\"stage\":{\"x\":423.66869680544903,\"y\":164.26586805955276,\"width\":225.5639097744361,\"height\":200}}","timestamp":"2018-09-14T03:27:48.431Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:28:12.378Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T03:28:12.900Z"}
+{"level":"info","message":"Data: {\"ownerid\":37,\"uid\":37,\"content\":\"https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif\",\"caption\":\"\",\"stage\":{\"x\":843,\"y\":236,\"width\":200,\"height\":200}}","timestamp":"2018-09-14T03:28:12.900Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:28:17.474Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T03:28:17.978Z"}
+{"level":"info","message":"Data: {\"uid\":37,\"key\":\"element:37-1536895692905\",\"content\":\"https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif\",\"stage\":{\"x\":385.14325282867514,\"y\":418.4130466818027,\"width\":200,\"height\":200}}","timestamp":"2018-09-14T03:28:17.978Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:28:20.831Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T03:28:21.342Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T03:28:21.342Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T03:28:21.342Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:28:27.633Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T03:28:28.136Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T03:28:28.136Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T03:28:28.136Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-14T03:28:39.608Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:28:44.206Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-14T03:28:44.721Z"}
+{"level":"info","message":"Data: {\"uid\":37,\"key\":\"element:37-1536895692905\"}","timestamp":"2018-09-14T03:28:44.721Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:30:54.440Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-14T03:30:54.950Z"}
+{"level":"info","message":"Data: {\"uid\":37,\"key\":\"element:37-1536895597788\"}","timestamp":"2018-09-14T03:30:54.950Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:30:59.903Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T03:31:00.404Z"}
+{"level":"info","message":"Data: {\"uid\":37,\"key\":\"element:37-1536894951845\",\"content\":\"https://secure.img1-fg.wfcdn.com/im/52382193/resize-h600-w600%5Ecompr-r85/1397/13972484/%27Snow+Wolf%27+Painting+Print.jpg\",\"stage\":{\"x\":428.22902297249414,\"y\":160.6176071259167,\"width\":225.5639097744361,\"height\":200}}","timestamp":"2018-09-14T03:31:00.404Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-14T03:37:07.556Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T03:37:20.248Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:37:24.309Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:37:24.321Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T03:37:24.809Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T03:37:24.809Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T03:37:24.810Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T03:37:24.816Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T03:37:24.816Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T03:37:24.816Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T03:37:25.087Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"daruma@gmail.com\",\"firstname\":null,\"fullname\":\"magenka\",\"joinDate\":1536723471812,\"lastOnline\":1536896242044,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$aIW.lMtlFQS9.BHTTWb9V.YP9kQvi6OgLSW8nBq6e3OaOqMBwAW8K\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5907bc5c9e8e1eea3ea883cad6645f9f?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":37,\"username\":\"daruma02\",\"userslug\":\"daruma02\",\"profilePosition\":{\"x\":800,\"y\":371}}","timestamp":"2018-09-14T03:37:25.313Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T03:38:06.609Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-14T03:59:02.659Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-14T04:04:39.823Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T04:08:26.160Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T04:08:30.007Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T04:08:30.007Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T04:08:30.498Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T04:08:30.498Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T04:08:30.498Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T04:08:30.518Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T04:08:30.518Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T04:08:30.518Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"daruma@gmail.com\",\"firstname\":null,\"fullname\":\"magenka\",\"joinDate\":1536723471812,\"lastOnline\":1536898108017,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$aIW.lMtlFQS9.BHTTWb9V.YP9kQvi6OgLSW8nBq6e3OaOqMBwAW8K\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5907bc5c9e8e1eea3ea883cad6645f9f?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":37,\"username\":\"daruma02\",\"userslug\":\"daruma02\",\"profilePosition\":{\"x\":800,\"y\":371}}","timestamp":"2018-09-14T04:08:30.996Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T04:09:02.137Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-14T04:12:43.404Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T04:18:00.009Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T04:18:03.865Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T04:18:03.868Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T04:18:04.342Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T04:18:04.342Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T04:18:04.342Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T04:18:04.358Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T04:18:04.358Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T04:18:04.358Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"daruma@gmail.com\",\"firstname\":null,\"fullname\":\"magenka\",\"joinDate\":1536723471812,\"lastOnline\":1536898681873,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$aIW.lMtlFQS9.BHTTWb9V.YP9kQvi6OgLSW8nBq6e3OaOqMBwAW8K\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5907bc5c9e8e1eea3ea883cad6645f9f?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":37,\"username\":\"daruma02\",\"userslug\":\"daruma02\",\"profilePosition\":{\"x\":800,\"y\":371}}","timestamp":"2018-09-14T04:18:04.840Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T04:18:22.840Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T08:06:06.191Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:06:07.954Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:06:07.955Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T08:06:08.448Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T08:06:08.448Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T08:06:08.448Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T08:06:08.466Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T08:06:08.466Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T08:06:08.466Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"daruma@gmail.com\",\"firstname\":null,\"fullname\":\"magenka\",\"joinDate\":1536723471812,\"lastOnline\":1536912367020,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$aIW.lMtlFQS9.BHTTWb9V.YP9kQvi6OgLSW8nBq6e3OaOqMBwAW8K\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5907bc5c9e8e1eea3ea883cad6645f9f?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":37,\"username\":\"daruma02\",\"userslug\":\"daruma02\",\"profilePosition\":{\"x\":800,\"y\":371}}","timestamp":"2018-09-14T08:06:08.959Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:06:15.949Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:06:16.022Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:06:16.283Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:06:16.450Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:06:16.826Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T08:06:18.833Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T08:06:18.864Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T08:06:22.411Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:06:23.939Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:06:23.947Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T08:06:24.433Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T08:06:24.433Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T08:06:24.433Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T08:06:24.464Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T08:06:24.464Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T08:06:24.464Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"daruma@gmail.com\",\"firstname\":null,\"fullname\":\"magenka\",\"joinDate\":1536723471812,\"lastOnline\":1536912367020,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$aIW.lMtlFQS9.BHTTWb9V.YP9kQvi6OgLSW8nBq6e3OaOqMBwAW8K\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5907bc5c9e8e1eea3ea883cad6645f9f?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":37,\"username\":\"daruma02\",\"userslug\":\"daruma02\",\"profilePosition\":{\"x\":800,\"y\":371}}","timestamp":"2018-09-14T08:06:24.918Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:06:28.628Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:06:28.927Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:06:29.122Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:06:29.424Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T08:06:32.315Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:06:33.284Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:06:33.297Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T08:06:33.782Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-14T08:06:33.782Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T08:06:33.782Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T08:06:33.804Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-14T08:06:33.804Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T08:06:33.804Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536912103879,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-14T08:06:34.288Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:06:37.889Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:06:37.889Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T08:06:38.394Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T08:06:38.394Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T08:06:38.394Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"daruma@gmail.com\",\"firstname\":null,\"fullname\":\"magenka\",\"joinDate\":1536723471812,\"lastOnline\":1536912367020,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$aIW.lMtlFQS9.BHTTWb9V.YP9kQvi6OgLSW8nBq6e3OaOqMBwAW8K\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5907bc5c9e8e1eea3ea883cad6645f9f?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":37,\"username\":\"daruma02\",\"userslug\":\"daruma02\",\"profilePosition\":{\"x\":800,\"y\":371}}","timestamp":"2018-09-14T08:06:38.900Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T08:06:38.976Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:06:40.731Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:06:41.970Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:07:05.046Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T08:07:22.515Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:07:23.799Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:07:23.803Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T08:07:24.293Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T08:07:24.293Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T08:07:24.294Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T08:07:24.313Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T08:07:24.313Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T08:07:24.313Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"daruma@gmail.com\",\"firstname\":null,\"fullname\":\"magenka\",\"joinDate\":1536723471812,\"lastOnline\":1536912367020,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$aIW.lMtlFQS9.BHTTWb9V.YP9kQvi6OgLSW8nBq6e3OaOqMBwAW8K\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5907bc5c9e8e1eea3ea883cad6645f9f?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":37,\"username\":\"daruma02\",\"userslug\":\"daruma02\",\"profilePosition\":{\"x\":800,\"y\":371}}","timestamp":"2018-09-14T08:07:24.797Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:07:27.377Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:09:08.585Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:09:08.930Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:09:09.102Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:09:09.415Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T08:09:12.303Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:09:13.538Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:09:13.545Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T08:09:14.038Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-14T08:09:14.038Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T08:09:14.038Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T08:09:14.038Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-14T08:09:14.038Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T08:09:14.038Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536912103879,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-14T08:09:14.541Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:09:15.342Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:09:15.344Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T08:09:15.859Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T08:09:15.859Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T08:09:15.859Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T08:09:16.342Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"daruma@gmail.com\",\"firstname\":null,\"fullname\":\"magenka\",\"joinDate\":1536723471812,\"lastOnline\":1536912367020,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$aIW.lMtlFQS9.BHTTWb9V.YP9kQvi6OgLSW8nBq6e3OaOqMBwAW8K\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/5907bc5c9e8e1eea3ea883cad6645f9f?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":37,\"username\":\"daruma02\",\"userslug\":\"daruma02\",\"profilePosition\":{\"x\":800,\"y\":371}}","timestamp":"2018-09-14T08:09:16.379Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:09:17.066Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:09:20.062Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:09:23.919Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:09:40.589Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:09:43.087Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:09:47.989Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T08:09:48.870Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:39:32.310Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:39:34.144Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:39:34.144Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:39:35.388Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:39:35.708Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:39:36.159Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:42:24.285Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:42:24.699Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:42:25.011Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:42:25.379Z"}
+{"uid":37,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:42:38.502Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:42:41.094Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:45:22.111Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:45:37.434Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-14T09:45:37.941Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-14T09:45:37.941Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-14T09:45:37.941Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:45:48.636Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:45:48.917Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:45:49.378Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:45:55.260Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:45:56.514Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:45:56.519Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T09:45:57.015Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-14T09:45:57.016Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T09:45:57.016Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T09:45:57.023Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-14T09:45:57.023Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T09:45:57.023Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536917466075,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-14T09:45:57.506Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:45:58.282Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:45:58.298Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T09:45:58.785Z"}
+{"level":"info","message":"Userslug: 222","timestamp":"2018-09-14T09:45:58.785Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T09:45:58.785Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"1@1.1\",\"firstname\":null,\"fullname\":\"aaa\",\"joinDate\":1536918311046,\"lastOnline\":1536918322876,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$CM2rofuT19fUIRVHBmp/eeSbDHZDas74avJViSuUc8/fBxr2iSzaG\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/1788b7db4306d24f66ea6258e76ad30d?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":40,\"username\":\"222\",\"userslug\":\"222\"}","timestamp":"2018-09-14T09:45:59.314Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:45:59.318Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:46:08.124Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:46:16.255Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:46:18.062Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:46:20.905Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:46:23.990Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:46:25.777Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:46:27.003Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:46:27.012Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T09:46:27.512Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T09:46:27.512Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T09:46:27.512Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T09:46:27.517Z"}
+{"level":"info","message":"Userslug: daruma02","timestamp":"2018-09-14T09:46:27.517Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T09:46:27.517Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:46:32.890Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:46:33.792Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-14T09:46:34.297Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-14T09:46:34.297Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-14T09:46:34.297Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:46:49.038Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:46:50.737Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:46:50.830Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:46:52.491Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:46:54.560Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:46:54.751Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:46:59.021Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:00.633Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:47:00.818Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:01.099Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:47:02.382Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:05.497Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:47:07.276Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:09.099Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:47:10.885Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:12.657Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:21.797Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:22.207Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:22.412Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:47:23.607Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:47:23.627Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:26.131Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:30.037Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:34.435Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:36.017Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:47:36.185Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:36.373Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:36.538Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:37.038Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:37.227Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:47:37.840Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:40.934Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:43.308Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:43.495Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:47:45.068Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:48.723Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:48.989Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:47:50.527Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:52.448Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:52.783Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:53.130Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:59.542Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:47:59.731Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:00.081Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:48:01.349Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:03.052Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:05.197Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:05.498Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:05.672Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:06.786Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:48:06.967Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:06.971Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:07.189Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:48:08.562Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:48:08.562Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:18.321Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:19.492Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:19.765Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:19.986Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:21.950Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:22.130Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:22.343Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:22.593Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:23.546Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:30.947Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:33.573Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:33.839Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:34.335Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:34.820Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:35.106Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:35.598Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:48:35.622Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:48:35.647Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:35.859Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:36.096Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:36.399Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:48:36.864Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:36.864Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:48:36.880Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:37.354Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:37.637Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:37.648Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:37.809Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:48:37.917Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:38.152Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:38.696Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:38.868Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:48:39.145Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:39.169Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:48:39.345Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:39.692Z"}
+{"uid":40,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T09:48:39.903Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:48:40.606Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T09:48:41.476Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:31:50.550Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:31:51.129Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:32:04.928Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:32:05.589Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:33:07.383Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:08.870Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:08.872Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T13:33:09.435Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:33:09.435Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:33:09.435Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T13:33:09.447Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:33:09.447Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:33:09.447Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"cryanshiin@gmail.com\",\"firstname\":null,\"fullname\":\"cryanshiin\",\"joinDate\":1536931964149,\"lastOnline\":1536931988238,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$cv3wPINOHReygIL5R5WbNermcyiUGI/lWnuV0I1Okc.SoMIYJ0i9a\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/cdb111657b67f7c0edec4975bfc95f6e?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":46,\"username\":\"cryanshiin\",\"userslug\":\"cryanshiin\"}","timestamp":"2018-09-14T13:33:10.004Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:10.865Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:16.997Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:25.818Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:26.954Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:26.970Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T13:33:27.529Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:33:27.529Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:33:27.529Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"cryanshiin@gmail.com\",\"firstname\":null,\"fullname\":\"cryanshiin\",\"joinDate\":1536931964149,\"lastOnline\":1536931988238,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$cv3wPINOHReygIL5R5WbNermcyiUGI/lWnuV0I1Okc.SoMIYJ0i9a\",\"passwordExpiry\":0,\"picture\":\"http://localhost:9000/img/uploads/file-1536932006400.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":46,\"username\":\"cryanshiin\",\"userslug\":\"cryanshiin\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-14T13:33:28.089Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:38.658Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:38.820Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:39.034Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:39.205Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:39.407Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:39.841Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:40.352Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:40.520Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:40.726Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:40.966Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:33:41.410Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:33:43.545Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:44.600Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:44.614Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T13:33:45.159Z"}
+{"level":"info","message":"Userslug: shiinshiin","timestamp":"2018-09-14T13:33:45.159Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:33:45.159Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T13:33:45.175Z"}
+{"level":"info","message":"Userslug: shiinshiin","timestamp":"2018-09-14T13:33:45.177Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:33:45.177Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"shiinshiin@gmail.com\",\"firstname\":null,\"fullname\":\"shiinshiin\",\"joinDate\":1536931670570,\"lastOnline\":1536931710624,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$P4aghM9.mKnNN1t9qnLH6.exdAG/IROWJCFE0UFBBzrRaJymGlLKe\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/0904801ab78dbc52d1a6a5dfc2a8b2e0?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":45,\"username\":\"shiinshiin\",\"userslug\":\"shiinshiin\",\"profilePosition\":{\"x\":800,\"y\":371}}","timestamp":"2018-09-14T13:33:45.731Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:46.589Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:46.597Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T13:33:47.172Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:33:47.172Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:33:47.172Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:47.721Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"cryanshiin@gmail.com\",\"firstname\":null,\"fullname\":\"cryanshiin\",\"joinDate\":1536931964149,\"lastOnline\":1536931988238,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$cv3wPINOHReygIL5R5WbNermcyiUGI/lWnuV0I1Okc.SoMIYJ0i9a\",\"passwordExpiry\":0,\"picture\":\"http://localhost:9000/img/uploads/file-1536932006400.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":46,\"username\":\"cryanshiin\",\"userslug\":\"cryanshiin\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-14T13:33:47.739Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:49.114Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:33:50.677Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:34:14.937Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:34:23.561Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:34:34.727Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:34:36.105Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:34:36.115Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T13:34:36.660Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:34:36.660Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:34:36.660Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T13:34:36.695Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:34:36.695Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:34:36.695Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"cryanshiin@gmail.com\",\"firstname\":null,\"fullname\":\"cryanshiin\",\"joinDate\":1536931964149,\"lastOnline\":1536931988238,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$cv3wPINOHReygIL5R5WbNermcyiUGI/lWnuV0I1Okc.SoMIYJ0i9a\",\"passwordExpiry\":0,\"picture\":\"http://localhost:9000/img/uploads/file-1536932006400.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":46,\"username\":\"cryanshiin\",\"userslug\":\"cryanshiin\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-14T13:34:37.213Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:34:38.042Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:34:38.257Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:34:38.648Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:34:38.892Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:34:39.070Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:34:39.275Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:34:39.731Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:34:39.978Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:34:40.560Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:34:41.047Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:34:42.050Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:34:43.373Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:34:43.414Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T13:34:43.928Z"}
+{"level":"info","message":"Userslug: shiinshiin","timestamp":"2018-09-14T13:34:43.928Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:34:43.928Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T13:34:43.968Z"}
+{"level":"info","message":"Userslug: shiinshiin","timestamp":"2018-09-14T13:34:43.968Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:34:43.968Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"shiinshiin@gmail.com\",\"firstname\":null,\"fullname\":\"shiinshiin\",\"joinDate\":1536931670570,\"lastOnline\":1536931710624,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$P4aghM9.mKnNN1t9qnLH6.exdAG/IROWJCFE0UFBBzrRaJymGlLKe\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/0904801ab78dbc52d1a6a5dfc2a8b2e0?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":45,\"username\":\"shiinshiin\",\"userslug\":\"shiinshiin\",\"profilePosition\":{\"x\":800,\"y\":371}}","timestamp":"2018-09-14T13:34:44.486Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:34:45.332Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:34:45.335Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T13:34:45.893Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:34:45.893Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:34:45.893Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"cryanshiin@gmail.com\",\"firstname\":null,\"fullname\":\"cryanshiin\",\"joinDate\":1536931964149,\"lastOnline\":1536931988238,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$cv3wPINOHReygIL5R5WbNermcyiUGI/lWnuV0I1Okc.SoMIYJ0i9a\",\"passwordExpiry\":0,\"picture\":\"http://localhost:9000/img/uploads/file-1536932006400.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":46,\"username\":\"cryanshiin\",\"userslug\":\"cryanshiin\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-14T13:34:46.452Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:35:51.575Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:35:52.637Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-14T13:35:53.213Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-14T13:35:53.213Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-14T13:35:53.214Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:35:56.412Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:36:10.343Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:36:11.618Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-14T13:36:12.191Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-14T13:36:12.191Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-14T13:36:12.191Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:36:16.402Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:36:23.403Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:36:24.747Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:36:24.762Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T13:36:25.333Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:36:25.333Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:36:25.333Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T13:36:25.333Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:36:25.333Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:36:25.333Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"cryanshiin@gmail.com\",\"firstname\":null,\"fullname\":\"cryanshiin\",\"joinDate\":1536931964149,\"lastOnline\":1536931988238,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$cv3wPINOHReygIL5R5WbNermcyiUGI/lWnuV0I1Okc.SoMIYJ0i9a\",\"passwordExpiry\":0,\"picture\":\"http://localhost:9000/img/uploads/file-1536932006400.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":46,\"username\":\"cryanshiin\",\"userslug\":\"cryanshiin\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-14T13:36:25.903Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:36:55.317Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:36:58.494Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:37:34.971Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:37:36.120Z"}
+{"level":"info","message":"Saving Drawing element","timestamp":"2018-09-14T13:37:36.693Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:38:14.106Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:38:15.536Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:38:15.538Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T13:38:16.098Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:38:16.099Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:38:16.099Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T13:38:16.108Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:38:16.108Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:38:16.108Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"cryanshiin@gmail.com\",\"firstname\":null,\"fullname\":\"cryanshiin\",\"joinDate\":1536931964149,\"lastOnline\":1536932294965,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$cv3wPINOHReygIL5R5WbNermcyiUGI/lWnuV0I1Okc.SoMIYJ0i9a\",\"passwordExpiry\":0,\"picture\":\"http://localhost:9000/img/uploads/file-1536932006400.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":46,\"username\":\"cryanshiin\",\"userslug\":\"cryanshiin\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-14T13:38:16.652Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:38:19.604Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:38:20.897Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-14T13:38:21.473Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-14T13:38:21.473Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-14T13:38:21.473Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:38:24.901Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:38:38.124Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:38:39.191Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:38:39.198Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T13:38:39.756Z"}
+{"level":"info","message":"Userslug: shiinshiin","timestamp":"2018-09-14T13:38:39.757Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:38:39.757Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T13:38:39.759Z"}
+{"level":"info","message":"Userslug: shiinshiin","timestamp":"2018-09-14T13:38:39.759Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:38:39.760Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"shiinshiin@gmail.com\",\"firstname\":null,\"fullname\":\"shiinshiin\",\"joinDate\":1536931670570,\"lastOnline\":1536932049603,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$P4aghM9.mKnNN1t9qnLH6.exdAG/IROWJCFE0UFBBzrRaJymGlLKe\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/0904801ab78dbc52d1a6a5dfc2a8b2e0?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":45,\"username\":\"shiinshiin\",\"userslug\":\"shiinshiin\",\"profilePosition\":{\"x\":800,\"y\":371}}","timestamp":"2018-09-14T13:38:40.313Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:38:41.184Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:38:41.191Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T13:38:41.752Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:38:41.752Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:38:41.752Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:38:42.028Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"cryanshiin@gmail.com\",\"firstname\":null,\"fullname\":\"cryanshiin\",\"joinDate\":1536931964149,\"lastOnline\":1536932294965,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$cv3wPINOHReygIL5R5WbNermcyiUGI/lWnuV0I1Okc.SoMIYJ0i9a\",\"passwordExpiry\":0,\"picture\":\"http://localhost:9000/img/uploads/file-1536932006400.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":46,\"username\":\"cryanshiin\",\"userslug\":\"cryanshiin\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-14T13:38:42.308Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:38:47.468Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:38:48.833Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:38:48.837Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T13:38:49.396Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:38:49.396Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:38:49.396Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T13:38:49.403Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:38:49.403Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:38:49.403Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"cryanshiin@gmail.com\",\"firstname\":null,\"fullname\":\"cryanshiin\",\"joinDate\":1536931964149,\"lastOnline\":1536932294965,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$cv3wPINOHReygIL5R5WbNermcyiUGI/lWnuV0I1Okc.SoMIYJ0i9a\",\"passwordExpiry\":0,\"picture\":\"http://localhost:9000/img/uploads/file-1536932006400.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":46,\"username\":\"cryanshiin\",\"userslug\":\"cryanshiin\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-14T13:38:49.945Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:44:10.140Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:44:11.513Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:44:11.525Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T13:44:12.098Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:44:12.098Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:44:12.098Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T13:44:12.099Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:44:12.099Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:44:12.099Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"cryanshiin@gmail.com\",\"firstname\":null,\"fullname\":\"cryanshiin\",\"joinDate\":1536931964149,\"lastOnline\":1536932650990,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$cv3wPINOHReygIL5R5WbNermcyiUGI/lWnuV0I1Okc.SoMIYJ0i9a\",\"passwordExpiry\":0,\"picture\":\"http://localhost:9000/img/uploads/file-1536932006400.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":46,\"username\":\"cryanshiin\",\"userslug\":\"cryanshiin\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-14T13:44:12.657Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:44:26.051Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:44:27.229Z"}
+{"level":"info","message":"Saving Drawing element","timestamp":"2018-09-14T13:44:27.792Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:44:31.874Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T13:44:32.461Z"}
+{"level":"info","message":"Data: {\"uid\":46,\"key\":\"element:46-1536932665756\",\"content\":\"http://localhost:9000/img/uploads/file-1536932666619.png\",\"stage\":{\"x\":773.1590293311411,\"y\":270.84696242920876,\"width\":47,\"height\":34}}","timestamp":"2018-09-14T13:44:32.461Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:44:33.176Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T13:44:33.742Z"}
+{"level":"info","message":"Data: {\"uid\":46,\"key\":\"element:46-1536932665756\",\"content\":\"http://localhost:9000/img/uploads/file-1536932666619.png\",\"stage\":{\"x\":791.6706611735666,\"y\":267.67353982765013,\"width\":47,\"height\":34}}","timestamp":"2018-09-14T13:44:33.742Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:44:39.658Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:44:55.366Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T13:44:55.941Z"}
+{"level":"info","message":"Data: {\"uid\":46,\"key\":\"element:46-1536932665756\",\"content\":\"http://localhost:9000/img/uploads/file-1536932666619.png\",\"stage\":{\"x\":782.9895643032639,\"y\":230.88222452017638,\"width\":47,\"height\":34}}","timestamp":"2018-09-14T13:44:55.941Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:48:16.706Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:48:18.079Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:48:18.342Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:48:18.354Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T13:48:18.907Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:48:18.907Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:48:18.907Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T13:48:18.939Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:48:18.939Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:48:18.939Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"cryanshiin@gmail.com\",\"firstname\":null,\"fullname\":\"cryanshiin\",\"joinDate\":1536931964149,\"lastOnline\":1536932650990,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$cv3wPINOHReygIL5R5WbNermcyiUGI/lWnuV0I1Okc.SoMIYJ0i9a\",\"passwordExpiry\":0,\"picture\":\"http://localhost:9000/img/uploads/file-1536932006400.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":46,\"username\":\"cryanshiin\",\"userslug\":\"cryanshiin\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-14T13:48:19.420Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:49:24.638Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T13:49:25.198Z"}
+{"level":"info","message":"Data: {\"uid\":46,\"key\":\"element:46-1536932254681\",\"content\":\"http://localhost:9000/img/uploads/file-1536932255539.png\",\"stage\":{\"x\":827.3333333333334,\"y\":212.66666666666666,\"width\":44,\"height\":34}}","timestamp":"2018-09-14T13:49:25.198Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:50:25.487Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T13:50:26.050Z"}
+{"level":"info","message":"Data: {\"uid\":46,\"key\":\"element:46-1536932665756\",\"content\":\"http://localhost:9000/img/uploads/file-1536932666619.png\",\"stage\":{\"x\":781.2265517468425,\"y\":277.2494547540611,\"width\":47,\"height\":34}}","timestamp":"2018-09-14T13:50:26.050Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:50:40.580Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:50:41.724Z"}
+{"level":"info","message":"Saving Drawing element","timestamp":"2018-09-14T13:50:42.274Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:50:44.399Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T13:50:44.967Z"}
+{"level":"info","message":"Data: {\"uid\":46,\"key\":\"element:46-1536933040292\",\"content\":\"http://localhost:9000/img/uploads/file-1536933041149.png\",\"stage\":{\"x\":765.0143932704176,\"y\":201.20220914239368,\"width\":53,\"height\":35}}","timestamp":"2018-09-14T13:50:44.967Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:50:52.005Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T13:50:52.561Z"}
+{"level":"info","message":"Data: {\"uid\":46,\"key\":\"element:46-1536933040292\",\"content\":\"http://localhost:9000/img/uploads/file-1536933041149.png\",\"stage\":{\"x\":777.3554811653679,\"y\":230.11561506770582,\"width\":53,\"height\":35}}","timestamp":"2018-09-14T13:50:52.561Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:50:52.637Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T13:50:53.190Z"}
+{"level":"info","message":"Data: {\"uid\":46,\"key\":\"element:46-1536933040292\",\"content\":\"http://localhost:9000/img/uploads/file-1536933041149.png\",\"stage\":{\"x\":760.2542593680796,\"y\":206.6675480673003,\"width\":53,\"height\":35}}","timestamp":"2018-09-14T13:50:53.190Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:50:56.678Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T13:50:57.252Z"}
+{"level":"info","message":"Data: {\"uid\":46,\"key\":\"element:46-1536933040292\",\"content\":\"http://localhost:9000/img/uploads/file-1536933041149.png\",\"stage\":{\"x\":760.2542593680796,\"y\":206.6675480673003,\"width\":49.796354326045616,\"height\":32.88438493229427}}","timestamp":"2018-09-14T13:50:57.252Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:50:59.233Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T13:50:59.803Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:50:59.803Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:50:59.803Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:51:12.982Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T13:51:13.552Z"}
+{"level":"info","message":"Data: {\"uid\":46,\"key\":\"element:46-1536932254681\",\"content\":\"http://localhost:9000/img/uploads/file-1536932255539.png\",\"stage\":{\"x\":830.8593584461763,\"y\":205.79091769662293,\"width\":44,\"height\":34}}","timestamp":"2018-09-14T13:51:13.552Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:53:36.739Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:53:37.862Z"}
+{"level":"info","message":"Saving Drawing element","timestamp":"2018-09-14T13:53:38.431Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:53:39.970Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T13:53:40.515Z"}
+{"level":"info","message":"Data: {\"uid\":46,\"key\":\"element:46-1536933216450\",\"content\":\"http://localhost:9000/img/uploads/file-1536933217288.png\",\"stage\":{\"x\":799.2890376692645,\"y\":189.85824259335985,\"width\":108,\"height\":53}}","timestamp":"2018-09-14T13:53:40.515Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:53:41.091Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-14T13:53:41.641Z"}
+{"level":"info","message":"Data: {\"uid\":46,\"key\":\"element:46-1536933216450\",\"content\":\"http://localhost:9000/img/uploads/file-1536933217288.png\",\"stage\":{\"x\":774.6068618793641,\"y\":207.4883681575746,\"width\":108,\"height\":53}}","timestamp":"2018-09-14T13:53:41.641Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:54:54.630Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-14T13:54:55.954Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:54:56.194Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:54:56.213Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-14T13:54:56.749Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:54:56.749Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:54:56.749Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-14T13:54:56.780Z"}
+{"level":"info","message":"Userslug: cryanshiin","timestamp":"2018-09-14T13:54:56.781Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-14T13:54:56.781Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"cryanshiin@gmail.com\",\"firstname\":null,\"fullname\":\"cryanshiin\",\"joinDate\":1536931964149,\"lastOnline\":1536933295464,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$cv3wPINOHReygIL5R5WbNermcyiUGI/lWnuV0I1Okc.SoMIYJ0i9a\",\"passwordExpiry\":0,\"picture\":\"http://localhost:9000/img/uploads/file-1536932006400.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":46,\"username\":\"cryanshiin\",\"userslug\":\"cryanshiin\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-14T13:54:57.327Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:55:12.597Z"}
+{"uid":46,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-14T13:55:13.756Z"}
+{"level":"info","message":"Saving Drawing element","timestamp":"2018-09-14T13:55:14.326Z"}

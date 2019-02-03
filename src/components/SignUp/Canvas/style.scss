@@ -1,0 +1,68 @@
+/* Styling for Canvas section on the homepage */
+
+#canvas {
+  padding: 14vh 0 8vh;
+  .canvas-image{
+    height: 700px;
+    margin: 0 auto;
+    //display: block;
+  }
+  #canvas_top {
+    display: block;
+  }
+
+  #canvas_bottom {
+    display: none;
+  }
+}
+
+.canvas-image {
+  display: block;
+}
+
+.canvas-mobile {
+  display: none;
+}
+
+.canvas_content_wrapper {
+  &.wrapper {
+    padding: 0;
+  }
+  padding: 0 5vw;
+  text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+  #canvas .canvas-image{
+    height: 100%;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 540px) {
+  #canvas {
+    padding: 5vh 0 0;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  #canvas_top {
+    display: none;
+  }
+  #canvas_bottom {
+    display: block;
+  }
+
+   .canvas-image {
+    display: none;
+  }
+
+  .canvas-mobile {
+    display: block;
+  }
+
+  #canvas{
+  	padding: 0 0 10vh 0 ;
+  	}
+
+}

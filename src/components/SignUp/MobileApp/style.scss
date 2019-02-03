@@ -1,0 +1,95 @@
+/** Styling for mobile app informational section on the homepage **/
+@import  '../../mixins.scss';
+
+.mobileApp_wrapper {
+  background-color: #151515;
+  text-align: center;
+}
+
+.mobileApp_content_wrapper {
+  padding: 0% 4.5% 4%;
+  color: white;
+  display: inline-block;
+  vertical-align: middle;
+  width: 48%;
+  text-align: left;
+  p {
+    font-weight: lighter;
+    font-size: 17px;
+    letter-spacing: $letterspacing-p;
+    margin-bottom: 4vh;
+    line-height: 1.8;
+  }
+}
+
+#homeBadge {
+  margin-right: 5px;
+}
+
+.mobileApp_content_wrapper {
+  .ios-headline {
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.17;
+    margin-bottom: 2vh;
+    letter-spacing: normal;
+    color: #f9bb12;
+      font-family: $font-stack;
+
+  }
+  h2.headline {
+    margin-bottom: 3vh;
+  }
+}
+
+.mobileApp_image_wrapper {
+  display: inline-block;
+  max-width: 100%;
+  width: 51%;
+}
+
+#appleBadge {
+  max-width: 100%;
+}
+
+#mobile_top {
+  display: inline-block;
+}
+
+#mobile_bottom {
+  display: none;
+}
+
+@media only screen and (max-width: 800px) {
+
+  #mobile {
+    padding: 5vh 0;
+    #mobile_top {
+      display: none;
+    }
+    #mobile_bottom {
+      display: inline-block;
+      width: 100%;
+      padding: 0 5vw;
+        img{
+          width: 100%;
+        }
+        #appleBadge{
+          width: 44%;
+        }
+        #googleBadge{
+          width: 51%;
+        }
+    }
+  }
+}
+
+
+@media only screen and (max-width: 420px) {
+
+  .mobileApp_image_wrapper.image_wrapper{
+    width: 100%;
+  }
+}

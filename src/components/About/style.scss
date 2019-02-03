@@ -1,0 +1,190 @@
+@import '../mixins.scss';
+
+#about{
+
+  #about_wrapper{
+      width: 42%;
+      height: auto;
+      p{
+        color: #080808;
+        font-size: 18px;
+        margin-bottom: 25px;
+      }
+      h1{
+        margin-top:45px;
+        line-height: 39px;
+        margin-bottom: 25px;
+      }
+      h1:first-child{
+        margin-top: 0px;
+      }
+      .caption{
+        text-align: center;
+      }
+      .caption-no-center{
+        text-align: left;
+      }
+      .caption, .caption-no-center{
+        color: #6a6a6a;
+        font-size: 14px;
+        font-style: italic;
+        margin-bottom: 5px;
+        &.first{
+          color: #080808;
+        }
+      }
+      img{
+        display: block;
+        margin: 0 auto 2%;
+        &.about-logo{
+          margin-bottom: 25px;
+        }
+      }
+  }
+}
+
+
+#privacy_wrapper, #terms_wrapper{
+  width: 45%;
+}
+
+#privacy_wrapper, #terms_wrapper{
+  height: 400px;
+  overflow: scroll;
+  h3{
+    font-size: 20px;
+    font-weight: bold;
+  }
+}
+
+#about_wrapper, #privacy_wrapper, #terms_wrapper{
+  background-color: white;
+  border-radius: 3px;
+  position: relative; /* needed for footer positioning*/
+  min-height: 100%;
+  box-shadow: 0 8px 15px 0 rgba(0, 0, 0, 0.16);
+  padding: 2vw;
+  margin: 0 auto 6%;
+
+
+  a{
+    text-decoration: underline;
+    color:inherit;
+    &:hover{}
+  }
+
+  img{
+    margin: 8px 8px 0;
+
+    &:first-of-type{
+      margin:8px 8px 0 0;
+    }
+  }
+
+  @at-root body.background{
+    height: auto;
+    background-image: url(/img/login/bg2.jpg);
+    font-family: $font-stack;
+    margin: 0;
+    padding: 0;
+    height: 100%; /* needed for container min-height */
+      p{
+        font-weight: lighter;
+      }
+  }
+}
+
+#about_wrapper{
+  @at-root body.background.about_body{
+    background-size: contain;
+  }
+}
+
+
+#privacy_wrapper, #terms_wrapper{
+  @at-root body.background{
+    background-size: cover;
+  }
+}
+
+#about, #privacy, #terms{
+
+  div.footer_content {
+    bottom: 0; /* stick to bottom */
+    padding: 3% 1% 1%;
+    position: relative;
+    width: 100%;
+  }
+  p{
+    font-weight: normal;
+  }
+  h1{
+    margin-top:0px;
+    font-weight: bold;
+    color: #080808;
+  }
+  #home-button{
+    margin: 1%;
+  }
+  .buttons{
+    a{
+      color: white;
+      &:hover{
+        border-bottom: 1px solid #fff;
+      }
+    }
+    .login{
+      background-color: transparent;
+      border: 1px solid white;
+    }
+  }
+}
+
+@media only screen and (max-width: 1000px){
+  #about, #privacy, #terms{
+    div#about_wrapper, div#privacy_wrapper, div#terms_wrapper{
+      width:55%;
+      margin-top:5%;
+    }
+  }
+}
+
+@media only screen and (max-width: 768px){
+  #about, #privacy, #terms{
+    div#about_wrapper, div#privacy_wrapper, div#terms_wrapper{
+      width:65%;
+      margin-top: 8%;
+    }
+  }
+}
+
+@media only screen and (max-width: 640px){
+  #about, #privacy, #terms{
+    div#about_wrapper, div#privacy_wrapper, div#terms_wrapper{
+      width: 80%;
+      @at-root body.background{
+        background-size:contain;
+      }
+    }
+ }
+}
+
+@media only screen and (max-width: 420px){
+  #about, #privacy, #terms{
+    div.footer_content{
+      padding-top: 10%;
+    }
+    div#about_wrapper, div#privacy_wrapper, div#terms_wrapper{
+      margin-top:2vh;
+      padding: 3vw;
+      width:75%;
+      h1{
+        font-size: 30px;
+      }
+    }
+  }
+
+  #home-button{
+    display: none;
+  }
+}

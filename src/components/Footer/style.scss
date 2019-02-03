@@ -1,0 +1,149 @@
+$fontstack: "AvenirNext-Regular", Helvetica;
+
+.footer_content {
+  display: block;
+  bottom: 0;
+  background-color: #151515;
+  padding: 11% 1% 1%;
+  width: 100%;
+  a, p {
+    color: #fff;
+    display: block;
+    margin-bottom: 33px;
+    font-size: 17px;
+    font-family: $fontstack;
+    line-height: 1;
+    letter-spacing: 0.3px;
+  }
+  a{
+    font-weight: lighter;
+  }
+  p{
+    font-weight: 600;
+  }
+  img {
+    display: inline-block;
+    margin: 5px 10px;
+  }
+  h3 {
+    display: inline-block;
+    margin: 5px 10px;
+    color: white;
+    font-size: 32px;
+    letter-spacing: 1px;
+  }
+  h4 {
+    color: #ffffff;
+    display: inline-block;
+    font-style: normal;
+    font-size: 18px;
+    margin: 1vh 4.5vw;
+  }
+  .footer_logo {
+    box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.16);
+    border-radius: 36px;
+  }
+  .product, .company,.resources{
+    margin:1%;
+    width: 17%;
+    display:inline-block;
+    text-align:left;
+  }
+  .resources{
+    vertical-align: top;
+  }
+  .image-copyright{
+    display: inline-block;
+    vertical-align: top;
+    width: 32%;
+  }
+  .image-copyright-mobile{
+    display: none;
+  }
+}
+
+/* Media Queries for footer to be on one line*/
+@media only screen and (min-width: 1249px) and (max-width: 1366px) {
+  div.footer_content h4 {
+    margin: 1vh 4vw;
+  }
+}
+
+@media only screen and (min-width: 1114px) and (max-width: 1248px) {
+  div.footer_content h4 {
+    margin: 1vh 3vw;
+  }
+}
+
+@media only screen and (min-width: 1035px) and (max-width: 1113px) {
+  div.footer_content h4 {
+    margin: 1vh 2.8vw;
+  }
+}
+
+@media only screen and (min-width: 929px) and (max-width: 1034px) {
+  div.footer_content h4 {
+    margin: 1vh 2vw;
+  }
+}
+
+
+@media only screen and (min-width: 852px) and (max-width: 928px) {
+  div.footer_content h4 {
+    margin: 1vh 1.3vw;
+  }
+}
+
+@media only screen and (max-width: 851px) {
+  div.footer_content h4 {
+    font-size: 2vw;
+    margin: 1vh 1vw;
+  }
+}
+
+@media only screen and (max-width: 822px) {
+  div.footer_content{
+    a, p{
+      font-size: 15px;
+      line-height: 1;
+    }
+  }
+}
+
+@media only screen and (max-width: 720px) {
+  div.footer_content  {
+    .product, .company,.resources{
+      width: 20%;
+    }
+  }
+}
+
+@media only screen and (max-width: 645px) {
+  div.footer_content {
+    padding-top:10%;
+    .footer_logo {
+      width: 75px;
+    }
+    .image-copyright{
+      display:none;
+    }
+    .product, .company,.resources{
+      margin: 1% 1.5% 1% 3%;
+      width:23%;
+    }
+    a, p{
+      font-size: 11px;
+      line-height: 0.5;
+    }
+    .image-copyright-mobile{
+      display: block;
+      text-align: center;
+      .footer_logo {
+        width: 75px;
+      }
+      a{
+        margin-bottom: 0px;
+      }
+    }
+  }
+}

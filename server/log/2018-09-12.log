@@ -1,0 +1,620 @@
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-12T03:20:30.495Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:29:58.952Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-12T03:29:59.443Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-12T03:29:59.443Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-12T03:29:59.443Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T03:30:08.595Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:30:12.519Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:30:12.519Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T03:30:13.005Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T03:30:13.005Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T03:30:13.005Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T03:30:13.021Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T03:30:13.021Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T03:30:13.021Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723010526,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":680,\"y\":310},\"isProfileImageHide\":0}","timestamp":"2018-09-12T03:30:13.524Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:30:18.835Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:30:18.835Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T03:30:19.329Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T03:30:19.329Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T03:30:19.329Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T03:30:19.376Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T03:30:19.376Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T03:30:19.376Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723010526,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":680,\"y\":310},\"isProfileImageHide\":0}","timestamp":"2018-09-12T03:30:19.826Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T03:30:21.978Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T03:30:45.482Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:31:14.303Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T03:31:14.805Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536663454271\",\"content\":\"http://traceroll-dev.dctsolutions.io/img/uploads/videos/file-1536663452595.mp4\",\"stage\":{\"x\":-241.54823613282474,\"y\":-338.5501904819374,\"width\":2973.8803628822116,\"height\":1635.6341995852163}}","timestamp":"2018-09-12T03:31:14.805Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:31:15.599Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T03:31:16.106Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536663454271\",\"content\":\"http://traceroll-dev.dctsolutions.io/img/uploads/videos/file-1536663452595.mp4\",\"stage\":{\"x\":3321.837879276527,\"y\":-3289.2273810697716,\"width\":2973.8803628822116,\"height\":1635.6341995852163}}","timestamp":"2018-09-12T03:31:16.106Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:31:16.812Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T03:31:17.308Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536663269800\",\"content\":\"http://localhost:9000/img/uploads/file-1536663268764.jpg\",\"stage\":{\"x\":1946.2531856962378,\"y\":-909.4920014626191,\"width\":1085.3030870749262,\"height\":774.9444849815702}}","timestamp":"2018-09-12T03:31:17.308Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:31:33.021Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-12T03:31:33.528Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536664016947\"}","timestamp":"2018-09-12T03:31:33.528Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T03:36:17.900Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T03:36:19.436Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:36:19.730Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:36:19.733Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T03:36:20.228Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T03:36:20.228Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T03:36:20.228Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T03:36:20.229Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T03:36:20.229Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T03:36:20.229Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":680,\"y\":310},\"isProfileImageHide\":0}","timestamp":"2018-09-12T03:36:20.738Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T03:36:22.544Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:42:56.437Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T03:42:57.962Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:43:03.966Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:43:27.478Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:43:27.938Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:43:28.461Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:43:28.993Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:43:44.256Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T03:43:44.769Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T03:43:44.769Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T03:43:44.769Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T03:49:01.687Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T03:49:03.004Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:49:03.261Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:49:03.267Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T03:49:03.762Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T03:49:03.762Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T03:49:03.762Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T03:49:03.782Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T03:49:03.782Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T03:49:03.782Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T03:49:04.278Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T03:49:06.130Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T03:49:06.953Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T03:49:08.277Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:49:09.937Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:49:09.939Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T03:49:10.427Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T03:49:10.427Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T03:49:10.427Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T03:49:10.434Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T03:49:10.434Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T03:49:10.434Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T03:49:10.697Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T03:49:10.943Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T03:49:12.755Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:49:42.503Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T03:49:43.004Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536664010584\",\"content\":\"http://localhost:9000/img/uploads/file-1536664009517.gif\",\"stage\":{\"x\":475.0527001717928,\"y\":-3084.454343503812,\"width\":2526.7032059308876,\"height\":1684.468803953925}}","timestamp":"2018-09-12T03:49:43.004Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:50:02.639Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T03:50:03.134Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536575194937\",\"content\":\"http://traceroll-dev.dctsolutions.io/img/uploads/file-1536575193783.jpg\",\"stage\":{\"x\":-1500.266112173084,\"y\":-2833.9040840271537,\"width\":1337.541098442507,\"height\":1061.9136196899776}}","timestamp":"2018-09-12T03:50:03.134Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:50:10.343Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-12T03:50:10.842Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536575194937\"}","timestamp":"2018-09-12T03:50:10.842Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:50:43.798Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-12T03:50:44.291Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536652762197\"}","timestamp":"2018-09-12T03:50:44.291Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:55:47.547Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T03:55:48.054Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536662348190\",\"content\":\"http://localhost:9000/img/uploads/file-1536662349113.png\",\"stage\":{\"x\":81.0760130079434,\"y\":-891.5371804650697,\"width\":1473,\"height\":957}}","timestamp":"2018-09-12T03:55:48.054Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:55:53.387Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-12T03:55:53.891Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536662348190\"}","timestamp":"2018-09-12T03:55:53.892Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T03:57:13.386Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-12T03:57:13.886Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536663269800\"}","timestamp":"2018-09-12T03:57:13.886Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T03:58:00.453Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:04:37.453Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:04:38.764Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:05:13.416Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:05:14.725Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:05:14.920Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:05:14.928Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T04:05:15.425Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:05:15.425Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:05:15.425Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T04:05:15.440Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:05:15.440Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:05:15.440Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T04:05:15.906Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:05:17.829Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:05:21.173Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:05:21.677Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654695027\",\"content\":\"http://localhost:9000/img/uploads/file-1536654693997.gif\",\"stage\":{\"x\":1311.5897930503845,\"y\":-1039.4409451789538,\"width\":1848.5243733346583,\"height\":1985.3151769614228}}","timestamp":"2018-09-12T04:05:21.677Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:05:22.171Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:05:22.662Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536664007587\",\"content\":\"http://localhost:9000/img/uploads/file-1536664006519.gif\",\"stage\":{\"x\":1827.644617547182,\"y\":1311.105056867546,\"width\":1243.2237044113904,\"height\":1335.222258537833}}","timestamp":"2018-09-12T04:05:22.662Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:05:36.793Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:05:38.529Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:05:38.536Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T04:05:39.020Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:05:39.020Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:05:39.020Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T04:05:39.020Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:05:39.020Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:05:39.020Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:05:39.300Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T04:05:39.517Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:05:41.389Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:06:45.571Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-12T04:06:46.075Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536664010584\"}","timestamp":"2018-09-12T04:06:46.075Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:08:39.680Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:08:41.021Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:08:41.036Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T04:08:41.531Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:08:41.531Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:08:41.531Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T04:08:41.531Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:08:41.531Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:08:41.531Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T04:08:42.019Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:08:43.859Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:08:53.879Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:08:54.388Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536653979498\",\"content\":\"http://localhost:9000/img/uploads/file-1536653978435.jpg\",\"stage\":{\"x\":-3174.5262704290462,\"y\":-951.0726478208476,\"width\":2140.650998922603,\"height\":1528.4999237921043}}","timestamp":"2018-09-12T04:08:54.388Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:10:36.292Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:10:37.712Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:10:37.726Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T04:10:38.207Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:10:38.207Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:10:38.207Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T04:10:38.232Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:10:38.233Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:10:38.233Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T04:10:38.721Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:10:40.555Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:13:44.696Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:13:46.066Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:13:46.068Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T04:13:46.567Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:13:46.567Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:13:46.567Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T04:13:46.567Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:13:46.567Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:13:46.567Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T04:13:47.080Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:13:48.958Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:13:56.344Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:13:56.858Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536653824939\",\"content\":\"http://traceroll-dev.dctsolutions.io/img/uploads/file-1536653823836.png\",\"stage\":{\"x\":3726.3697320691,\"y\":-1801.6608012683923,\"width\":811.9199288734717,\"height\":609.549496151255}}","timestamp":"2018-09-12T04:13:56.858Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:13:57.538Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:13:58.036Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654705563\",\"content\":\"http://localhost:9000/img/uploads/file-1536654704486.gif\",\"stage\":{\"x\":-233.69810582877426,\"y\":-2281.822454857782,\"width\":2191.588031841232,\"height\":1461.0586878941544}}","timestamp":"2018-09-12T04:13:58.036Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:13:58.300Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:13:58.799Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654695027\",\"content\":\"http://localhost:9000/img/uploads/file-1536654693997.gif\",\"stage\":{\"x\":3102.94128257001,\"y\":-1246.1353478158335,\"width\":1848.5243733346583,\"height\":1985.3151769614228}}","timestamp":"2018-09-12T04:13:58.800Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:13:59.108Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:13:59.616Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536664007587\",\"content\":\"http://localhost:9000/img/uploads/file-1536664006519.gif\",\"stage\":{\"x\":2574.0410715136923,\"y\":966.61438580608,\"width\":1243.2237044113904,\"height\":1335.222258537833}}","timestamp":"2018-09-12T04:13:59.616Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:14:00.318Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:14:00.834Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536653979498\",\"content\":\"http://localhost:9000/img/uploads/file-1536653978435.jpg\",\"stage\":{\"x\":-2451.0958611999663,\"y\":-629.5480214968125,\"width\":2140.650998922603,\"height\":1528.4999237921043}}","timestamp":"2018-09-12T04:14:00.834Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:14:02.696Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:14:03.198Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654586420\",\"content\":\"http://traceroll-dev.dctsolutions.io/img/uploads/videos/file-1536654574729.mp4\",\"stage\":{\"x\":2002.8892984358,\"y\":-2988.937664895622,\"width\":1458.0364499095722,\"height\":801.9200474502645}}","timestamp":"2018-09-12T04:14:03.198Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:14:06.841Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:14:07.342Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536663454271\",\"content\":\"http://traceroll-dev.dctsolutions.io/img/uploads/videos/file-1536663452595.mp4\",\"stage\":{\"x\":5881.446514633752,\"y\":750.1549966033508,\"width\":2973.8803628822116,\"height\":1635.6341995852163}}","timestamp":"2018-09-12T04:14:07.343Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:14:22.425Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-12T04:14:22.925Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654617812\"}","timestamp":"2018-09-12T04:14:22.926Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:14:44.105Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:14:44.618Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654695027\",\"content\":\"http://localhost:9000/img/uploads/file-1536654693997.gif\",\"stage\":{\"x\":3162.9321099611943,\"y\":-1246.1353478158335,\"width\":1848.5243733346583,\"height\":1985.3151769614228}}","timestamp":"2018-09-12T04:14:44.618Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:14:49.540Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-12T04:14:50.052Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654695027\"}","timestamp":"2018-09-12T04:14:50.052Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:15:13.091Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-12T04:15:13.603Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536653979498\"}","timestamp":"2018-09-12T04:15:13.603Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:15:33.653Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-12T04:15:34.164Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536664007587\"}","timestamp":"2018-09-12T04:15:34.164Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:17:04.632Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:20:28.166Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:20:29.548Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:20:29.551Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T04:20:30.054Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:20:30.054Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:20:30.054Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T04:20:30.054Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:20:30.054Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:20:30.054Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T04:20:30.555Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:20:32.362Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:20:41.954Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:20:42.466Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654586420\",\"content\":\"http://traceroll-dev.dctsolutions.io/img/uploads/videos/file-1536654574729.mp4\",\"stage\":{\"x\":2449.7180746284685,\"y\":-2815.971687014589,\"width\":1458.0364499095722,\"height\":801.9200474502645}}","timestamp":"2018-09-12T04:20:42.466Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:20:59.126Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:20:59.628Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654586420\",\"content\":\"http://traceroll-dev.dctsolutions.io/img/uploads/videos/file-1536654574729.mp4\",\"stage\":{\"x\":10232.861363885913,\"y\":-275.36014699791076,\"width\":1458.0364499095722,\"height\":801.9200474502645}}","timestamp":"2018-09-12T04:20:59.628Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:21:03.252Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:21:03.754Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536663454271\",\"content\":\"http://traceroll-dev.dctsolutions.io/img/uploads/videos/file-1536663452595.mp4\",\"stage\":{\"x\":5941.93726558653,\"y\":790.4821639052025,\"width\":2973.8803628822116,\"height\":1635.6341995852163}}","timestamp":"2018-09-12T04:21:03.754Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:21:07.236Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T04:21:07.737Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:21:07.738Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:21:07.738Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:21:18.896Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:21:19.390Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536663454271\",\"content\":\"http://traceroll-dev.dctsolutions.io/img/uploads/videos/file-1536663452595.mp4\",\"stage\":{\"x\":5921.773681935607,\"y\":629.173494697794,\"width\":2973.8803628822116,\"height\":1635.6341995852163}}","timestamp":"2018-09-12T04:21:19.390Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:21:32.392Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:21:32.904Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536663454271\",\"content\":\"http://traceroll-dev.dctsolutions.io/img/uploads/videos/file-1536663452595.mp4\",\"stage\":{\"x\":11567.577104194892,\"y\":-5198.102180419826,\"width\":2973.8803628822116,\"height\":1635.6341995852163}}","timestamp":"2018-09-12T04:21:32.904Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:21:41.111Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:21:41.622Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536663454271\",\"content\":\"http://traceroll-dev.dctsolutions.io/img/uploads/videos/file-1536663452595.mp4\",\"stage\":{\"x\":11547.413520543967,\"y\":-4794.830507401306,\"width\":2973.8803628822116,\"height\":1635.6341995852163}}","timestamp":"2018-09-12T04:21:41.622Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:21:43.375Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T04:21:43.889Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:21:43.890Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:21:43.890Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:35:54.342Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:35:55.751Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:35:55.754Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T04:35:56.252Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:35:56.252Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:35:56.252Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T04:35:56.255Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:35:56.255Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:35:56.255Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T04:35:56.757Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:35:58.593Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:36:03.031Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:36:03.518Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654586420\",\"content\":\"http://traceroll-dev.dctsolutions.io/img/uploads/videos/file-1536654574729.mp4\",\"stage\":{\"x\":3666.560351735582,\"y\":-419.49846189877144,\"width\":1458.0364499095722,\"height\":801.9200474502645}}","timestamp":"2018-09-12T04:36:03.518Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:36:13.030Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:36:14.602Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:36:14.618Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T04:36:15.100Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:36:15.100Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:36:15.100Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T04:36:15.118Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:36:15.118Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:36:15.118Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T04:36:15.600Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:36:17.443Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:36:23.301Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:36:23.809Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654586420\",\"content\":\"http://traceroll-dev.dctsolutions.io/img/uploads/videos/file-1536654574729.mp4\",\"stage\":{\"x\":3705.117350971562,\"y\":-406.64612882011124,\"width\":1458.0364499095722,\"height\":801.9200474502645}}","timestamp":"2018-09-12T04:36:23.809Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:36:31.518Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:38:22.066Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:38:23.881Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:38:23.884Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T04:38:24.390Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:38:24.390Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:38:24.390Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T04:38:24.390Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:38:24.390Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:38:24.390Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T04:38:24.907Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:38:25.424Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:38:26.708Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:39:46.712Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:39:47.206Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654705563\",\"content\":\"http://localhost:9000/img/uploads/file-1536654704486.gif\",\"stage\":{\"x\":-618.0669455644033,\"y\":-2153.699508279239,\"width\":2191.588031841232,\"height\":1461.0586878941544}}","timestamp":"2018-09-12T04:39:47.206Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:41:18.039Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:41:18.555Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654705563\",\"content\":\"http://localhost:9000/img/uploads/file-1536654704486.gif\",\"stage\":{\"x\":22.54778732830937,\"y\":-1833.39214183288,\"width\":2191.588031841232,\"height\":1461.0586878941544}}","timestamp":"2018-09-12T04:41:18.555Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:41:24.648Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:41:25.163Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654705563\",\"content\":\"http://localhost:9000/img/uploads/file-1536654704486.gif\",\"stage\":{\"x\":-938.3743120107624,\"y\":-2281.822454857781,\"width\":2191.588031841232,\"height\":1461.0586878941544}}","timestamp":"2018-09-12T04:41:25.163Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:41:27.827Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:41:28.341Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654705563\",\"content\":\"http://localhost:9000/img/uploads/file-1536654704486.gif\",\"stage\":{\"x\":-473.9286306635445,\"y\":-2137.6841399569203,\"width\":2191.588031841232,\"height\":1461.0586878941544}}","timestamp":"2018-09-12T04:41:28.342Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:41:52.556Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:42:54.880Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:42:55.391Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654705563\",\"content\":\"http://localhost:9000/img/uploads/file-1536654704486.gif\",\"stage\":{\"x\":-73.54442260559654,\"y\":-2233.776349890826,\"width\":2191.588031841232,\"height\":1461.0586878941544}}","timestamp":"2018-09-12T04:42:55.391Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:47:56.280Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T04:47:56.768Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654705563\",\"content\":\"http://localhost:9000/img/uploads/file-1536654704486.gif\",\"stage\":{\"x\":214.73220719612527,\"y\":-2297.837823180098,\"width\":2191.588031841232,\"height\":1461.0586878941544}}","timestamp":"2018-09-12T04:47:56.768Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:48:03.137Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:48:04.452Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:48:04.762Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:48:04.776Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T04:48:05.250Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:48:05.251Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:48:05.251Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T04:48:05.276Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:48:05.276Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:48:05.276Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T04:48:05.747Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:48:07.576Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:50:38.767Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:50:40.141Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:50:40.397Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T04:50:40.402Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T04:50:40.899Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:50:40.899Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:50:40.899Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T04:50:40.909Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T04:50:40.910Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T04:50:40.910Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T04:50:41.424Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:50:43.204Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T04:51:43.829Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T05:08:18.336Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T05:08:18.845Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654705563\",\"content\":\"http://localhost:9000/img/uploads/file-1536654704486.gif\",\"stage\":{\"x\":-81.84868766161344,\"y\":-2060.573107293907,\"width\":2191.588031841232,\"height\":1461.0586878941544}}","timestamp":"2018-09-12T05:08:18.846Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T05:08:35.661Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T05:08:37.494Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T05:08:37.511Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T05:08:37.996Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T05:08:37.996Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T05:08:37.996Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T05:08:38.012Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T05:08:38.012Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T05:08:38.012Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T05:08:38.501Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T05:08:39.260Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T05:08:40.340Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T05:09:27.672Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T05:09:28.187Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T05:09:28.188Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T05:09:28.188Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T05:18:53.623Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T05:18:55.094Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T05:18:55.407Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T05:18:55.410Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T05:18:55.897Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T05:18:55.898Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T05:18:55.898Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T05:18:55.909Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T05:18:55.910Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T05:18:55.910Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T05:18:56.437Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T05:18:58.175Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T06:41:30.812Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T06:41:32.629Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T06:41:32.646Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T06:41:33.121Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T06:41:33.121Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T06:41:33.121Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T06:41:33.140Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T06:41:33.140Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T06:41:33.141Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T06:41:33.621Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T06:41:36.282Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T06:41:43.509Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T06:41:43.997Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654705563\",\"content\":\"http://localhost:9000/img/uploads/file-1536654704486.gif\",\"stage\":{\"x\":-2189.631312561871,\"y\":-968.1247956077987,\"width\":2191.588031841232,\"height\":1461.0586878941544}}","timestamp":"2018-09-12T06:41:43.997Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T06:41:45.652Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T06:41:46.144Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654586420\",\"content\":\"http://traceroll-dev.dctsolutions.io/img/uploads/videos/file-1536654574729.mp4\",\"stage\":{\"x\":1070.3890698462405,\"y\":-329.5321303481501,\"width\":1458.0364499095722,\"height\":801.9200474502645}}","timestamp":"2018-09-12T06:41:46.144Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T06:41:46.939Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T06:41:47.439Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536653824939\",\"content\":\"http://traceroll-dev.dctsolutions.io/img/uploads/file-1536653823836.png\",\"stage\":{\"x\":731.7761247412955,\"y\":-1544.6141396951912,\"width\":811.9199288734717,\"height\":609.549496151255}}","timestamp":"2018-09-12T06:41:47.439Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:09:26.745Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:09:28.221Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:09:28.241Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T07:09:28.729Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T07:09:28.729Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T07:09:28.729Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T07:09:28.733Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T07:09:28.733Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T07:09:28.733Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T07:09:29.221Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:09:31.043Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:22:23.853Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:22:24.500Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:23:15.558Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:23:15.588Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:25:41.707Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:25:46.753Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:25:46.835Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:26:46.448Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T07:26:46.941Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654705563\",\"content\":\"http://localhost:9000/img/uploads/file-1536654704486.gif\",\"stage\":{\"x\":-3803.9804394515104,\"y\":-1804.1270220327915,\"width\":2191.588031841232,\"height\":1461.0586878941544}}","timestamp":"2018-09-12T07:26:46.941Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:30:51.891Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:30:53.256Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:30:53.648Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:30:53.663Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T07:30:54.146Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T07:30:54.146Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T07:30:54.146Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T07:30:54.174Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T07:30:54.174Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T07:30:54.174Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T07:30:54.651Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:30:56.425Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:31:01.392Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T07:31:01.898Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654705563\",\"content\":\"http://localhost:9000/img/uploads/file-1536654704486.gif\",\"stage\":{\"x\":-2410.6433954098557,\"y\":-1003.3586059168974,\"width\":2191.588031841232,\"height\":1461.0586878941544}}","timestamp":"2018-09-12T07:31:01.898Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:36:53.193Z"}
+{"level":"info","message":"Saving TEXT element","timestamp":"2018-09-12T07:36:53.707Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"ownerid\":17,\"content\":\"sadasdasdd\",\"stage\":{\"x\":680,\"y\":499}}","timestamp":"2018-09-12T07:36:53.707Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:36:57.134Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T07:36:57.630Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654586420\",\"content\":\"http://traceroll-dev.dctsolutions.io/img/uploads/videos/file-1536654574729.mp4\",\"stage\":{\"x\":2928.171795235114,\"y\":-441.63970860437485,\"width\":1458.0364499095722,\"height\":801.9200474502645}}","timestamp":"2018-09-12T07:36:57.630Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:37:00.120Z"}
+{"level":"info","message":"Update TEXT element","timestamp":"2018-09-12T07:37:00.617Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536737813711\",\"content\":\"sadasdasdd\",\"stage\":{\"x\":366.4016499390759,\"y\":195.51772574749293,\"fontSize\":24}}","timestamp":"2018-09-12T07:37:00.617Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:37:02.883Z"}
+{"level":"info","message":"Update TEXT element","timestamp":"2018-09-12T07:37:03.402Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536737813711\",\"content\":\"sadasdasdd\",\"stage\":{\"x\":366.4016499390759,\"y\":195.51772574749293,\"fontSize\":133}}","timestamp":"2018-09-12T07:37:03.402Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:37:04.973Z"}
+{"level":"info","message":"Update TEXT element","timestamp":"2018-09-12T07:37:05.485Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536737813711\",\"content\":\"sadasdasdd\",\"stage\":{\"x\":315.82127089699145,\"y\":-145.05682646920957,\"fontSize\":133}}","timestamp":"2018-09-12T07:37:05.485Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:42:37.318Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:42:38.358Z"}
+{"level":"info","message":"Saving Drawing element","timestamp":"2018-09-12T07:42:38.842Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:46:10.376Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:46:11.844Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:46:12.427Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:46:12.453Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T07:46:12.910Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T07:46:12.910Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T07:46:12.910Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T07:46:12.960Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T07:46:12.961Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T07:46:12.961Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T07:46:13.405Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:46:15.747Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:51:02.594Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:51:03.989Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:51:04.322Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:51:04.331Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T07:51:04.840Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T07:51:04.841Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T07:51:04.841Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T07:51:04.843Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T07:51:04.843Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T07:51:04.843Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536723378642,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T07:51:05.330Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:51:07.264Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:51:11.298Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T07:51:11.816Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654586420\",\"content\":\"http://traceroll-dev.dctsolutions.io/img/uploads/videos/file-1536654574729.mp4\",\"stage\":{\"x\":1239.6672979683885,\"y\":-557.5174682207189,\"width\":1458.0364499095722,\"height\":801.9200474502645}}","timestamp":"2018-09-12T07:51:11.817Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:56:35.042Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:56:36.388Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:56:36.729Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:56:36.745Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T07:56:37.241Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T07:56:37.241Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T07:56:37.241Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T07:56:37.249Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T07:56:37.250Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T07:56:37.250Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536738808425,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T07:56:37.740Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T07:56:39.562Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:56:54.326Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-12T07:56:54.827Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536737813711\"}","timestamp":"2018-09-12T07:56:54.827Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:57:38.693Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-12T07:57:39.208Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536653824939\"}","timestamp":"2018-09-12T07:57:39.208Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T07:57:51.537Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-12T07:57:52.051Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536738156780\"}","timestamp":"2018-09-12T07:57:52.052Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T08:12:33.891Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T08:12:34.413Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654705563\",\"content\":\"http://localhost:9000/img/uploads/file-1536654704486.gif\",\"stage\":{\"x\":-289.9588243554708,\"y\":-3747.2268009214736,\"width\":2191.588031841232,\"height\":1461.0586878941544}}","timestamp":"2018-09-12T08:12:34.413Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T08:12:34.989Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-12T08:12:35.505Z"}
+{"level":"info","message":"Data: {\"uid\":17,\"key\":\"element:17-1536654705563\",\"content\":\"http://localhost:9000/img/uploads/file-1536654704486.gif\",\"stage\":{\"x\":-1806.0622676969815,\"y\":-1477.7222599685351,\"width\":2191.588031841232,\"height\":1461.0586878941544}}","timestamp":"2018-09-12T08:12:35.505Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T08:12:38.114Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T08:12:39.588Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T08:12:39.753Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T08:12:39.771Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T08:12:40.268Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T08:12:40.268Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T08:12:40.268Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T08:12:40.276Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T08:12:40.276Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T08:12:40.276Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536739958866,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T08:12:40.775Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T08:12:42.633Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T08:32:48.633Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T08:32:50.169Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T08:32:50.635Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T08:32:50.638Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T08:32:51.149Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T08:32:51.149Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T08:32:51.149Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T08:32:51.152Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T08:32:51.152Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T08:32:51.152Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536741169396,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T08:32:51.668Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T08:33:02.555Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T08:33:04.320Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T08:33:04.344Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T08:33:04.838Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T08:33:04.838Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T08:33:04.838Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T08:33:04.865Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T08:33:04.865Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T08:33:04.866Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536741169396,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T08:33:05.345Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T08:33:05.835Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T08:39:51.594Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T08:39:53.325Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T08:39:53.608Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T08:39:53.618Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T08:39:54.114Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T08:39:54.114Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T08:39:54.114Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T08:39:54.132Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T08:39:54.133Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T08:39:54.133Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536741592353,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T08:39:54.614Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T08:40:15.730Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T08:40:17.569Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T08:40:17.572Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T08:40:18.073Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T08:40:18.073Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T08:40:18.073Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T08:40:18.088Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T08:40:18.088Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T08:40:18.088Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T08:40:18.108Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536741592353,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T08:40:18.560Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T08:49:19.247Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T08:49:21.566Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T08:49:21.569Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T08:49:21.702Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T08:49:22.084Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T08:49:22.084Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T08:49:22.084Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T08:49:22.089Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T08:49:22.089Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T08:49:22.089Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536742160011,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T08:49:22.588Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T08:50:07.100Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T08:50:08.933Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T08:50:08.937Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T08:50:09.440Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T08:50:09.440Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T08:50:09.440Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T08:50:09.469Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T08:50:09.470Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T08:50:09.470Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T08:50:09.479Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536742160011,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T08:50:09.943Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T08:53:09.359Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T08:53:10.704Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T08:53:11.011Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T08:53:11.018Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T08:53:11.527Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T08:53:11.527Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T08:53:11.527Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T08:53:11.531Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T08:53:11.531Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T08:53:11.531Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536742160011,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T08:53:12.043Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T08:56:40.597Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T08:56:41.933Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T08:56:42.259Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T08:56:42.265Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T08:56:42.767Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T08:56:42.767Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T08:56:42.767Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T08:56:42.770Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T08:56:42.770Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T08:56:42.770Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536742601348,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T08:56:43.292Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T09:11:36.832Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T09:11:39.000Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T09:11:39.684Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T09:11:39.693Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T09:11:40.188Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T09:11:40.188Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T09:11:40.188Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T09:11:40.193Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T09:11:40.193Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T09:11:40.193Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536743497601,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T09:11:40.712Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T09:15:37.345Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T09:15:39.228Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T09:15:39.857Z"}
+{"uid":17,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-12T09:15:39.868Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-12T09:15:40.373Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T09:15:40.373Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T09:15:40.373Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-12T09:15:40.382Z"}
+{"level":"info","message":"Userslug: daruma","timestamp":"2018-09-12T09:15:40.382Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-12T09:15:40.382Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"ngoquocdat093@gmail.com\",\"firstname\":null,\"fullname\":\"darukima\",\"joinDate\":1536222263164,\"lastOnline\":1536743497601,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$tkXcNqekVGr4OJL795iC9.HYqraK1CvaJNezXbUYJ8ziTDBsTvsle\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/f4af83b6b5d0608e70f0001a52d505d9?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":17,\"username\":\"daruma\",\"userslug\":\"daruma\",\"profilePosition\":{\"x\":800,\"y\":371},\"isProfileImageHide\":0}","timestamp":"2018-09-12T09:15:40.882Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-12T09:15:43.045Z"}

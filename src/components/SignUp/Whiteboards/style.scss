@@ -1,0 +1,125 @@
+/** Styling for Whiteboards Section on the homepage **/
+
+@function get-signup($target) {
+  @return ($target * 20) * 1px;
+}
+
+.whiteboards_wrapper.wrapper {
+  width: 100%;
+  background-image: url("/img/login/intro_desktop.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding: 0px;
+}
+
+.whiteboards_wrapper img {
+  width: 60%;
+  height: auto;
+  display: inline-block;
+}
+
+.whiteboards_content_wrapper {
+    display: inline-block;
+    vertical-align: middle;
+    /* width: 40%; */
+    padding-left: 57%;
+    padding-right: 3%;
+    padding-top: 29%;
+    padding-bottom: 20%;
+
+  .headline {
+    margin-bottom: 2vh;
+  }
+  p {
+    margin-bottom: 5vh;
+  }
+}
+
+.whiteboard_bottom{
+  display:none;
+}
+
+@media only screen and (max-width: 1230px) {
+  .whiteboards_signUp {
+    font-size:  get-signup(0.8);
+  }
+}
+
+
+@media only screen and (max-width: 1001px) {
+  .whiteboards_signUp {
+       font-size:  get-signup(0.6);
+  }
+}
+
+
+@media only screen and (max-width: 783px) {
+
+  .whiteboards_content_wrapper p{
+    margin-bottom: 4vh;
+
+  }
+}
+
+
+@media only screen and (max-width: 545px) {
+
+  .whiteboards_content_wrapper p{
+    margin-bottom: 3vh;
+  }
+}
+
+
+@media only screen and (max-width: 420px) {
+
+    .whiteboard-image{
+    	max-width:100%;
+    }
+
+    .whiteboards_signUp {
+      display: none;
+    }
+
+   .whiteboard_top{
+   	 display:none;
+   }
+
+   .whiteboard_bottom{
+   	 display:block;
+   }
+
+   .whiteboards_wrapper.wrapper {
+    //max-width: 100%;
+   // background-image: url("/img/login/Welcome_Mobile.png");
+   // background-size: 100% 100%;
+   // background-repeat: no-repeat;
+   // padding: 0px;
+
+    width: 100%;
+    background-image: none;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 0 0 14vh 0;
+  }
+
+   .whiteboard_bottom_content{
+   	width:100%;
+      padding: 0;
+      text-align:center;
+  }
+
+
+  .whiteboards_content_wrapper_2 {
+    display: inline-block;
+    vertical-align: middle;
+        /* width: 40%; */
+     padding:0;
+  }
+
+   .whiteboards_wrapper img {
+      width: 100%;
+      height: auto;
+      display: inline-block;
+  }
+
+}

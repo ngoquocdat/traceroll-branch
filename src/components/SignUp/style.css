@@ -1,0 +1,476 @@
+/*
+stylesheet for login page
+*/
+/*Examples */
+/*src: url('webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+/*		 url('webfont.woff2') format('woff2'), /* Super Modern Browsers */
+/*		 url('webfont.woff') format('woff'), /* Pretty Modern Browsers */
+/*		 url('webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+/*		 url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+#root b, strong {
+  font-family: "AvenirNext-Regular", Helvetica, sans-serif; }
+
+#home {
+  font-family: "AvenirNext-Regular", Helvetica, sans-serif; }
+  #home.loading {
+    cursor: progress; }
+  #home #login_mobile {
+    display: none; }
+  #home #topBtn {
+    display: none;
+    position: fixed;
+    bottom: 15px;
+    right: 20px;
+    z-index: 99;
+    cursor: pointer; }
+  #home .login_wrapper {
+    height: 45vw;
+    width: 100%; }
+    #home .login_wrapper img {
+      float: left;
+      vertical-align: middle;
+      margin: 6.5% 10% 6% 10%;
+      max-width: 100%; }
+    #home .login_wrapper .loginmodal {
+      background-color: white;
+      border-radius: 5px;
+      box-shadow: 0 3px 15px 0 rgba(0, 0, 0, 0.16);
+      height: 440px;
+      position: absolute;
+      /*top: calc((100vh - 500px)/2);*/
+      margin-top: 10vh;
+      right: 10%;
+      width: 350px; }
+      #home .login_wrapper .loginmodal .hasDanger {
+        position: absolute; }
+      #home .login_wrapper .loginmodal .signform {
+        width: 100%; }
+
+.forgot-password_wrapper .loginmodal input, .login_wrapper .loginmodal input {
+  background-color: #f4f4f4;
+  border: 0.7px solid #dadbdc;
+  border-radius: 5px;
+  color: #797979;
+  font-size: 17px;
+  padding-left: 10px;
+  height: 32px;
+  line-height: 30px;
+  letter-spacing: 0.5px;
+  margin: 8px 0px;
+  width: 100%; }
+  .forgot-password_wrapper .loginmodal input:focus, .login_wrapper .loginmodal input:focus {
+    outline: none; }
+
+.login_wrapper .loginmodal {
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 3px 15px 0 rgba(0, 0, 0, 0.16);
+  position: absolute;
+  /*top: calc((100vh - 500px)/2);*/
+  margin-top: 10vh;
+  width: 350px; }
+  .login_wrapper .loginmodal .signform {
+    float: left;
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    padding: 2.5% 5%;
+    text-align: left; }
+    .login_wrapper .loginmodal .signform h2 {
+      color: #797979;
+      font-size: 25px;
+      font-weight: bold;
+      margin-top: 30px;
+      letter-spacing: 0.5px;
+      text-align: center;
+      width: 100%; }
+      .login_wrapper .loginmodal .signform h2.welcome-headline {
+        color: #484848; }
+    .login_wrapper .loginmodal .signform label {
+      width: 100%;
+      margin-top: 15px;
+      font-family: 'AvenirNext-Regular','Roboto',Arial;
+      color: #444; }
+    .login_wrapper .loginmodal .signform .or_wrap {
+      width: 50%;
+      margin: auto;
+      padding: 10px 0px;
+      color: lightgrey; }
+    .login_wrapper .loginmodal .signform button#btnlogin, .login_wrapper .loginmodal .signform button#btnreg, .login_wrapper .loginmodal .signform button#btnLoginFB {
+      width: 100%;
+      height: 30px;
+      background-color: #3897f0;
+      margin-top: 10px;
+      display: block;
+      border-radius: 3px;
+      border: 0px;
+      color: white;
+      font-weight: 600;
+      font-size: 16.56px;
+      letter-spacing: 0.5px;
+      border-bottom: 2px solid #1d8cc3; }
+    .login_wrapper .loginmodal .signform .br, .login_wrapper .loginmodal .signform .or {
+      float: left;
+      width: 10%;
+      text-align: center; }
+    .login_wrapper .loginmodal .signform .br {
+      height: 1px;
+      background-color: lightgrey;
+      width: 45%;
+      margin-top: 10px; }
+    .login_wrapper .loginmodal .signform button:active {
+      border-bottom: none !important;
+      outline: none; }
+    .login_wrapper .loginmodal .signform button:focus {
+      outline: none; }
+  .login_wrapper .loginmodal .signup {
+    float: left;
+    height: 100%;
+    width: 50%;
+    opacity: 0;
+    padding: 0 3%;
+    animation: fadeInLeft 0s 0s forwards;
+    text-align: left; }
+
+#footer {
+  background-size: contain;
+  font-family: "AvenirNext-Regular", Helvetica, sans-serif; }
+
+body h2.headline {
+  font-weight: bold; }
+
+img {
+  max-width: 100%; }
+
+.legal {
+  color: #797979;
+  font-size: smaller;
+  width: 100%;
+  text-align: center; }
+
+/*Error handling */
+.hasDanger {
+  color: black;
+  box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.16);
+  background-color: white;
+  width: 100%;
+  /* border: 1px solid black; */
+  left: 0;
+  margin-top: -0.5vw;
+  text-align: center;
+  font-size: smaller;
+  font-weight: bold; }
+
+.hasDanger-border {
+  border: 1px solid red !important; }
+
+.isSafe-border {
+  border: 1px solid green !important; }
+
+.headline {
+  font-size: 38px;
+  font-weight: 600;
+  letter-spacing: 1px; }
+
+.testProfile {
+  cursor: pointer !important; }
+
+.whiteboards_content_wrapper p, #platforms p, #platform_top p, .collaborate_wrapper p, .canvas_content_wrapper p {
+  line-height: 24px;
+  font-weight: lighter;
+  font-size: 17px;
+  letter-spacing: 0.5px; }
+
+.wrapper {
+  padding: 14vh 0; }
+
+@media only screen and (min-width: 1800px) {
+  #home img.half {
+    width: 50%;
+    height: auto; }
+  #home img.full {
+    width: 90%;
+    height: auto; }
+  #home img.logo {
+    width: 135px;
+    height: 135px; }
+  #home img#appleBadge {
+    width: 300px;
+    height: auto; }
+  #home img#googleBadge {
+    width: 327px;
+    height: auto; }
+  #home #topBtn {
+    width: 75px;
+    height: 75px; }
+  #home .beta {
+    font-size: 30px; }
+  #home h2.headline {
+    font-size: 60px; }
+  #home p.tagline {
+    font-size: 26px;
+    margin-top: 4px; }
+  #home p.heading img {
+    width: 350px;
+    height: auto; }
+  #home .whiteboards_content_wrapper p, #home #platforms p, #home #platform_top p, #home .collaborate_wrapper p, #home .canvas_content_wrapper p, #home .mobileApp_content_wrapper p {
+    line-height: 42px;
+    font-size: 29px;
+    letter-spacing: 1px; }
+  #home .buttons a {
+    font-size: 24px; }
+    #home .buttons a.login {
+      font-size: 34px; }
+  #home .ios-headline {
+    font-size: 33px; }
+  #home h4.sub-headline {
+    font-size: 35px; }
+  #home .login_wrapper .loginmodal {
+    height: 625px;
+    width: 450px;
+    margin-top: 11vh; }
+    #home .login_wrapper .loginmodal h2 {
+      font-size: 35px; }
+    #home .login_wrapper .loginmodal input {
+      padding: 25px;
+      font-size: 37px;
+      height: 40px;
+      margin: 12px 0; }
+    #home .login_wrapper .loginmodal .signform button#btnreg {
+      font-size: 26.56px;
+      height: 40px; }
+  #home .platforms_content_wrapper2 h5 {
+    font-size: 23px;
+    letter-spacing: 1px; }
+  #home .platform-image1 {
+    width: 600px;
+    height: auto; }
+  #home .platform-image2 {
+    width: 389px;
+    height: auto; }
+  #home .footer_content p, #home .footer_content a {
+    font-size: 28px; }
+  #home .footer_content .footer_logo {
+    width: 135px;
+    height: auto; }
+  #home .footer_content #copyright-image {
+    width: 250px; } }
+
+@media only screen and (min-width: 2000px) {
+  #home .login_wrapper .loginmodal {
+    height: 650px;
+    width: 532px;
+    margin-top: 17vh; }
+  #home .login_wrapper h2 {
+    font-size: 40px; } }
+
+@media only screen and (max-width: 1346px) {
+  #home .login_wrapper img {
+    width: calc(53vw/1.1); } }
+
+@media only screen and (max-width: 1230px) {
+  .headline {
+    font-size: 30.4px;
+    font-weight: 600; }
+  #home .login_wrapper {
+    height: 55vw; }
+    #home .login_wrapper img {
+      width: calc(50vw/1.1); } }
+
+@media only screen and (max-width: 1098px) {
+  #platforms .platforms_content_wrapper2 {
+    width: 60vw; }
+  #collaboration #platform_bottom {
+    width: 60vw; } }
+
+@media only screen and (max-width: 1049px) {
+  .whiteboards_content_wrapper p {
+    font-weight: lighter;
+    font-size: 13.5px; }
+  #home .login_wrapper {
+    height: 65vw; } }
+
+@media only screen and (max-width: 1001px) {
+  .headline {
+    font-size: 22.8px;
+    font-weight: 600; }
+  .whiteboards_content_wrapper p {
+    line-height: 19.2px;
+    font-weight: lighter;
+    font-size: 12.75px; } }
+
+@media only screen and (max-width: 988px) {
+  #home .login_wrapper img {
+    width: calc(50vw/1.5); } }
+
+@media only screen and (max-width: 877px) {
+  #home .login_wrapper {
+    height: 145vh; }
+    #home .login_wrapper img {
+      float: none;
+      width: 550px;
+      margin: 8% auto 2%;
+      display: block;
+      padding: 1%; }
+    #home .login_wrapper .loginmodal {
+      position: relative;
+      margin: 10vh auto 0;
+      display: block;
+      right: 0; } }
+
+@media only screen and (max-width: 807px) {
+  .headline {
+    font-size: 19px;
+    font-weight: 600; }
+  .whiteboards_content_wrapper p {
+    line-height: 14.4px;
+    font-weight: lighter;
+    font-size: 9px; } }
+
+@media only screen and (max-width: 768px) {
+  .login_wrapper .loginmodal {
+    width: 100%;
+    left: 0px; } }
+
+@media only screen and (max-width: 767px) {
+  .login_wrapper .loginmodal {
+    overflow: hidden;
+    width: 90%;
+    left: 5%;
+    background-color: rgba(255, 255, 255, 0.9); }
+    .login_wrapper .loginmodal .signup, .login_wrapper .loginmodal .signform {
+      width: 50%; } }
+
+@media only screen and (max-width: 659px) {
+  .headline {
+    font-size: 15.2px;
+    font-weight: 600; } }
+
+@media only screen and (max-width: 635px) {
+  .whiteboards_content_wrapper p {
+    line-height: 12px;
+    font-weight: lighter;
+    font-size: 7.5px; } }
+
+@media only screen and (max-width: 600px) {
+  #home .login_wrapper {
+    height: 135vh; }
+    #home .login_wrapper img {
+      float: none;
+      width: 375px;
+      margin: 8% auto 2%;
+      display: block;
+      padding: 1%; }
+    #home .login_wrapper .loginmodal {
+      position: relative;
+      margin: 10vh auto 0;
+      display: block; } }
+
+@media only screen and (max-width: 560px) {
+  .whiteboards_content_wrapper p {
+    line-height: 9.6px;
+    font-weight: lighter;
+    font-size: 6px; } }
+
+@media only screen and (max-width: 545px) {
+  .headline {
+    font-size: 11.4px;
+    font-weight: 600; }
+  #home .login_wrapper {
+    height: 135vh; }
+    #home .login_wrapper img {
+      margin-top: 12%; } }
+
+@media only screen and (max-width: 486px) {
+  .whiteboards_content_wrapper p {
+    line-height: 9.6px;
+    font-weight: lighter;
+    font-size: 6px; } }
+
+@media only screen and (max-width: 431px) {
+  .whiteboards_content_wrapper p {
+    line-height: 8.4px;
+    font-weight: lighter;
+    font-size: 5.25px; }
+  .headline {
+    font-size: 9.5px;
+    font-weight: 600; } }
+
+#home.mobile #login {
+  display: none; }
+
+#home.mobile #login_mobile {
+  background-color: white;
+  bottom: 0;
+  display: block;
+  margin: 0;
+  padding: 3%;
+  display: block;
+  position: fixed;
+  margin: 0;
+  opacity: 0.8;
+  height: auto;
+  text-align: center; }
+  #home.mobile #login_mobile p {
+    color: #898989;
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.17;
+    letter-spacing: normal;
+    padding: 0 5vw;
+    font-family: "AvenirNext-Regular", Helvetica; }
+
+#home.mobile #top-wrapper {
+  display: none; }
+
+@media only screen and (max-width: 420px) {
+  #home .login_wrapper {
+    height: auto; }
+  #home .footer_content .image-copyright-mobile {
+    height: 189px; }
+  #home .heading img {
+    width: 200px; }
+  #home .tagline {
+    font-size: 13px; }
+  div.login_wrapper .loginmodal .signform {
+    width: 100%; }
+  .collaborate_wrapper p, #platforms p, .canvas_content_wrapper p, .platforms_content_wrapper2 p, .mobileApp_content_wrapper p {
+    line-height: 4vw;
+    font-weight: lighter;
+    font-size: 3.6vw;
+    margin-bottom: 5vh; }
+  .canvas_content_wrapper .headline {
+    font-size: 5.2vw;
+    font-weight: 600;
+    margin-top: 0; }
+  #platforms p {
+    margin-bottom: 0; }
+  h5 {
+    margin: 0; }
+  .headline {
+    margin-bottom: 2vh !important;
+    font-size: 6vw !important;
+    font-weight: 600 !important;
+    margin-top: 0 !important; }
+  #Whiteboards p, #exhibition p, #collaboration p, #canvas p {
+    margin-bottom: 5vh;
+    line-height: 4vw;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 3.6vw;
+    padding: 0 2vw; }
+  #platforms .platforms_content_wrapper2 {
+    width: 100%; }
+    #platforms .platforms_content_wrapper2 p {
+      margin-bottom: 1vh;
+      line-height: 4vw;
+      font-family: sans-serif;
+      font-weight: lighter;
+      font-size: 3.6vw; }
+      #platforms .platforms_content_wrapper2 p:first-child {
+        smargin-bottom: 0; }
+  #collaboration #platform_bottom {
+    width: 100%; } }

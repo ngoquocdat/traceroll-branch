@@ -1,0 +1,65 @@
+/** Styling for platforms Section on the homepage **/
+/*overwriting wrapper css*/
+#collaboration .platforms_wrapper1 {
+  text-align: center; }
+  #collaboration .platforms_wrapper1.wrapper {
+    padding: 14vh 5vh; }
+
+#collaboration #wacom-text {
+  font-size: 14px;
+  margin-top: 8%; }
+  #collaboration #wacom-text img {
+    vertical-align: middle; }
+
+.platforms_content_wrapper1 {
+  display: inline-block;
+  padding: 4% 3% 4% 4%;
+  text-align: left;
+  vertical-align: middle;
+  /*width: 42%;*/ }
+  .platforms_content_wrapper1 .fadeInRight {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+    max-width: 100%;
+    width: 100%; }
+
+.drawing-collaboration {
+  height: auto;
+  display: inline-block;
+  max-width: 100%; }
+  div.fadeInLeft {
+    height: auto;
+    display: inline-block;
+    max-width: 100%; }
+
+#platform_top {
+  display: inline-block; }
+
+#platform_bottom {
+  display: none; }
+
+@media only screen and (max-width: 1098px) {
+  #platform_top {
+    display: none; }
+  #platform_bottom {
+    display: inline-block; }
+  .platforms_content_wrapper1 {
+    width: 100%;
+    padding: 0 5vw; }
+  .drawing-collaboration {
+    padding: 0 5vw; }
+  #collaboration .wrapper {
+    padding: 5vh 0; } }
+
+@media only screen and (max-width: 420px) {
+  #collaboration .platforms_wrapper1.wrapper {
+    padding: 14vh 0; }
+  #platform_top {
+    display: none; }
+  #platform_bottom {
+    display: inline-block; }
+  .drawing-collaboration {
+    padding: 0; }
+  .platforms_content_wrapper1 {
+    text-align: center; } }

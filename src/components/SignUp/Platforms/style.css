@@ -1,0 +1,45 @@
+/** Styling for platforms Section on the homepage **/
+/*overwriting wrapper css*/
+#platforms .wrapper {
+  padding: 5vh; }
+
+.platforms_wrapper1, .platforms_wrapper2 {
+  text-align: center; }
+
+.platforms_content_wrapper1, .platforms_content_wrapper2 {
+  display: inline-block;
+  padding: 4%;
+  text-align: left;
+  vertical-align: middle;
+  width: 42%; }
+
+.platform-image1, .platform-image2 {
+  height: auto;
+  display: inline-block;
+  max-width: 100%; }
+
+.platforms_content_wrapper2 {
+  margin-top: -8%;
+  vertical-align: middle; }
+
+#platform_top {
+  display: inline-block; }
+
+#platform_bottom {
+  display: none; }
+
+@media only screen and (max-width: 1098px) {
+  #platform_top {
+    display: none; }
+  #platform_bottom {
+    display: inline-block; }
+  .platforms_content_wrapper1 {
+    width: 100%;
+    padding: 0 5vw; }
+  .platforms_content_wrapper2 {
+    width: 100%;
+    padding: 5vw; }
+  .platform-image1, .platform-image2 {
+    padding: 0 5vw; }
+  #platforms .wrapper {
+    padding: 5vh 0; } }

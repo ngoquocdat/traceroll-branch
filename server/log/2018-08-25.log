@@ -1,0 +1,72 @@
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-08-25T05:23:02.023Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-25T05:23:44.961Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-25T05:23:45.474Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-25T05:23:45.474Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-25T05:23:45.474Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-25T05:23:53.590Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-25T05:23:53.595Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-25T05:23:53.599Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-25T05:23:53.666Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-25T05:23:56.462Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-25T05:23:56.467Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-25T05:23:59.849Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-25T05:24:01.005Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-25T05:24:01.061Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-08-25T05:24:01.518Z"}
+{"level":"info","message":"Userslug: fb-2624138660933456","timestamp":"2018-08-25T05:24:01.518Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-25T05:24:01.518Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"\",\"firstname\":null,\"fullname\":\"Nguyễn Phong Nhật\",\"joinDate\":1534358298457,\"lastOnline\":\"\",\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":5,\"username\":\"fb-2624138660933456\",\"userslug\":\"fb-2624138660933456\",\"profilePosition\":{\"x\":683,\"y\":305}}","timestamp":"2018-08-25T05:24:02.033Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-08-25T05:24:02.106Z"}
+{"level":"info","message":"Userslug: fb-2624138660933456","timestamp":"2018-08-25T05:24:02.106Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-25T05:24:02.106Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-25T05:24:29.491Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-08-25T05:28:56.245Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-25T05:29:00.399Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-25T05:29:05.429Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-25T05:29:06.060Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-25T05:29:06.350Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-08-25T05:29:07.889Z"}
+{"level":"info","message":"Userslug: fb-2624138660933456","timestamp":"2018-08-25T05:29:07.889Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-25T05:29:07.889Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-08-25T05:29:07.894Z"}
+{"level":"info","message":"Userslug: fb-2624138660933456","timestamp":"2018-08-25T05:29:07.894Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-25T05:29:07.895Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"\",\"firstname\":null,\"fullname\":\"Nguyễn Phong Nhật\",\"joinDate\":1534358298457,\"lastOnline\":\"\",\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":5,\"username\":\"fb-2624138660933456\",\"userslug\":\"fb-2624138660933456\",\"profilePosition\":{\"x\":683,\"y\":305}}","timestamp":"2018-08-25T05:29:08.503Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-08-25T05:34:04.071Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-25T05:43:24.352Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-25T05:43:28.405Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-25T05:43:28.518Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-25T05:43:28.600Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-08-25T05:43:30.083Z"}
+{"level":"info","message":"Userslug: fb-2624138660933456","timestamp":"2018-08-25T05:43:30.084Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-25T05:43:30.084Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-08-25T05:43:30.087Z"}
+{"level":"info","message":"Userslug: fb-2624138660933456","timestamp":"2018-08-25T05:43:30.088Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-25T05:43:30.088Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"\",\"firstname\":null,\"fullname\":\"Nguyễn Phong Nhật\",\"joinDate\":1534358298457,\"lastOnline\":\"\",\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":5,\"username\":\"fb-2624138660933456\",\"userslug\":\"fb-2624138660933456\",\"profilePosition\":{\"x\":683,\"y\":305}}","timestamp":"2018-08-25T05:43:30.701Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-08-25T05:55:02.509Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-25T05:55:09.869Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-25T05:55:13.552Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-25T05:55:13.880Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-25T05:55:15.093Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-08-25T05:55:15.400Z"}
+{"level":"info","message":"Userslug: fb-2624138660933456","timestamp":"2018-08-25T05:55:15.400Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-25T05:55:15.400Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-08-25T05:55:15.706Z"}
+{"level":"info","message":"Userslug: fb-2624138660933456","timestamp":"2018-08-25T05:55:15.706Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-25T05:55:15.706Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"\",\"firstname\":null,\"fullname\":\"Nguyễn Phong Nhật\",\"joinDate\":1534358298457,\"lastOnline\":\"\",\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":5,\"username\":\"fb-2624138660933456\",\"userslug\":\"fb-2624138660933456\",\"profilePosition\":{\"x\":683,\"y\":305}}","timestamp":"2018-08-25T05:55:16.014Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-08-25T13:50:37.757Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-25T13:50:39.413Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-25T13:50:43.279Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-25T13:50:43.411Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-08-25T13:50:43.816Z"}
+{"level":"info","message":"Userslug: fb-2624138660933456","timestamp":"2018-08-25T13:50:43.816Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-25T13:50:43.816Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-08-25T13:50:43.936Z"}
+{"level":"info","message":"Userslug: fb-2624138660933456","timestamp":"2018-08-25T13:50:43.936Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-25T13:50:43.936Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"\",\"firstname\":null,\"fullname\":\"Nguyễn Phong Nhật\",\"joinDate\":1534358298457,\"lastOnline\":\"\",\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":5,\"username\":\"fb-2624138660933456\",\"userslug\":\"fb-2624138660933456\",\"profilePosition\":{\"x\":683,\"y\":305}}","timestamp":"2018-08-25T13:50:44.353Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-25T13:50:55.442Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-25T13:50:56.526Z"}
+{"level":"info","message":"Saving Drawing element","timestamp":"2018-08-25T13:50:57.059Z"}

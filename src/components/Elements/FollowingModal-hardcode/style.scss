@@ -1,0 +1,27 @@
+/* Following Modal */
+@import '../../mixins.scss';
+
+.following-home{
+  .following-modal{
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    border-bottom: 0.5px solid;
+    border-color: #ecebeb;
+    font-family: $font-stack, sans-serif;
+    padding: 22px;
+    h4{
+      font-weight: 600;
+      line-height: 18px;
+      .name{
+        font-weight: lighter;
+      }
+    }
+    img{
+      width: 50px;
+      height: 50px;
+    }
+    .btn-follow{
+      padding: 0 9px;
+    }
+  }
+}

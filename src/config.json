@@ -1,0 +1,33 @@
+{
+	"url": "http://localhost:9000",
+	"secret": "9174157e-8920-435d-b257-4d1c686d782f",
+	"port": "9000",
+	"upload_path": "/build/img/uploads",
+	"uploadVideo_path": "/build/img/uploads/videos",
+	"image_path": "/img/uploads",
+	"video_path": "/img/uploads/videos",
+	"thumb_path": "/img/uploads/videos/thumbnails",
+	"mongo": {
+		"host":"ds121262.mlab.com:21262/traceroll",
+		"port":"21262",
+		"username":"admin",
+		"password":"admin23101995",
+		"database":"traceroll"
+	},
+	"ssl-development": {
+		"ca": "./server/ssl_tsl/ca_bundle.crt",
+		"key":"./server/ssl_tsl/private.key",
+		"cert":"./server/ssl_tsl/certificate.crt"
+	},
+	"newsfeed":{
+		"item":{
+			"height": 150,
+			"widtd": 150
+		}
+	},
+	"mail-reciever": "zojellakup-5581@yopmail.com",
+	"auth-sender": {
+	    "user": "tracerollsup@gmail.com",
+	    "pass": "traceRoll2018.com"
+	}
+}

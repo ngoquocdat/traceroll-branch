@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43.198 15.236">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #c1c1c1;
+      }
+    </style>
+  </defs>
+  <g id="Group_1615" data-name="Group 1615" transform="translate(1.5 1.5)">
+    <g id="timeline" transform="translate(0 0)">
+      <g id="Group_1361" data-name="Group 1361" transform="translate(0 6)">
+        <line id="Line_117" data-name="Line 117" class="cls-1" x2="40.198" transform="translate(0 0)"/>
+      </g>
+      <ellipse id="Ellipse_119" data-name="Ellipse 119" class="cls-2" cx="6.118" cy="6.118" rx="6.118" ry="6.118" transform="translate(24.027)"/>
+      <ellipse id="Ellipse_120" data-name="Ellipse 120" class="cls-2" cx="3.586" cy="3.586" rx="3.586" ry="3.586" transform="translate(11.391 2.414)"/>
+    </g>
+  </g>
+</svg>

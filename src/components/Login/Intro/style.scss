@@ -1,0 +1,78 @@
+/* Styling for the introduction section on the homepage */
+
+.intro_wrapper.wrapper {
+  width: 100%;
+  background-image: url("/img/login/bg2.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding: 0px;
+}
+
+.intro_content_wrapper {
+  text-align: center;
+  color: #ffffff;
+  img {
+    max-width: 100%;
+    margin: 7vh 0 2vh;
+    box-shadow: 0 3px 25px 0 rgba(0, 0, 0, 0.16);
+    border-radius: 94px;
+  }
+  h1 {
+    font-size: 42px;
+    font-weight: bold;
+    letter-spacing: 1.2px;
+  }
+  h2 {
+    margin-top: 14vh;
+    font-size: 32px;
+    font-weight: bold;
+    letter-spacing: 1.8px;
+    line-height: 1.5;
+  }
+  h4 {
+    font-weight: lighter;
+    line-height: 1.45;
+    letter-spacing: 0.7px;
+  }
+}
+
+.intro_wrapper header p {
+  color: #fff;
+  text-align: right;
+  padding: 18px;
+}
+
+.introLogin_wrapper {
+  padding: 3% 2%;
+}
+
+#login-button {
+  text-decoration: underline;
+}
+
+#sign-up-button {
+  border: 1px solid #fff;
+  padding: 4px;
+  border-radius: 4px;
+  font-weight: 650;
+  margin-left: 23px;
+}
+
+.signup-links {
+  color: #fff;
+  font-size: 19px;
+  font-stretch: normal;
+  letter-spacing: 1.5px;
+  text-align: left;
+  margin-right: -11px;
+  margin-left: 14px;
+}
+
+@media only screen and (max-width: 420px) {
+  .introLogin_wrapper {
+    display: none;
+  }
+  h4 {
+    padding-bottom: 5vh;
+  }
+}

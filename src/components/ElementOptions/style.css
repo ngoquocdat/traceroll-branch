@@ -1,0 +1,17 @@
+.element-options {
+  position: absolute;
+  padding: 0 0 15px;
+  margin: 0;
+}
+.element-options li button{
+  background: white;
+  border: none;
+  border-radius: 100px;
+  width: 30px;
+  height: 30px;
+  box-shadow: 1px 1px 4px;
+  outline: none;
+}
+.remove-element-wrapper:hover{
+  color: red
+}

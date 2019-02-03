@@ -1,0 +1,22 @@
+.toast-box {
+  position: fixed;
+  opacity: 0;
+  transition: 0.25s;
+  bottom: 40px;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+.toast-box.show {
+  z-index: 200;
+  opacity: 1;
+  transform: translateY(-40px);
+}
+.toast-box h4 {
+  box-shadow: 1px 1px 10px #999;
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 50px;
+  margin: 0;
+  background: white;
+}

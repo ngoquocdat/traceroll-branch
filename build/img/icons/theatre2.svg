@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44.032 23.083">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="theatre" transform="translate(2.121 1.5)">
+    <rect id="Rectangle_473" data-name="Rectangle 473" class="cls-1" width="20.083" height="20.083" transform="translate(9.858 0)"/>
+    <line id="Line_118" data-name="Line 118" class="cls-1" y1="4.515" x2="4.515" transform="translate(0 5.503)"/>
+    <line id="Line_119" data-name="Line 119" class="cls-1" x2="4.515" y2="4.515" transform="translate(0 10.065)"/>
+    <line id="Line_120" data-name="Line 120" class="cls-1" x1="4.515" y1="4.515" transform="translate(35.275 5.221)"/>
+    <line id="Line_121" data-name="Line 121" class="cls-1" x1="4.515" y2="4.515" transform="translate(35.275 9.783)"/>
+  </g>
+</svg>

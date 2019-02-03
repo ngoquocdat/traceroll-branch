@@ -1,0 +1,18 @@
+.notification-box {
+  position: absolute;
+  right: -265px;
+  background: white;
+  box-shadow: 1px 1px 10px #999;
+  padding: 20px;
+  margin: 20px;
+  opacity: 0;
+  transition: 0.5s;
+}
+.notification-box.show {
+  opacity: 1;
+  animation: box-show 3s;
+  transform: translateX(-305px) translateX(40px);
+}
+.notification-box h2 {
+  margin: 0;
+}

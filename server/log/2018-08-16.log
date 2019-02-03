@@ -1,0 +1,66 @@
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-08-16T06:53:56.927Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-16T06:55:36.103Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-16T06:55:36.766Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-16T06:55:36.767Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-16T06:55:36.767Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-16T06:58:40.237Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-08-16T07:17:47.359Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-16T07:21:27.873Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-16T07:21:40.665Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-16T07:21:41.239Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-16T07:21:41.240Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-16T07:21:41.240Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-16T07:21:53.390Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-08-16T07:52:26.228Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-16T07:52:44.583Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-16T07:52:45.470Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-16T07:53:01.202Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-08-16T07:53:01.951Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-08-16T07:53:01.952Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-08-16T07:53:01.953Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-16T07:54:23.767Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-16T07:54:30.116Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-16T07:54:32.985Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-16T07:54:32.987Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-08-16T07:54:33.598Z"}
+{"level":"info","message":"Userslug: fb-2624138660933456","timestamp":"2018-08-16T07:54:33.598Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-16T07:54:33.598Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-08-16T07:54:33.602Z"}
+{"level":"info","message":"Userslug: fb-2624138660933456","timestamp":"2018-08-16T07:54:33.602Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-16T07:54:33.602Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"\",\"firstname\":null,\"fullname\":\"Nguyễn Phong Nhật\",\"joinDate\":1534358298457,\"lastOnline\":\"\",\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":5,\"username\":\"fb-2624138660933456\",\"userslug\":\"fb-2624138660933456\"}","timestamp":"2018-08-16T07:54:34.212Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-16T07:54:35.235Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-16T08:11:11.004Z"}
+{"level":"info","message":"Saving TEXT element","timestamp":"2018-08-16T08:11:11.676Z"}
+{"level":"info","message":"Data: {\"uid\":5,\"ownerid\":5,\"content\":\"tesst\",\"stage\":{\"x\":683,\"y\":494}}","timestamp":"2018-08-16T08:11:11.676Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-16T08:11:16.358Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-08-16T08:11:16.999Z"}
+{"level":"info","message":"Userslug: fb-2624138660933456","timestamp":"2018-08-16T08:11:16.999Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-16T08:11:16.999Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-16T08:11:28.261Z"}
+{"level":"info","message":"Update TEXT element","timestamp":"2018-08-16T08:11:28.922Z"}
+{"level":"info","message":"Data: {\"uid\":5,\"key\":\"element:5-1534407071737\",\"content\":\"tesst\",\"stage\":{\"x\":907,\"y\":197,\"fontSize\":24}}","timestamp":"2018-08-16T08:11:28.923Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-08-16T08:16:04.050Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-16T08:17:12.934Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-16T08:17:17.165Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-16T08:17:17.288Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-08-16T08:17:17.853Z"}
+{"level":"info","message":"Userslug: fb-2624138660933456","timestamp":"2018-08-16T08:17:17.853Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-16T08:17:17.853Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-08-16T08:17:17.904Z"}
+{"level":"info","message":"Userslug: fb-2624138660933456","timestamp":"2018-08-16T08:17:17.904Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-16T08:17:17.904Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"\",\"firstname\":null,\"fullname\":\"Nguyễn Phong Nhật\",\"joinDate\":1534358298457,\"lastOnline\":\"\",\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":5,\"username\":\"fb-2624138660933456\",\"userslug\":\"fb-2624138660933456\",\"profilePosition\":{\"x\":683,\"y\":305}}","timestamp":"2018-08-16T08:17:18.576Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-16T08:17:37.712Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-08-16T08:29:14.407Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-16T08:29:51.808Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-16T08:29:55.696Z"}
+{"uid":5,"level":"info","message":"middleware.authorized: ","timestamp":"2018-08-16T08:29:56.928Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-08-16T08:29:56.930Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-08-16T08:29:57.241Z"}
+{"level":"info","message":"Userslug: fb-2624138660933456","timestamp":"2018-08-16T08:29:57.241Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-16T08:29:57.241Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-08-16T08:29:57.649Z"}
+{"level":"info","message":"Userslug: fb-2624138660933456","timestamp":"2018-08-16T08:29:57.649Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-08-16T08:29:57.649Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"\",\"firstname\":null,\"fullname\":\"Nguyễn Phong Nhật\",\"joinDate\":1534358298457,\"lastOnline\":\"\",\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":5,\"username\":\"fb-2624138660933456\",\"userslug\":\"fb-2624138660933456\",\"profilePosition\":{\"x\":683,\"y\":305}}","timestamp":"2018-08-16T08:29:57.954Z"}

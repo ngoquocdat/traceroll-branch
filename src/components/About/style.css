@@ -1,0 +1,127 @@
+#about #about_wrapper {
+  width: 42%;
+  height: auto; }
+  #about #about_wrapper p {
+    color: #080808;
+    font-size: 18px;
+    margin-bottom: 25px; }
+  #about #about_wrapper h1 {
+    margin-top: 45px;
+    line-height: 39px;
+    margin-bottom: 25px; }
+  #about #about_wrapper h1:first-child {
+    margin-top: 0px; }
+  #about #about_wrapper .caption {
+    text-align: center; }
+  #about #about_wrapper .caption-no-center {
+    text-align: left; }
+  #about #about_wrapper .caption, #about #about_wrapper .caption-no-center {
+    color: #6a6a6a;
+    font-size: 14px;
+    font-style: italic;
+    margin-bottom: 5px; }
+    #about #about_wrapper .caption.first, #about #about_wrapper .caption-no-center.first {
+      color: #080808; }
+  #about #about_wrapper img {
+    display: block;
+    margin: 0 auto 2%; }
+    #about #about_wrapper img.about-logo {
+      margin-bottom: 25px; }
+
+#privacy_wrapper, #terms_wrapper {
+  width: 45%; }
+
+#privacy_wrapper, #terms_wrapper {
+  height: 400px;
+  overflow: scroll; }
+  #privacy_wrapper h3, #terms_wrapper h3 {
+    font-size: 20px;
+    font-weight: bold; }
+
+#about_wrapper, #privacy_wrapper, #terms_wrapper {
+  background-color: white;
+  border-radius: 3px;
+  position: relative;
+  /* needed for footer positioning*/
+  min-height: 100%;
+  box-shadow: 0 8px 15px 0 rgba(0, 0, 0, 0.16);
+  padding: 2vw;
+  margin: 0 auto 6%; }
+  #about_wrapper a, #privacy_wrapper a, #terms_wrapper a {
+    text-decoration: underline;
+    color: inherit; }
+  #about_wrapper img, #privacy_wrapper img, #terms_wrapper img {
+    margin: 8px 8px 0; }
+    #about_wrapper img:first-of-type, #privacy_wrapper img:first-of-type, #terms_wrapper img:first-of-type {
+      margin: 8px 8px 0 0; }
+  body.background {
+    height: auto;
+    background-image: url(/img/login/bg2.jpg);
+    font-family: "AvenirNext-Regular", Helvetica;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    /* needed for container min-height */ }
+    body.background p {
+      font-weight: lighter; }
+
+body.background.about_body {
+  background-size: contain; }
+
+body.background {
+  background-size: cover; }
+
+#about div.footer_content, #privacy div.footer_content, #terms div.footer_content {
+  bottom: 0;
+  /* stick to bottom */
+  padding: 3% 1% 1%;
+  position: relative;
+  width: 100%; }
+
+#about p, #privacy p, #terms p {
+  font-weight: normal; }
+
+#about h1, #privacy h1, #terms h1 {
+  margin-top: 0px;
+  font-weight: bold;
+  color: #080808; }
+
+#about #home-button, #privacy #home-button, #terms #home-button {
+  margin: 1%; }
+
+#about .buttons a, #privacy .buttons a, #terms .buttons a {
+  color: white; }
+  #about .buttons a:hover, #privacy .buttons a:hover, #terms .buttons a:hover {
+    border-bottom: 1px solid #fff; }
+
+#about .buttons .login, #privacy .buttons .login, #terms .buttons .login {
+  background-color: transparent;
+  border: 1px solid white; }
+
+@media only screen and (max-width: 1000px) {
+  #about div#about_wrapper, #about div#privacy_wrapper, #about div#terms_wrapper, #privacy div#about_wrapper, #privacy div#privacy_wrapper, #privacy div#terms_wrapper, #terms div#about_wrapper, #terms div#privacy_wrapper, #terms div#terms_wrapper {
+    width: 55%;
+    margin-top: 5%; } }
+
+@media only screen and (max-width: 768px) {
+  #about div#about_wrapper, #about div#privacy_wrapper, #about div#terms_wrapper, #privacy div#about_wrapper, #privacy div#privacy_wrapper, #privacy div#terms_wrapper, #terms div#about_wrapper, #terms div#privacy_wrapper, #terms div#terms_wrapper {
+    width: 65%;
+    margin-top: 8%; } }
+
+@media only screen and (max-width: 640px) {
+  #about div#about_wrapper, #about div#privacy_wrapper, #about div#terms_wrapper, #privacy div#about_wrapper, #privacy div#privacy_wrapper, #privacy div#terms_wrapper, #terms div#about_wrapper, #terms div#privacy_wrapper, #terms div#terms_wrapper {
+    width: 80%; }
+    body.background {
+      background-size: contain; } }
+
+@media only screen and (max-width: 420px) {
+  #about div.footer_content, #privacy div.footer_content, #terms div.footer_content {
+    padding-top: 10%; }
+  #about div#about_wrapper, #about div#privacy_wrapper, #about div#terms_wrapper, #privacy div#about_wrapper, #privacy div#privacy_wrapper, #privacy div#terms_wrapper, #terms div#about_wrapper, #terms div#privacy_wrapper, #terms div#terms_wrapper {
+    margin-top: 2vh;
+    padding: 3vw;
+    width: 75%; }
+    #about div#about_wrapper h1, #about div#privacy_wrapper h1, #about div#terms_wrapper h1, #privacy div#about_wrapper h1, #privacy div#privacy_wrapper h1, #privacy div#terms_wrapper h1, #terms div#about_wrapper h1, #terms div#privacy_wrapper h1, #terms div#terms_wrapper h1 {
+      font-size: 30px; }
+  #home-button {
+    display: none; } }

@@ -1,0 +1,27 @@
+.footer_wrapper.wrapper {
+  padding: 0;
+  text-align: center; }
+
+.footer_content_wrapper {
+  background-color: #151515;
+  padding-top: 9vh; }
+
+.footer_wrapper .sub-headline {
+  margin-bottom: 10vh;
+  letter-spacing: 1px;
+  color: #ffffff;
+  font-weight: lighter;
+  font-size: 22px;
+  font-style: italic;
+  line-height: 1.45;
+  text-align: center; }
+
+#whiteboard {
+  width: 60%; }
+
+@media only screen and (max-width: 700px) {
+  #whiteboard {
+    width: 90%; }
+  .footer_content_wrapper {
+    padding-left: 5vw;
+    padding-right: 5vw; } }

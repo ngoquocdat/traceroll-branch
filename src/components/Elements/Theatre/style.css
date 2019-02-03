@@ -1,0 +1,63 @@
+#myCarousel .carousel-control {
+  width: 8%; }
+
+#myCarousel .image-slide {
+  border-radius: 2px; }
+
+#myCarousel .creator-profile {
+  display: inline-block;
+  border-radius: 50px;
+  margin-left: 10px; }
+
+.frame {
+  display: table !important;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding: 0px;
+  height: 100%;
+  word-break: break-all;
+  padding: 10px; }
+  .frame img, .frame video {
+    max-height: 100%;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto; }
+  .frame h3 {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center; }
+
+.user-name {
+  display: inline-block;
+  vertical-align: middle; }
+
+.userNameTheatre {
+  font-family: "AvenirNext-Regular", Helvetica;
+  color: #464646; }
+
+.userNameTheatre:hover {
+  text-decoration: none;
+  color: #ffbb00; }
+
+.time {
+  display: inline-block;
+  text-align: right;
+  position: absolute;
+  right: 0;
+  top: 6px; }
+  .time a {
+    color: #464646;
+    font-weight: normal;
+    font-family: "AvenirNext-Regular", Helvetica; }
+
+@media screen and (max-width: 1199px) {
+  #myCarousel .col-lg-8 {
+    width: 100%; } }

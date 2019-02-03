@@ -1,0 +1,15 @@
+<svg id="Group_719" data-name="Group 719" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45.166 45.165">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5f5f5f;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <ellipse id="Ellipse_77" data-name="Ellipse 77" class="cls-1" cx="22.583" cy="22.583" rx="22.583" ry="22.583" transform="translate(0 0)"/>
+  <path id="home_fill" class="cls-2" d="M47.377,61.453h6.018V48.3l-8.747-9.8L35.9,48.3V61.453h6.018V54.878h5.459Z" transform="translate(-21.981 -28.834)"/>
+</svg>

@@ -1,0 +1,36 @@
+/* Styling for Canvas section on the homepage */
+
+#canvas {
+  padding: 14vh 0 0;
+}
+
+.canvas_content_wrapper {
+  &.wrapper {
+    padding: 0;
+  }
+  padding: 0 5vw;
+  text-align: center;
+}
+
+#canvas_top {
+  display: block;
+}
+
+#canvas_bottom {
+  display: none;
+}
+
+@media only screen and (max-width: 540px) {
+  #canvas {
+    padding: 5vh 0 0;
+  }
+}
+
+@media only screen and (max-width: 492px) {
+  #canvas_top {
+    display: none;
+  }
+  #canvas_bottom {
+    display: block;
+  }
+}

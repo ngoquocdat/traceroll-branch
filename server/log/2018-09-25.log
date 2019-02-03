@@ -1,0 +1,269 @@
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-25T01:56:18.843Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-25T02:04:31.822Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T02:08:41.221Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T02:08:48.369Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T02:08:51.591Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T02:23:07.597Z"}
+{"uid":67,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T02:23:10.897Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-25T02:23:11.500Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-25T02:23:11.500Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-25T02:23:11.501Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T02:23:22.807Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T02:23:22.904Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T02:23:22.947Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T02:26:08.181Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T02:26:12.449Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T02:35:00.881Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T02:35:01.057Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T02:35:01.528Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T02:35:02.913Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T02:35:40.037Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T02:35:41.425Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T02:37:22.650Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T02:37:23.152Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-25T03:13:20.765Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-25T03:17:13.076Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-25T03:17:24.325Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-25T03:27:29.400Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T03:30:47.698Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T03:30:48.830Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T03:30:50.082Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T03:30:51.275Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T03:31:07.172Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T03:31:08.532Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T03:31:29.538Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T03:31:33.598Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T03:31:33.664Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T03:31:34.086Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T03:31:35.613Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T03:31:39.216Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T03:31:40.656Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-25T03:55:36.639Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:17:33.590Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:17:34.171Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:17:39.728Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:18:18.876Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:18:19.414Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:18:44.691Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:18:45.203Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:19:16.071Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:20:08.456Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:20:09.866Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:20:09.990Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:20:10.406Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:20:12.635Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:20:49.300Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:20:51.338Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:21:07.489Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:21:07.788Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-25T04:21:07.993Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-25T04:21:07.993Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-25T04:21:07.993Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:21:17.315Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:21:19.490Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:21:22.171Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:21:24.411Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:21:28.572Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:21:30.382Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:21:33.614Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:21:35.437Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:22:00.423Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:22:19.510Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-25T04:24:31.299Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:28:17.777Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-25T04:28:18.278Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-25T04:28:18.278Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-25T04:28:18.278Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:28:29.009Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:28:29.010Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:28:29.028Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:28:29.034Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:28:35.645Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:28:41.107Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:28:41.631Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:28:48.567Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-25T04:28:49.065Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-25T04:28:49.065Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-25T04:28:49.065Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:28:53.679Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:28:53.681Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:28:53.682Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:28:53.684Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:29:03.029Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:29:04.128Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:29:04.129Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-25T04:29:04.647Z"}
+{"level":"info","message":"Userslug: darushima","timestamp":"2018-09-25T04:29:04.647Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-25T04:29:04.647Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-25T04:29:04.658Z"}
+{"level":"info","message":"Userslug: darushima","timestamp":"2018-09-25T04:29:04.658Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-25T04:29:04.658Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"nhoxrualoxchox_193@yahoo.com\",\"fbID\":\"1450053795129698\",\"firstname\":null,\"fullname\":\"Quocdat Ngo\",\"joinDate\":1537849201114,\"lastOnline\":1537849250066,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$soWOGgdpskpXTBqJ5owbq.LcIEABwISZ5XM6Xv9EVZjzxnbwJYBlu\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/9ebb36e492078ad37f765ce15fcc136b?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":83,\"username\":\"darushima\",\"userslug\":\"darushima\"}","timestamp":"2018-09-25T04:29:05.172Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:29:05.959Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:29:08.610Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-25T04:29:09.128Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-25T04:29:09.128Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-25T04:29:09.128Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:29:14.018Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:29:14.019Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:29:14.021Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:29:14.023Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-25T04:39:11.579Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:40:07.941Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:40:14.357Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:40:16.286Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:40:16.808Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-25T04:46:46.247Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:54:48.990Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:54:49.845Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:55:33.781Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-25T04:56:06.280Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:56:08.475Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:56:08.928Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:56:09.451Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:56:11.200Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:56:18.049Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:56:19.684Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T04:56:23.669Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:56:23.708Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:56:24.185Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:56:25.699Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-25T04:57:28.733Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:57:38.152Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:57:39.713Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:57:49.073Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T04:57:50.255Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-25T04:59:50.898Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-25T05:22:48.278Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T05:27:07.476Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T05:27:08.652Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T05:27:12.272Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-25T05:36:20.888Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-25T07:02:18.956Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:05:02.638Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:05:03.212Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:05:32.647Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:05:35.750Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:06:14.746Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:06:14.749Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:06:15.464Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:06:17.221Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-25T07:09:44.617Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:09:48.503Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:09:49.497Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:09:50.775Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:09:52.260Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:09:56.501Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:09:58.426Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:10:04.008Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:10:04.315Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-25T07:10:04.487Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-25T07:10:04.487Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-25T07:10:04.487Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:10:13.868Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:10:13.887Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:10:13.888Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:10:13.929Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:10:19.746Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:11:52.815Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:11:53.104Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-25T07:11:53.330Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-25T07:11:53.330Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-25T07:11:53.330Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:11:57.863Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:11:59.779Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:12:00.053Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-25T07:12:00.282Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-25T07:12:00.282Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-25T07:12:00.282Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:12:03.186Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:12:03.187Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:12:03.189Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:12:03.202Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:12:13.746Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:12:23.095Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:12:23.399Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-25T07:12:23.599Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-25T07:12:23.600Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-25T07:12:23.600Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:12:26.784Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:12:26.806Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:12:26.816Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:12:26.822Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:12:28.669Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:12:31.632Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:12:37.042Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:12:37.047Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-25T07:12:37.552Z"}
+{"level":"info","message":"Userslug: darushima","timestamp":"2018-09-25T07:12:37.553Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-25T07:12:37.553Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-25T07:12:37.573Z"}
+{"level":"info","message":"Userslug: darushima","timestamp":"2018-09-25T07:12:37.573Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-25T07:12:37.573Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"nhoxrualoxchox_193@yahoo.com\",\"fbID\":\"1450053795129698\",\"firstname\":null,\"fullname\":\"Quocdat Ngo\",\"joinDate\":1537849201114,\"lastOnline\":1537849250066,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$soWOGgdpskpXTBqJ5owbq.LcIEABwISZ5XM6Xv9EVZjzxnbwJYBlu\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/9ebb36e492078ad37f765ce15fcc136b?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"offline\",\"userId\":83,\"username\":\"darushima\",\"userslug\":\"darushima\",\"profilePosition\":{\"x\":680,\"y\":307.5}}","timestamp":"2018-09-25T07:12:38.053Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:16:11.580Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:16:11.876Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-25T07:16:12.129Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-25T07:16:12.129Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-25T07:16:12.129Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:16:14.229Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:16:41.782Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-25T07:16:47.033Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:16:57.414Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:17:00.535Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:17:42.951Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:17:43.221Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-25T07:17:43.486Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-25T07:17:43.486Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-25T07:17:43.486Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:17:52.663Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:17:52.665Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:17:52.668Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:17:52.674Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:21:22.153Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:36:37.065Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:36:37.116Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:36:50.702Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:36:52.733Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-25T07:40:29.544Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:41:26.554Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:41:26.604Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:41:32.627Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:41:34.678Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:44:45.211Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:44:45.735Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:50:56.180Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:54:18.080Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:54:18.171Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:54:23.251Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:54:24.569Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:54:29.587Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:54:29.678Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:54:33.834Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:54:35.998Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:54:38.177Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:54:38.283Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:54:40.357Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:54:42.583Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:54:46.356Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:54:48.345Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:56:01.395Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:56:01.706Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-25T07:56:01.927Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-25T07:56:01.927Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-25T07:56:01.928Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:56:07.833Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:56:07.837Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:56:07.859Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T07:56:07.894Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T07:56:11.011Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T08:04:02.255Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-25T08:04:04.496Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T08:04:21.052Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-25T08:04:21.552Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-25T08:04:21.552Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-25T08:04:21.552Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T08:04:24.745Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T08:04:24.748Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T08:04:24.758Z"}
+{"uid":83,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-25T08:04:24.760Z"}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 482.4 252" style="enable-background:new 0 0 482.4 252;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1C1C1C;}
+	.st1{fill:none;}
+	.st2{font-family:'AvenirNext-Bold';}
+	.st3{font-size:150px;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M446.4,9c14.9,0,27,12.1,27,27v180c0,14.9-12.1,27-27,27H36c-14.9,0-27-12.1-27-27V36C9,21.1,21.1,9,36,9
+			H446.4 M446.4,0H36C16.2,0,0,16.2,0,36v180c0,19.8,16.2,36,36,36h410.4c19.8,0,36-16.2,36-36V36C482.4,16.2,466.2,0,446.4,0
+			L446.4,0z"/>
+	</g>
+</g>
+<rect x="66.7" y="66" class="st1" width="349" height="120"/>
+<text transform="matrix(1 0 0 1 66.7 179.3994)" class="st0 st2 st3">Save</text>
+</svg>

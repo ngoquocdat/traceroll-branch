@@ -1,0 +1,9 @@
+#notfound {
+  margin: 10vh auto 0;
+  text-align: left;
+  width: 50%; }
+  #notfound h1 {
+    color: #FBC305; }
+  #notfound .notfound-image {
+    display: block;
+    margin: 0 auto; }

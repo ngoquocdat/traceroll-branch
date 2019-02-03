@@ -1,0 +1,251 @@
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-17T04:43:18.839Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T04:55:15.253Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T04:55:15.789Z"}
+{"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T06:54:51.530Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T06:54:52.041Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T07:26:00.048Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:26:01.477Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:26:01.482Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-17T07:26:01.968Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T07:26:01.968Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T07:26:01.968Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-17T07:26:01.984Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T07:26:01.984Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T07:26:01.984Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"shiini@gmail.com\",\"firstname\":null,\"fullname\":\"shiini\",\"joinDate\":1537169114266,\"lastOnline\":1537169160808,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$znsRxBkJGwBfly/wy0eQmeTl5jpdjAW4lQi/4ejvkGZQ5g0nd8qau\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/12b43a31418d6fb51e23a0f3f10bd138?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":49,\"username\":\"shiini\",\"userslug\":\"shiini\"}","timestamp":"2018-09-17T07:26:02.480Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:26:03.366Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:39:50.117Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:39:51.387Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T07:39:51.924Z"}
+{"level":"info","message":"Data: {\"ownerid\":49,\"uid\":49,\"content\":\"http://localhost:9000/img/uploads/file-1537169990645.gif\",\"caption\":\"\",\"stage\":{\"x\":843,\"y\":236,\"width\":289.08296943231437,\"height\":200}}","timestamp":"2018-09-17T07:39:51.924Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:39:59.798Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T07:40:00.302Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537169991925\",\"content\":\"http://localhost:9000/img/uploads/file-1537169990645.gif\",\"stage\":{\"x\":211,\"y\":140,\"width\":289.08296943231437,\"height\":200}}","timestamp":"2018-09-17T07:40:00.302Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:44:47.729Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T07:44:48.216Z"}
+{"level":"info","message":"Data: {\"ownerid\":49,\"uid\":49,\"content\":\"https://i.gifer.com/7qP.gif\",\"caption\":\"\",\"stage\":{\"x\":843,\"y\":236,\"width\":308.62068965517244,\"height\":200}}","timestamp":"2018-09-17T07:44:48.216Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:44:55.242Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-17T07:44:55.742Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537170288231\"}","timestamp":"2018-09-17T07:44:55.742Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T07:50:40.693Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:50:42.086Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:50:42.088Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-17T07:50:42.585Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T07:50:42.585Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T07:50:42.585Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-17T07:50:42.585Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T07:50:42.585Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T07:50:42.585Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"shiini@gmail.com\",\"firstname\":null,\"fullname\":\"shiini\",\"joinDate\":1537169114266,\"lastOnline\":1537170641454,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$znsRxBkJGwBfly/wy0eQmeTl5jpdjAW4lQi/4ejvkGZQ5g0nd8qau\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/12b43a31418d6fb51e23a0f3f10bd138?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":49,\"username\":\"shiini\",\"userslug\":\"shiini\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-17T07:50:43.088Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:53:32.635Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-17T07:53:33.141Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537169991925\"}","timestamp":"2018-09-17T07:53:33.141Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:54:39.100Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T07:54:39.614Z"}
+{"level":"info","message":"Data: {\"ownerid\":49,\"uid\":49,\"content\":\"https://i.gifer.com/3BFA.gif\",\"caption\":\"dawda\",\"stage\":{\"x\":843,\"y\":236,\"width\":272.3404255319149,\"height\":200}}","timestamp":"2018-09-17T07:54:39.614Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:54:42.480Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T07:54:42.985Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537170879614\",\"content\":\"https://i.gifer.com/3BFA.gif\",\"stage\":{\"x\":247,\"y\":148,\"width\":272.3404255319149,\"height\":200}}","timestamp":"2018-09-17T07:54:42.985Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:54:51.317Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-17T07:54:51.822Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537170879614\"}","timestamp":"2018-09-17T07:54:51.822Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T07:54:52.573Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:54:55.114Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:54:55.122Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-17T07:54:55.620Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T07:54:55.620Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T07:54:55.620Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-17T07:54:55.628Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T07:54:55.628Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T07:54:55.628Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"shiini@gmail.com\",\"firstname\":null,\"fullname\":\"shiini\",\"joinDate\":1537169114266,\"lastOnline\":1537170641454,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$znsRxBkJGwBfly/wy0eQmeTl5jpdjAW4lQi/4ejvkGZQ5g0nd8qau\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/12b43a31418d6fb51e23a0f3f10bd138?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":49,\"username\":\"shiini\",\"userslug\":\"shiini\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-17T07:54:56.109Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T07:54:59.920Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:55:01.109Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:55:01.111Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-17T07:55:01.612Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T07:55:01.612Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T07:55:01.612Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-17T07:55:01.616Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T07:55:01.616Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T07:55:01.616Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"shiini@gmail.com\",\"firstname\":null,\"fullname\":\"shiini\",\"joinDate\":1537169114266,\"lastOnline\":1537170641454,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$znsRxBkJGwBfly/wy0eQmeTl5jpdjAW4lQi/4ejvkGZQ5g0nd8qau\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/12b43a31418d6fb51e23a0f3f10bd138?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":49,\"username\":\"shiini\",\"userslug\":\"shiini\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-17T07:55:02.114Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:55:12.524Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T07:55:13.027Z"}
+{"level":"info","message":"Data: {\"ownerid\":49,\"uid\":49,\"content\":\"https://i.gifer.com/3BFA.gif\",\"caption\":\"\",\"stage\":{\"x\":843,\"y\":236,\"width\":272.3404255319149,\"height\":200}}","timestamp":"2018-09-17T07:55:13.027Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:55:15.880Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T07:55:16.385Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537170913027\",\"content\":\"https://i.gifer.com/3BFA.gif\",\"stage\":{\"x\":527,\"y\":3.9375,\"width\":588.3404255319149,\"height\":432.0625}}","timestamp":"2018-09-17T07:55:16.385Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:55:16.542Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T07:55:17.040Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537170913027\",\"content\":\"https://i.gifer.com/3BFA.gif\",\"stage\":{\"x\":193,\"y\":439.9375,\"width\":588.3404255319149,\"height\":432.0625}}","timestamp":"2018-09-17T07:55:17.040Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:55:19.023Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-17T07:55:19.513Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537170913027\"}","timestamp":"2018-09-17T07:55:19.513Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T07:55:20.136Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:55:22.398Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:55:22.446Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-17T07:55:22.901Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T07:55:22.901Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T07:55:22.901Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-17T07:55:22.955Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T07:55:22.955Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T07:55:22.955Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"shiini@gmail.com\",\"firstname\":null,\"fullname\":\"shiini\",\"joinDate\":1537169114266,\"lastOnline\":1537170641454,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$znsRxBkJGwBfly/wy0eQmeTl5jpdjAW4lQi/4ejvkGZQ5g0nd8qau\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/12b43a31418d6fb51e23a0f3f10bd138?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":49,\"username\":\"shiini\",\"userslug\":\"shiini\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-17T07:55:23.384Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T07:55:27.731Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:55:28.913Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:55:28.914Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-17T07:55:29.407Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T07:55:29.407Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T07:55:29.407Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-17T07:55:29.418Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T07:55:29.418Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T07:55:29.418Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"shiini@gmail.com\",\"firstname\":null,\"fullname\":\"shiini\",\"joinDate\":1537169114266,\"lastOnline\":1537170641454,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$znsRxBkJGwBfly/wy0eQmeTl5jpdjAW4lQi/4ejvkGZQ5g0nd8qau\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/12b43a31418d6fb51e23a0f3f10bd138?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":49,\"username\":\"shiini\",\"userslug\":\"shiini\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-17T07:55:29.909Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:55:38.495Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T07:55:38.988Z"}
+{"level":"info","message":"Data: {\"ownerid\":49,\"uid\":49,\"content\":\"https://i.gifer.com/3BFA.gif\",\"caption\":\"\",\"stage\":{\"x\":843,\"y\":236,\"width\":272.3404255319149,\"height\":200}}","timestamp":"2018-09-17T07:55:38.988Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:55:42.012Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T07:55:42.517Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537170938989\",\"content\":\"https://i.gifer.com/3BFA.gif\",\"stage\":{\"x\":244,\"y\":280,\"width\":272.3404255319149,\"height\":200}}","timestamp":"2018-09-17T07:55:42.517Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:55:44.599Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-17T07:55:45.105Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537170938989\"}","timestamp":"2018-09-17T07:55:45.106Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:55:50.588Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T07:55:51.095Z"}
+{"level":"info","message":"Data: {\"ownerid\":49,\"uid\":49,\"content\":\"https://i.gifer.com/3BFA.gif\",\"caption\":\"\",\"stage\":{\"x\":843,\"y\":236,\"width\":272.3404255319149,\"height\":200}}","timestamp":"2018-09-17T07:55:51.095Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:55:52.926Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T07:55:53.427Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537170951095\",\"content\":\"https://i.gifer.com/3BFA.gif\",\"stage\":{\"x\":676,\"y\":459,\"width\":272.3404255319149,\"height\":200}}","timestamp":"2018-09-17T07:55:53.427Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:55:54.709Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T07:55:55.215Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537170951095\",\"content\":\"https://i.gifer.com/3BFA.gif\",\"stage\":{\"x\":315,\"y\":193.890625,\"width\":633.3404255319149,\"height\":465.109375}}","timestamp":"2018-09-17T07:55:55.215Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:55:55.972Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T07:55:56.480Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537170951095\",\"content\":\"https://i.gifer.com/3BFA.gif\",\"stage\":{\"x\":-50,\"y\":59.890625,\"width\":633.3404255319149,\"height\":465.109375}}","timestamp":"2018-09-17T07:55:56.480Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:55:56.833Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T07:55:57.329Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537170951095\",\"content\":\"https://i.gifer.com/3BFA.gif\",\"stage\":{\"x\":-52,\"y\":246.890625,\"width\":633.3404255319149,\"height\":465.109375}}","timestamp":"2018-09-17T07:55:57.329Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:55:58.556Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-17T07:55:59.066Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537170951095\"}","timestamp":"2018-09-17T07:55:59.066Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T07:55:59.797Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:56:01.746Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-17T07:56:02.285Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-17T07:56:02.285Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-17T07:56:02.285Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T07:56:10.511Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:56:11.649Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-17T07:56:12.165Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-17T07:56:12.165Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-17T07:56:12.165Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T07:56:16.605Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:56:17.775Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T07:56:17.783Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-17T07:56:18.285Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T07:56:18.285Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T07:56:18.285Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-17T07:56:18.298Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T07:56:18.298Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T07:56:18.298Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"shiini@gmail.com\",\"firstname\":null,\"fullname\":\"shiini\",\"joinDate\":1537169114266,\"lastOnline\":1537170961598,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$znsRxBkJGwBfly/wy0eQmeTl5jpdjAW4lQi/4ejvkGZQ5g0nd8qau\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/12b43a31418d6fb51e23a0f3f10bd138?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":49,\"username\":\"shiini\",\"userslug\":\"shiini\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-17T07:56:18.817Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T08:01:01.107Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T08:01:02.264Z"}
+{"level":"info","message":"Getting newsfeed","timestamp":"2018-09-17T08:01:02.789Z"}
+{"level":"info","message":"offset: undefined","timestamp":"2018-09-17T08:01:02.789Z"}
+{"level":"info","message":"current page size: 10","timestamp":"2018-09-17T08:01:02.789Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T08:07:03.512Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T08:07:04.745Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T08:07:04.750Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-17T08:07:05.235Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T08:07:05.235Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T08:07:05.235Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-17T08:07:05.251Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T08:07:05.251Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T08:07:05.251Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"shiini@gmail.com\",\"firstname\":null,\"fullname\":\"shiini\",\"joinDate\":1537169114266,\"lastOnline\":1537171624271,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$znsRxBkJGwBfly/wy0eQmeTl5jpdjAW4lQi/4ejvkGZQ5g0nd8qau\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/12b43a31418d6fb51e23a0f3f10bd138?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":49,\"username\":\"shiini\",\"userslug\":\"shiini\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-17T08:07:05.742Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T08:07:12.060Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T08:07:13.079Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T08:07:13.595Z"}
+{"level":"info","message":"Data: {\"ownerid\":49,\"uid\":49,\"content\":\"http://localhost:9000/img/uploads/file-1537171632557.gif\",\"caption\":\"\",\"stage\":{\"x\":843,\"y\":236,\"width\":289.08296943231437,\"height\":200}}","timestamp":"2018-09-17T08:07:13.595Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T08:07:16.163Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T08:07:16.671Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537171633595\",\"content\":\"http://localhost:9000/img/uploads/file-1537171632557.gif\",\"stage\":{\"x\":88,\"y\":174,\"width\":289.08296943231437,\"height\":200}}","timestamp":"2018-09-17T08:07:16.672Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T08:07:25.489Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T08:11:52.783Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T08:11:54.046Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T08:11:54.346Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T08:11:54.352Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-17T08:11:54.854Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T08:11:54.854Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T08:11:54.854Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-17T08:11:54.868Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T08:11:54.868Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T08:11:54.868Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"shiini@gmail.com\",\"firstname\":null,\"fullname\":\"shiini\",\"joinDate\":1537169114266,\"lastOnline\":1537171624271,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$znsRxBkJGwBfly/wy0eQmeTl5jpdjAW4lQi/4ejvkGZQ5g0nd8qau\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/12b43a31418d6fb51e23a0f3f10bd138?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":49,\"username\":\"shiini\",\"userslug\":\"shiini\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-17T08:11:55.368Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T08:17:02.746Z"}
+{"level":"info","message":"Deleting element","timestamp":"2018-09-17T08:17:03.254Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537171633595\"}","timestamp":"2018-09-17T08:17:03.255Z"}
+{"level":"info","message":"NODE_ENV = development","timestamp":"2018-09-17T08:17:23.692Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T08:17:33.723Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T08:17:37.501Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T08:17:37.511Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T08:17:37.762Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-17T08:17:37.998Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T08:17:37.998Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T08:17:37.998Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-17T08:17:37.998Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T08:17:37.998Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T08:17:37.998Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"shiini@gmail.com\",\"firstname\":null,\"fullname\":\"shiini\",\"joinDate\":1537169114266,\"lastOnline\":1537172255489,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$znsRxBkJGwBfly/wy0eQmeTl5jpdjAW4lQi/4ejvkGZQ5g0nd8qau\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/12b43a31418d6fb51e23a0f3f10bd138?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":49,\"username\":\"shiini\",\"userslug\":\"shiini\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-17T08:17:38.513Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T08:17:53.609Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T08:17:54.808Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T08:17:55.339Z"}
+{"level":"info","message":"Data: {\"ownerid\":49,\"uid\":49,\"content\":\"http://localhost:9000/img/uploads/file-1537172274106.gif\",\"caption\":\"\",\"stage\":{\"x\":843,\"y\":236,\"width\":289.08296943231437,\"height\":200}}","timestamp":"2018-09-17T08:17:55.339Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T08:49:37.891Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T08:49:39.107Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T08:49:39.371Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T08:49:39.381Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-17T08:49:39.889Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T08:49:39.889Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T08:49:39.889Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-17T08:49:39.892Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T08:49:39.892Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T08:49:39.892Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"shiini@gmail.com\",\"firstname\":null,\"fullname\":\"shiini\",\"joinDate\":1537169114266,\"lastOnline\":1537174178634,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$znsRxBkJGwBfly/wy0eQmeTl5jpdjAW4lQi/4ejvkGZQ5g0nd8qau\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/12b43a31418d6fb51e23a0f3f10bd138?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":49,\"username\":\"shiini\",\"userslug\":\"shiini\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-17T08:49:40.378Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T08:50:02.341Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T08:50:02.858Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537172275339\",\"content\":\"http://localhost:9000/img/uploads/file-1537172274106.gif\",\"stage\":{\"x\":162,\"y\":199,\"width\":289.08296943231437,\"height\":200}}","timestamp":"2018-09-17T08:50:02.858Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T08:50:04.886Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T08:50:05.401Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537172275339\",\"content\":\"http://localhost:9000/img/uploads/file-1537172274106.gif\",\"stage\":{\"x\":162,\"y\":157.48942598187315,\"width\":349.08296943231426,\"height\":241.51057401812685}}","timestamp":"2018-09-17T08:50:05.401Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T09:06:26.037Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T09:06:26.542Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537172275339\",\"content\":\"http://localhost:9000/img/uploads/file-1537172274106.gif\",\"stage\":{\"x\":181,\"y\":222.48942598187315,\"width\":349.08296943231426,\"height\":241.51057401812685}}","timestamp":"2018-09-17T09:06:26.542Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T09:09:27.445Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-17T09:09:27.949Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T09:09:27.949Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T09:09:27.949Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T09:09:34.207Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T09:09:34.719Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537172275339\",\"content\":\"http://localhost:9000/img/uploads/file-1537172274106.gif\",\"stage\":{\"x\":175,\"y\":60.489425981873154,\"width\":349.08296943231426,\"height\":241.51057401812685}}","timestamp":"2018-09-17T09:09:34.720Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T09:09:36.971Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T09:09:37.472Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537172275339\",\"content\":\"http://localhost:9000/img/uploads/file-1537172274106.gif\",\"stage\":{\"x\":175,\"y\":60.489425981873154,\"width\":483.5065502183404,\"height\":334.5105740181268}}","timestamp":"2018-09-17T09:09:37.472Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T09:09:40.548Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T09:09:41.058Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537172275339\",\"content\":\"http://localhost:9000/img/uploads/file-1537172274106.gif\",\"stage\":{\"x\":7,\"y\":60.489425981873154,\"width\":483.5065502183404,\"height\":334.5105740181268}}","timestamp":"2018-09-17T09:09:41.058Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T09:09:43.584Z"}
+{"level":"info","message":"Saving IMAGE element","timestamp":"2018-09-17T09:09:44.086Z"}
+{"level":"info","message":"Data: {\"uid\":49,\"key\":\"element:49-1537172275339\",\"content\":\"http://localhost:9000/img/uploads/file-1537172274106.gif\",\"stage\":{\"x\":44,\"y\":154.48942598187315,\"width\":483.5065502183404,\"height\":334.5105740181268}}","timestamp":"2018-09-17T09:09:44.086Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T09:22:15.355Z"}
+{"level":"info","message":"info getConfig API","timestamp":"2018-09-17T09:22:16.534Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T09:22:16.783Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T09:22:16.796Z"}
+{"level":"info","message":"Getting join date by user","timestamp":"2018-09-17T09:22:17.272Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T09:22:17.272Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T09:22:17.272Z"}
+{"level":"info","message":"Getting element by user","timestamp":"2018-09-17T09:22:17.280Z"}
+{"level":"info","message":"Userslug: shiini","timestamp":"2018-09-17T09:22:17.280Z"}
+{"level":"info","message":"Session user: [object Object]","timestamp":"2018-09-17T09:22:17.280Z"}
+{"level":"info","message":"User data: {\"banned\":0,\"birthday\":\"\",\"email\":\"shiini@gmail.com\",\"firstname\":null,\"fullname\":\"shiini\",\"joinDate\":1537169114266,\"lastOnline\":1537176136122,\"lastResponseTime\":\"\",\"lastname\":null,\"password\":\"$2a$12$znsRxBkJGwBfly/wy0eQmeTl5jpdjAW4lQi/4ejvkGZQ5g0nd8qau\",\"passwordExpiry\":0,\"picture\":\"https://s.gravatar.com/avatar/12b43a31418d6fb51e23a0f3f10bd138?size=128&d=https%3A%2F%2Fs3.amazonaws.com%2Ftraceroll-bucket%2Fprofile%2FProfileAvatar01.png&rating=pg.jpg\",\"profileviews\":0,\"responseCount\":0,\"signature\":\"\",\"status\":\"online\",\"userId\":49,\"username\":\"shiini\",\"userslug\":\"shiini\",\"profilePosition\":{\"x\":680,\"y\":310}}","timestamp":"2018-09-17T09:22:17.760Z"}
+{"uid":49,"level":"info","message":"middleware.authorized: ","timestamp":"2018-09-17T09:29:39.073Z"}

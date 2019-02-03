@@ -1,0 +1,14 @@
+::1 - - [Wed, 26 Sep 2018 17:16:38 GMT] "GET /api/fbauthcallback?code=AQAsBTnno4-ns6bkFo3Kii0FGvws8YHtvkL3s8RYOuTEH7sc0vj31xUyTAJQxIuALM6WWDxXEYJnX3E3DWEgntnAbVNtlQErB-CNnpCHBMiyzXqPyG5TrK1hpOVsq9qp9Torj-_boGzED0lsTd9toEICXDfpeoM91et5W8-l3EUbo0V8TJDItzTL-Fed2ZoU9Fnwr5MgyLn_3f6RMOGCdfRtleImnpIavDW7gzCXYu47R8f5CB6GwO52LS2EhBOgVu0U-jKirVnnLk_Uu-MbDpxOiiDEaBCqLmEi7EKkedMZVkZTQw8sFAUGsDoS1WQDhbW6v1A90HkU2e5_wbDFHSy- HTTP/1.1" 302 56 323.582 ms
+::1 - - [Wed, 26 Sep 2018 17:16:41 GMT] "GET /login HTTP/1.1" 304 - 1868.673 ms
+::1 - - [Thu, 27 Sep 2018 01:23:21 GMT] "GET /api/fbauthcallback?code=AQBL7qLmV65zj-bC1Wy7ZHUzvWrq4Nsx6eQs-oEr6qKPHgG_dkMpmQAsLiTFuX0zmKwy4MnZbTPg8PS_nBsNgUNXqvUf5yTA8b0A25ie6oC4rGhi0-gGy4ciwZtv5adMBCgLvTJo_0Ar46vH6GszO4y1LO5qwCKPQ3PChCekRTmnB_e6EgFtS5Y8qB8r0OuWTPvsv3nWOMZ3Co1VWCO2KG66Hmyud-cGiJ44svxzIn8ao_a_3lLvbG1KH9jyQBFiIw_N6uvKwkApUY8nhIy0fXnKmmQtY6sLvJLvw6qU9G9C5sGTS1mtI2dvC_-1ZG8gmLH5W25jhNDAu2l72759Kz7x HTTP/1.1" 302 56 663.316 ms
+::1 - - [Thu, 27 Sep 2018 01:23:23 GMT] "GET /login HTTP/1.1" 304 - 808.054 ms
+::1 - - [Thu, 27 Sep 2018 02:33:10 GMT] "POST /api/newsfeed/list HTTP/1.1" 401 25 694.510 ms
+::1 - - [Thu, 27 Sep 2018 02:57:38 GMT] "POST /api/newsfeed/list HTTP/1.1" 401 25 504.216 ms
+::1 - - [Thu, 27 Sep 2018 02:58:21 GMT] "POST /api/newsfeed/list HTTP/1.1" 200 261 10205.769 ms
+::1 - - [Thu, 27 Sep 2018 02:58:23 GMT] "POST /api/user/follow-detail HTTP/1.1" 200 465 746.089 ms
+::1 - - [Thu, 27 Sep 2018 02:58:23 GMT] "POST /api/user/follow-detail HTTP/1.1" 200 224 751.849 ms
+::1 - - [Thu, 27 Sep 2018 02:58:23 GMT] "POST /api/user/follow-detail HTTP/1.1" 200 224 754.683 ms
+::1 - - [Thu, 27 Sep 2018 02:58:23 GMT] "POST /api/user/follow-detail HTTP/1.1" 200 224 752.644 ms
+::1 - - [Thu, 27 Sep 2018 02:58:23 GMT] "GET /img/uploads/file-1537953193174.jpg HTTP/1.1" 200 - 802.759 ms
+::1 - - [Thu, 27 Sep 2018 02:58:43 GMT] "POST /api/user/delete HTTP/1.1" 200 14 1527.796 ms
+::1 - - [Thu, 27 Sep 2018 02:58:44 GMT] "POST /logout HTTP/1.1" 200 0 253.172 ms

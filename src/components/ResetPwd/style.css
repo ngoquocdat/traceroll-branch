@@ -1,0 +1,99 @@
+#forgot-password {
+  height: 100vh;
+  width: 100%;
+  background-image: url("/img/login/bg2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat; }
+  #forgot-password #btn-change-passwd, #forgot-password #btnlogin {
+    display: block;
+    height: 30px;
+    background-color: #3897f0;
+    margin: 10px auto 0px;
+    border-radius: 3px;
+    border: 0;
+    color: #fff;
+    font-weight: 600;
+    font-size: 16.56px;
+    letter-spacing: .5px;
+    border-bottom: 2px solid #1d8cc3;
+    width: 100%; }
+  #forgot-password .legal {
+    text-align: center;
+    color: #797979; }
+  #forgot-password .forgot-password_wrapper .loginmodal {
+    border-radius: 5px;
+    background-color: #fff;
+    display: block;
+    left: 0;
+    top: 14vh;
+    margin: 0 auto;
+    height: 400px;
+    position: relative;
+    width: 350px; }
+    #forgot-password .forgot-password_wrapper .loginmodal .signform {
+      padding: 0 5%; }
+  #forgot-password .forgot-password_wrapper .signin {
+    width: 100%;
+    height: 100%; }
+  #forgot-password .forgot-password_wrapper .signform-header {
+    text-align: center;
+    padding: 1%; }
+    #forgot-password .forgot-password_wrapper .signform-header img {
+      display: inline-block; }
+    #forgot-password .forgot-password_wrapper .signform-header h2 {
+      color: #080808;
+      display: inline-block;
+      font-weight: bold;
+      font-size: 35px;
+      font-family: "AvenirNext-Regular", Helvetica;
+      line-height: 1.36;
+      letter-spacing: 1px;
+      margin-bottom: 0px;
+      width: auto; }
+    #forgot-password .forgot-password_wrapper .signform-header h3.sub-headline {
+      color: #676767;
+      display: block;
+      font-size: 19px;
+      margin: -9px 0 10px 68px; }
+  #forgot-password .forgot-password_wrapper #expiration h3 {
+    color: #747474;
+    font-family: "AvenirNext-Regular", Helvetica;
+    font-size: 20px; }
+
+.login_wraper .loginmodal .signform .or_wrap {
+  width: 50%;
+  margin: auto;
+  padding: 10px 0px;
+  color: lightgrey; }
+
+.login_wraper .loginmodal .signform .br, .login_wraper .loginmodal .signform .or {
+  float: left;
+  width: 10%;
+  text-align: center; }
+
+.login_wraper .loginmodal .signform .br {
+  height: 1px;
+  background-color: lightgrey;
+  width: 45%;
+  margin-top: 10px; }
+
+@media only screen and (max-width: 768px) {
+  .login_wraper .loginmodal {
+    width: 100%;
+    left: 0px; } }
+
+@media only screen and (max-width: 767px) {
+  .login_wraper .loginmodal .coverimg {
+    display: none; }
+  .login_wraper .loginmodal {
+    overflow: hidden;
+    width: 90%;
+    left: 5%;
+    background-color: rgba(255, 255, 255, 0.9); }
+  .login_wraper .loginmodal .signup, .login_wraper .loginmodal .signform {
+    width: 100%; }
+  .login_wraper .loginmodal .signup, .login_wraper .loginmodal .signform {
+    animation: fadeInLeft 1s 0s forwards; } }
+
+.show {
+  display: block !important; }

@@ -1,0 +1,25 @@
+$font-stack: 'AvenirNext-Regular', Helvetica;
+$letterspacing-p: 0.5px;
+$letterspacing-h2: 1px;
+$fontCanvas: 'Poppins', Helvetica;
+$lightGray: #464646;
+
+
+@function get-headline($target) {
+//$vw-context: (1920 * 0.01) * 1px;
+@return ($target * 38) * 1px;
+}
+
+@function get-p($target) {
+//$vw-context: (1920 * 0.01) * 1px;
+@return ($target * 15) * 1px;
+}
+
+@function get-height($target) {
+//$vw-context: (1920 * 0.01) * 1px;
+@return ($target * 24) * 1px;
+}
+
+@function intro-image($width) {
+  @return ($width)
+}
