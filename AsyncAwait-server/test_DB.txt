@@ -1,0 +1,17 @@
+Database name: stib_db
+
+Table: stib_users
+Inside stib_users 3 cloumns: id | email | pass
+
+Table: stib_sellorders
+Inside stib_sellorders 12 columns: id | startorder | seller | price | bank | countrycode | region | currency | paymentmethod | minbtc | maxbtc | token
+
+Table: stib_buyorders
+Inside stib_buyorders 10 columns: id | startorder | buyer | price | bank | currency | paymentmethod | minbtc | maxbtc | token
+
+CREATE TABLE stib_users (id INT NOT NULL AUTO_INCREMENT primary key, email varchar(255), pass varchar(255))
+
+CREATE TABLE stib_sellorders (id INT NOT NULL AUTO_INCREMENT primary key, startorder varchar(255), seller varchar(255), price varchar(255), bank varchar(255),
+ countrycode varchar(15), region varchar(20), currency varchar(10), paymentmethod varchar(15), minbtc varchar(10), maxbtc varchar(10), token varchar(255))
+
+CREATE TABLE stib_buyorders (id INT NOT NULL AUTO_INCREMENT primary key, startorder varchar(255), buyer varchar(255), price varchar(255), bank varchar(255), currency varchar(25), paymentmenthod varchar(15), minbtc varchar(10), maxbtc varchar(10), token varchar(255))
